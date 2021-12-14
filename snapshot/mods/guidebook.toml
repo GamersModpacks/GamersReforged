@@ -1,0 +1,13 @@
+name = "Guidebook"
+filename = "Guidebook-1.16.3-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3090/647/Guidebook-1.16.3-3.2.1.jar"
+hash-format = "murmur2"
+hash = "19922709"
+
+[update]
+[update.curseforge]
+file-id = 3090647
+project-id = 253874

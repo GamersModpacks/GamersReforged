@@ -59,6 +59,11 @@ hash = "e8ff585d21438eeaca802cf040574b7f4402379485908003c95ea7f853c750ce"
 metafile = true
 
 [[files]]
+file = "mods/guidebook.toml"
+hash = "02ef9566265a144e40c844f721dd534f55c2fe76cddae173d57a541a0502be3d"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
 metafile = true
