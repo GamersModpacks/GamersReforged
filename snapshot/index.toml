@@ -144,16 +144,6 @@ hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
 metafile = true
 
 [[files]]
-file = "mods/thermal-expansion.toml"
-hash = "d5090f07225a3f69cd8d0a4ef44eee158f986cb717affcec198d0388e6fe7c7d"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.toml"
-hash = "824039213f55bc036b4319c7578872945bcad194548b753928521aa1840b00d3"
-metafile = true
-
-[[files]]
 file = "mods/vampirism-become-a-vampire.toml"
 hash = "f57afaf9061f43d30aa242f446aaf9df710f8bd97cff1c86161c40324453f031"
 metafile = true
