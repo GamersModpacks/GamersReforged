@@ -203,11 +203,6 @@ hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
 
 [[files]]
-file = "mods/rpgstats.toml"
-hash = "31eab6ad362bc9e91112d02fa7e30da5f9d112b5bb59100e8469601aeced6298"
-metafile = true
-
-[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "ef2d040922a12c9286264fc590d839528286377aaca8e874c853ac001806dfa9"
 metafile = true
