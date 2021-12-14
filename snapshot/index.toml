@@ -11,6 +11,11 @@ hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
+metafile = true
+
+[[files]]
 file = "mods/botania.toml"
 hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/curios.toml"
 hash = "69917c1ddf254cab7c2786298571ff6ec32fd5794abcdfcbce761caef8023bbe"
+metafile = true
+
+[[files]]
+file = "mods/darker-loading-screen.toml"
+hash = "4d7725755bb094b35f3a29ab6a8f75173e8f152eb38698779af25d744a42ea86"
 metafile = true
 
 [[files]]
