@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/darkerloadingscreen-client.toml"
-hash = "3fbdbeb202850af972c87baaecf61856a973ac66289ddb5a09e1659d99477dca"
-
-[[files]]
 file = "config/packmenu.cfg"
 hash = "410f44e3ac0502ebe0f134765063c6fb77f6ef3ee0a6ebe1008c8bb7e21368ae"
 
@@ -50,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/cyclic.toml"
 hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
-metafile = true
-
-[[files]]
-file = "mods/darker-loading-screen.toml"
-hash = "4d7725755bb094b35f3a29ab6a8f75173e8f152eb38698779af25d744a42ea86"
 metafile = true
 
 [[files]]
