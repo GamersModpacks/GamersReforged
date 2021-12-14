@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/darkerloadingscreen-client.toml"
-hash = "2f00f650fad6306b0926b1a38dc6da39fe48d7988a7923c42d8b6778c994b7ff"
+hash = "3fbdbeb202850af972c87baaecf61856a973ac66289ddb5a09e1659d99477dca"
 
 [[files]]
 file = "config/packmenu.cfg"
