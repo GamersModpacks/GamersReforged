@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/darkerloadingscreen-client.toml"
+hash = "2f00f650fad6306b0926b1a38dc6da39fe48d7988a7923c42d8b6778c994b7ff"
+
+[[files]]
+file = "config/packmenu.cfg"
+hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
 metafile = true
@@ -71,11 +79,6 @@ hash = "8baa826e37ec6c9706708a64bc478e4e511c4fd5de8d7a3cf420141dff1bc3d0"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.toml"
-hash = "63f44a5589e2ca908c23e342cbefee129f27752f387927b15db856c89e4f42cf"
-metafile = true
-
-[[files]]
 file = "mods/packmenu.toml"
 hash = "999559e7a99f9fbc3eeb23d889da8f12b542cb8910aeadd8eca8933b967cf00c"
 metafile = true
@@ -129,3 +132,43 @@ metafile = true
 file = "mods/thermal-foundation.toml"
 hash = "824039213f55bc036b4319c7578872945bcad194548b753928521aa1840b00d3"
 metafile = true
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
+hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/language.json"
+hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/mods.json"
+hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
+hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/options.json"
+hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/quit.json"
+hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
+hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
+hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
+hash = "97b00b07bfe7cd3bbfe5bc32927ba5b9dfe98eb26e4004ecc64ae092edb04690"
+
+[[files]]
+file = "packmenu/resources/pack.mcmeta"
+hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
