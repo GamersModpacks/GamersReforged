@@ -1,0 +1,13 @@
+name = "Guide-API Village and Pillage"
+filename = "Guide-API-VP-1.16.5-2.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3368/119/Guide-API-VP-1.16.5-2.2.2.jar"
+hash-format = "murmur2"
+hash = "3801162282"
+
+[update]
+[update.curseforge]
+file-id = 3368119
+project-id = 380771
