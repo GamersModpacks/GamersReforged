@@ -13,6 +13,11 @@ file = "defaultconfigs/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
+file = "mods/antique-atlas.toml"
+hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
 metafile = true
@@ -33,8 +38,33 @@ hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.toml"
+hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
+metafile = true
+
+[[files]]
 file = "mods/botania.toml"
 hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
+metafile = true
+
+[[files]]
+file = "mods/chicken-chunks-1-8.toml"
+hash = "f45bc0cc76b1c7a7eb95bcafba42efc018b2de79df5f379f08e72e258cb7f292"
+metafile = true
+
+[[files]]
+file = "mods/citadel.toml"
+hash = "e1c06b486de303676e9b35336db571f1045e8af8612e1351868295ca5ec1d727"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "00d524a05bb039db4fd460241c92e99291516b8c071c34c449cca5405c992da6"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.toml"
+hash = "7c780b75006e821d33d9873839962a1848fe38e94ee7a4908c1bc9ee5edc5b15"
 metafile = true
 
 [[files]]
@@ -43,13 +73,28 @@ hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.toml"
+hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
+metafile = true
+
+[[files]]
 file = "mods/curios.toml"
 hash = "69917c1ddf254cab7c2786298571ff6ec32fd5794abcdfcbce761caef8023bbe"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.toml"
+hash = "dee9adba265de737448a31a1f1f674cb11b606b4244817023e2a1633aa265a2f"
+metafile = true
+
+[[files]]
 file = "mods/cyclic.toml"
 hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
+metafile = true
+
+[[files]]
+file = "mods/enigmatic-legacy.toml"
+hash = "458ccea2b6525d25ca425b2b0950743e79948c40037efee35a58af8cb40bb5ac"
 metafile = true
 
 [[files]]
@@ -68,8 +113,33 @@ hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.toml"
+hash = "a12a7e2eeaea2e2bb75d072bd80e57bb30146c54f46eada797edd567f2c54931"
+metafile = true
+
+[[files]]
+file = "mods/ice-and-fire-dragons.toml"
+hash = "22554998e0c1210389e5dd2a2e805f874435503c431ccbe0b8f4af9b61f5c411"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.toml"
+hash = "ea75886dddd5865f65f0861c5ece905e324f8e3f96f24946bb1f70046bd0f789"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.toml"
+hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "ba896fb1cfeeed3ef071b0d98d5ea0ff92c19cfad543a0be3070519526976114"
 metafile = true
 
 [[files]]
@@ -95,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.toml"
 hash = "6292f5f8fb43163560fefe092ca0545425e429f130e72ffbe7327c360157943d"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
 metafile = true
 
 [[files]]
@@ -128,13 +203,28 @@ hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
 
 [[files]]
+file = "mods/rpgstats.toml"
+hash = "31eab6ad362bc9e91112d02fa7e30da5f9d112b5bb59100e8469601aeced6298"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "ef2d040922a12c9286264fc590d839528286377aaca8e874c853ac001806dfa9"
 metafile = true
 
 [[files]]
+file = "mods/slashblade.toml"
+hash = "3aa1a13bd739ea34f39d08ac8f6e88a632bb4e668c8eda7a10faebb64ab74e4a"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-forge.toml"
 hash = "2e56351521265d4b212cce56d97cacf26e77520ed4c916afacb298a31e751a57"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.toml"
+hash = "b44bd90a6115a44b79fe38ff82b8b08ec8474d74b9f53821972fa3413ce8bfdc"
 metafile = true
 
 [[files]]
@@ -153,6 +243,26 @@ hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
 metafile = true
 
 [[files]]
+file = "mods/switch-bow.toml"
+hash = "e211c13b32b21eae76f900bdee495a60fd654af147c2b6f933a9d2231facef76"
+metafile = true
+
+[[files]]
+file = "mods/the-legend-of-herobrine.toml"
+hash = "fdff04418e2295c70a35a84561f96be8674bf58e3ca3adc28ad7581189a009a1"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "014cdc116f1bce2406ad48177bdf7815a2162c2af0f21edeaaceb827d2cadeb0"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "7c43675e84566b7b6968981ee36d8384333ef26723f33acc8b40cecf44b01eeb"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-become-a-vampire.toml"
 hash = "f57afaf9061f43d30aa242f446aaf9df710f8bd97cff1c86161c40324453f031"
 metafile = true
@@ -160,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/vampirism-integrations.toml"
 hash = "95293aec91f5c247270830444abc413fd4f0c463ee3588b5c84e9ddc313d992a"
+metafile = true
+
+[[files]]
+file = "mods/wawla.toml"
+hash = "ee8a0d30b8c8c7aa6e322537107b3baeb6f272d4a6e1cc5021e0a494b6997942"
 metafile = true
 
 [[files]]
