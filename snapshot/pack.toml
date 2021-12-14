@@ -1,0 +1,13 @@
+name = "GamersReforged"
+author = "Den4enko"
+version = "SNAPSHOT"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "98fe032a32024bff773ffb3cd3acf171ef4c0e1393f1e2000757f349c5bda44c"
+
+[versions]
+forge = "36.2.20"
+minecraft = "1.16.5"

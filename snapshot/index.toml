@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/applied-energistics-2.toml"
+hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "e8ff585d21438eeaca802cf040574b7f4402379485908003c95ea7f853c750ce"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-additions.toml"
+hash = "e6a21790c557be5f844a76f353cc3fd27c594e4915abe456b9a82060aa3b00e1"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.toml"
+hash = "cd3909a3b4fe567aa04c57d183006e6293a894e372758324912c8306d9227cbf"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.toml"
+hash = "9eb6dc785d2b6147b295f5a4a9c67fb62014ab8366951d1a255bb127a8b9ebbb"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "8baa826e37ec6c9706708a64bc478e4e511c4fd5de8d7a3cf420141dff1bc3d0"
+metafile = true
+
+[[files]]
+file = "mods/packmenu.toml"
+hash = "999559e7a99f9fbc3eeb23d889da8f12b542cb8910aeadd8eca8933b967cf00c"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-reforged.toml"
+hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
+metafile = true
+
+[[files]]
+file = "mods/roadrunner.toml"
+hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-forge.toml"
+hash = "2e56351521265d4b212cce56d97cacf26e77520ed4c916afacb298a31e751a57"
+metafile = true
+
+[[files]]
+file = "mods/sodium-reforged.toml"
+hash = "1de386aa56c6b9bc914603d1ada85c625e545478d7156c14b1ab491164379ff2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.toml"
+hash = "7a31fe28a09682bd24dc85fb29d9120090663aa1a668a920349012e15ee58be6"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "d5090f07225a3f69cd8d0a4ef44eee158f986cb717affcec198d0388e6fe7c7d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "824039213f55bc036b4319c7578872945bcad194548b753928521aa1840b00d3"
+metafile = true
