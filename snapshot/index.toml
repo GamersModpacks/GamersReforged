@@ -57,6 +57,11 @@ hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.toml"
+hash = "9b2dff08f47ca6b5a8aede9b5525c9a1bd00aa1f1649599f6f5afcec5a8bc231"
+metafile = true
+
+[[files]]
 file = "mods/chicken-chunks-1-8.toml"
 hash = "f45bc0cc76b1c7a7eb95bcafba42efc018b2de79df5f379f08e72e258cb7f292"
 metafile = true
@@ -102,6 +107,11 @@ hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-legacy.toml"
 hash = "458ccea2b6525d25ca425b2b0950743e79948c40037efee35a58af8cb40bb5ac"
 metafile = true
@@ -114,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/fps-reducer.toml"
 hash = "e8ff585d21438eeaca802cf040574b7f4402379485908003c95ea7f853c750ce"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
 metafile = true
 
 [[files]]
@@ -147,8 +162,18 @@ hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
 metafile = true
 
 [[files]]
+file = "mods/mana-and-artifice.toml"
+hash = "7feaeaf52518e26786c8f7d6bf19aabb7594bb6e8a6612f9c1150887755610dc"
+metafile = true
+
+[[files]]
 file = "mods/mantle.toml"
 hash = "ba896fb1cfeeed3ef071b0d98d5ea0ff92c19cfad543a0be3070519526976114"
+metafile = true
+
+[[files]]
+file = "mods/mcdj.toml"
+hash = "a3e6dd554776708f008d8a6ea163b72323fd872932860d4acc8eea20ae6f58a1"
 metafile = true
 
 [[files]]
