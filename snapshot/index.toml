@@ -9,6 +9,10 @@ file = "config/packmenu.cfg"
 hash = "410f44e3ac0502ebe0f134765063c6fb77f6ef3ee0a6ebe1008c8bb7e21368ae"
 
 [[files]]
+file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
+hash = "f414599c42d0b0176f9115b12852ca04dcfec0f8e2712ac401294df00ee03d70"
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
 metafile = true
