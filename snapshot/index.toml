@@ -9,6 +9,10 @@ file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "f414599c42d0b0176f9115b12852ca04dcfec0f8e2712ac401294df00ee03d70"
 
 [[files]]
+file = "defaultconfigs/iceandfire-client.toml"
+hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
+
+[[files]]
 file = "defaultconfigs/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
