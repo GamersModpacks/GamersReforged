@@ -1,0 +1,13 @@
+name = "SlashBlade"
+filename = "SlashBlade-1.16-0.0.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3422/103/SlashBlade-1.16-0.0.12.jar"
+hash-format = "murmur2"
+hash = "1550278655"
+
+[update]
+[update.curseforge]
+file-id = 3422103
+project-id = 241596

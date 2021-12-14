@@ -1,0 +1,13 @@
+name = "Switch-Bow"
+filename = "switchbow-1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3397/697/switchbow-1.7.jar"
+hash-format = "murmur2"
+hash = "4171094343"
+
+[update]
+[update.curseforge]
+file-id = 3397697
+project-id = 257820

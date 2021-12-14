@@ -1,0 +1,13 @@
+name = "ExtraBotany"
+filename = "ExtraBotany-r1.2-68.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3483/762/ExtraBotany-r1.2-68.jar"
+hash-format = "murmur2"
+hash = "2821564715"
+
+[update]
+[update.curseforge]
+file-id = 3483762
+project-id = 299086
