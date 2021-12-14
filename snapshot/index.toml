@@ -32,6 +32,11 @@ hash = "32a37a19ca391833366d2f669c22188bacf4f06e054b134b88224126bf0eb108"
 metafile = true
 
 [[files]]
+file = "mods/atum.toml"
+hash = "f818fe7eef16f66e93ee9637c81f8e37f28035e02e112ed8d755afa9be0f03ed"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
