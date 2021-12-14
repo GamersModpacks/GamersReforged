@@ -47,6 +47,11 @@ hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
 metafile = true
 
 [[files]]
+file = "mods/block-armor.toml"
+hash = "f0440c64c33fb1047dd2db2ddeb6bf8c1e1a11108176c77f1fc02d590f4ade6a"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.toml"
 hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
 metafile = true
@@ -227,6 +232,11 @@ hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
 metafile = true
 
 [[files]]
+file = "mods/relics-mod.toml"
+hash = "b27989a020f4455e52fb286971c25aabbe271396614a6e2379911f698daed3a6"
+metafile = true
+
+[[files]]
 file = "mods/roadrunner.toml"
 hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
@@ -259,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
 hash = "7a31fe28a09682bd24dc85fb29d9120090663aa1a668a920349012e15ee58be6"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.toml"
+hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
 metafile = true
 
 [[files]]
