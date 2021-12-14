@@ -172,11 +172,6 @@ hash = "ba896fb1cfeeed3ef071b0d98d5ea0ff92c19cfad543a0be3070519526976114"
 metafile = true
 
 [[files]]
-file = "mods/mcdj.toml"
-hash = "a3e6dd554776708f008d8a6ea163b72323fd872932860d4acc8eea20ae6f58a1"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-additions.toml"
 hash = "e6a21790c557be5f844a76f353cc3fd27c594e4915abe456b9a82060aa3b00e1"
 metafile = true
