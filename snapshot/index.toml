@@ -48,6 +48,11 @@ hash = "69917c1ddf254cab7c2786298571ff6ec32fd5794abcdfcbce761caef8023bbe"
 metafile = true
 
 [[files]]
+file = "mods/cyclic.toml"
+hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
+metafile = true
+
+[[files]]
 file = "mods/darker-loading-screen.toml"
 hash = "4d7725755bb094b35f3a29ab6a8f75173e8f152eb38698779af25d744a42ea86"
 metafile = true
