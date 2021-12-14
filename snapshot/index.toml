@@ -112,6 +112,11 @@ hash = "e8ff585d21438eeaca802cf040574b7f4402379485908003c95ea7f853c750ce"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.toml"
+hash = "eac1ccea43d0fc1acc625822e499ad9118ac3e25866a9274d32b77637c1fe711"
+metafile = true
+
+[[files]]
 file = "mods/guide-api-village-and-pillage.toml"
 hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
 metafile = true
