@@ -6,7 +6,7 @@ hash = "2f00f650fad6306b0926b1a38dc6da39fe48d7988a7923c42d8b6778c994b7ff"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+hash = "410f44e3ac0502ebe0f134765063c6fb77f6ef3ee0a6ebe1008c8bb7e21368ae"
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
@@ -134,41 +134,5 @@ hash = "824039213f55bc036b4319c7578872945bcad194548b753928521aa1840b00d3"
 metafile = true
 
 [[files]]
-file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
-hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/language.json"
-hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
-hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/options.json"
-hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/quit.json"
-hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
-hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "97b00b07bfe7cd3bbfe5bc32927ba5b9dfe98eb26e4004ecc64ae092edb04690"
-
-[[files]]
-file = "packmenu/resources/pack.mcmeta"
-hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
+file = "packmenu/resources.zip"
+hash = "907e59c0e01f2bc827c77b8e4271c2129f8b48acb93695d03a075995b603928c"
