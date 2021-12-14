@@ -14,6 +14,11 @@ hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.toml"
+hash = "32a37a19ca391833366d2f669c22188bacf4f06e054b134b88224126bf0eb108"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
@@ -79,6 +84,11 @@ hash = "8baa826e37ec6c9706708a64bc478e4e511c4fd5de8d7a3cf420141dff1bc3d0"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.toml"
+hash = "6292f5f8fb43163560fefe092ca0545425e429f130e72ffbe7327c360157943d"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.toml"
 hash = "999559e7a99f9fbc3eeb23d889da8f12b542cb8910aeadd8eca8933b967cf00c"
 metafile = true
@@ -129,6 +139,11 @@ hash = "7a31fe28a09682bd24dc85fb29d9120090663aa1a668a920349012e15ee58be6"
 metafile = true
 
 [[files]]
+file = "mods/structurize.toml"
+hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.toml"
 hash = "d5090f07225a3f69cd8d0a4ef44eee158f986cb717affcec198d0388e6fe7c7d"
 metafile = true
@@ -136,6 +151,21 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "824039213f55bc036b4319c7578872945bcad194548b753928521aa1840b00d3"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-become-a-vampire.toml"
+hash = "f57afaf9061f43d30aa242f446aaf9df710f8bd97cff1c86161c40324453f031"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.toml"
+hash = "95293aec91f5c247270830444abc413fd4f0c463ee3588b5c84e9ddc313d992a"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.toml"
+hash = "654ec00d47cf45e44b1c0675ff709cbd324c9a65cd23ad08fbb0434527caad4a"
 metafile = true
 
 [[files]]
