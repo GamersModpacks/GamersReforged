@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+hash = "8de8f62a7897eced14c0bd3b0841d93191ad6fc2fdb92e2ea5eb472d088542d4"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "7feaeaf52518e26786c8f7d6bf19aabb7594bb6e8a6612f9c1150887755610dc"
+hash = "7ba121d25930b07043ea20a219d43624132fd9df430f7cc4967f3103ae4adf89"
 metafile = true
 
 [[files]]
@@ -342,12 +342,20 @@ file = "packmenu/resources/assets/packmenu/buttons/options.json"
 hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/buttons/pack.json"
+hash = "03dc09b7e2ed5e5fda1094716e6e418ddfc92c2bad4a570e2c014cdbd0e148fa"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
 hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
 hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/en_us.json"
+hash = "dbfe57e2e787aafe45450629fb244723116b3ea9075f34f83d04f9dcf4329199"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
