@@ -375,6 +375,10 @@ file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
 hash = "b892eedb923e21aee209081f282b577f43ca0d67bc90a0765117dc1da042893e"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
+hash = "c0a17c3fa592833475a1c73c35fe7a08d6aa76357272c0e039d8bdd7b22f0a11"
+
+[[files]]
 file = "packmenu/resources/pack.mcmeta"
 hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
