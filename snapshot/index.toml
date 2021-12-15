@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+hash = "8de8f62a7897eced14c0bd3b0841d93191ad6fc2fdb92e2ea5eb472d088542d4"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
@@ -342,12 +342,20 @@ file = "packmenu/resources/assets/packmenu/buttons/options.json"
 hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/buttons/pack.json"
+hash = "115cd57ffdf594806e51bcfc8dbeed48566ab155a5c5609fb1695140846def5c"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
 hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
 hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/en_us.json"
+hash = "fe44f43bd4ba756c371449c6d9ef98383bf5897244639f476b7099f4fba4dca2"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
