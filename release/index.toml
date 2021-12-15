@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "410f44e3ac0502ebe0f134765063c6fb77f6ef3ee0a6ebe1008c8bb7e21368ae"
+hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "69917c1ddf254cab7c2786298571ff6ec32fd5794abcdfcbce761caef8023bbe"
+hash = "6265759865a98aa49471f65c367fd10175cedf40c063392930a44785ad50a28f"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "6292f5f8fb43163560fefe092ca0545425e429f130e72ffbe7327c360157943d"
+hash = "d0cc0afba99aa547f2f5cfb6e78b50f4bb9345698628b6bca3fc5e32d465860b"
 metafile = true
 
 [[files]]
@@ -322,8 +322,52 @@ hash = "654ec00d47cf45e44b1c0675ff709cbd324c9a65cd23ad08fbb0434527caad4a"
 metafile = true
 
 [[files]]
-file = "packmenu/resources.zip"
-hash = "d5d3c8a4f70d2705e09a13140dc27f5b7824111ed66f92065e1a4ab839307a14"
+file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
+hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/language.json"
+hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/mods.json"
+hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
+hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/options.json"
+hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/quit.json"
+hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
+hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
+hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
+hash = "97b00b07bfe7cd3bbfe5bc32927ba5b9dfe98eb26e4004ecc64ae092edb04690"
+
+[[files]]
+file = "packmenu/resources/pack.mcmeta"
+hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
+
+[[files]]
+file = "packmenu/resources/pack.png"
+hash = "6cd557968e8a49c38359ab451c30801df51d43031bc9e499539a79db09b68db9"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode.zip"
+hash = "f5fb14de69e0783e99ce10eac05e0847225f297fff9da85149f76dbdde4ca452"
 
 [[files]]
 file = "resourcepacks/blynova.zip"
