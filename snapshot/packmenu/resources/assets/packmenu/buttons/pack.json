@@ -1,9 +1,10 @@
 {
-	"x": 75,
-	"y": -100,
-	"width": 50,
+	"x": -80,
+	"y": 0,
+	"width": 160,
 	"height": 20,
 	"action": "OPEN_URL",
 	"data": "https://den4enko.github.io/GamersReforged",
-	"langKey": "gamers.info"
+	"langKey": "gamers.info",
+	"anchor": "TOP_CENTER"
 }
