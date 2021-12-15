@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "69917c1ddf254cab7c2786298571ff6ec32fd5794abcdfcbce761caef8023bbe"
+hash = "6265759865a98aa49471f65c367fd10175cedf40c063392930a44785ad50a28f"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "6292f5f8fb43163560fefe092ca0545425e429f130e72ffbe7327c360157943d"
+hash = "d0cc0afba99aa547f2f5cfb6e78b50f4bb9345698628b6bca3fc5e32d465860b"
 metafile = true
 
 [[files]]
