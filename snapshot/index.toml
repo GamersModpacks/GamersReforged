@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "7feaeaf52518e26786c8f7d6bf19aabb7594bb6e8a6612f9c1150887755610dc"
+hash = "7ba121d25930b07043ea20a219d43624132fd9df430f7cc4967f3103ae4adf89"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "6f245dd7a6cfaf137fb9e229622985f481af69ebb61ead54176a1369f6040e52"
+hash = "3822639797ae0a3ae8912a386dbfb23941c9342caaae383093aa70e9208e8949"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
