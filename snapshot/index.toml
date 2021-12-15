@@ -343,7 +343,7 @@ hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/pack.json"
-hash = "241dbd00761fac774c7a4d81af2de0344db5b1e65c2d9b0018a3ce90847bb289"
+hash = "63bedd5955924fb2167a7d926c7615ec84f55c1330b7b3d9d3c1fdee2a715b35"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
