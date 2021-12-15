@@ -1,10 +1,9 @@
 {
-	"anchor": "BOTTOM_RIGHT",
-	"x": 0,
-	"y": 100,
+	"x": 75,
+	"y": -100,
 	"width": 20,
 	"height": 20,
 	"action": "OPEN_URL",
-	"data": "https://github.com/Den4enko/GamersReforged",
-	"langKey": "pack.info"
+	"data": "https://den4enko.github.io/GamersReforged",
+	"langKey": "gamers.info"
 }

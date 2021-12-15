@@ -343,11 +343,15 @@ hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/pack.json"
-hash = "115cd57ffdf594806e51bcfc8dbeed48566ab155a5c5609fb1695140846def5c"
+hash = "241dbd00761fac774c7a4d81af2de0344db5b1e65c2d9b0018a3ce90847bb289"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
 hash = "b8b8a955950b28a78f7f4783231693be293a3eb1537412c42e9b65e0bfe40200"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/buttons/reloadbutton.json"
+hash = "e2e094afa3a1daab0ba3e0945c094c46ddab02751d4d662821a3d87b1b59bafe"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
@@ -355,7 +359,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "fe44f43bd4ba756c371449c6d9ef98383bf5897244639f476b7099f4fba4dca2"
+hash = "6f245dd7a6cfaf137fb9e229622985f481af69ebb61ead54176a1369f6040e52"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
