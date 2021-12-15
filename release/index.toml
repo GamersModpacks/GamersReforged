@@ -152,6 +152,11 @@ hash = "a12a7e2eeaea2e2bb75d072bd80e57bb30146c54f46eada797edd567f2c54931"
 metafile = true
 
 [[files]]
+file = "mods/ice-and-fire-dragons.toml"
+hash = "22554998e0c1210389e5dd2a2e805f874435503c431ccbe0b8f4af9b61f5c411"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.toml"
 hash = "ea75886dddd5865f65f0861c5ece905e324f8e3f96f24946bb1f70046bd0f789"
 metafile = true
@@ -355,7 +360,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "dbfe57e2e787aafe45450629fb244723116b3ea9075f34f83d04f9dcf4329199"
+hash = "6f245dd7a6cfaf137fb9e229622985f481af69ebb61ead54176a1369f6040e52"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -363,7 +368,7 @@ hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "97b00b07bfe7cd3bbfe5bc32927ba5b9dfe98eb26e4004ecc64ae092edb04690"
+hash = "b892eedb923e21aee209081f282b577f43ca0d67bc90a0765117dc1da042893e"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
@@ -379,8 +384,8 @@ hash = "f5fb14de69e0783e99ce10eac05e0847225f297fff9da85149f76dbdde4ca452"
 
 [[files]]
 file = "resourcepacks/blynova.zip"
-hash = "3b9575e7a445d5b8f8638c24aeaa31e6c3ef9883d6c060d82539fc174a522f73"
+hash = "9f3e840659eaf3b5a40f8673e81639bd85b59d4edafe63d3a706d8e767277157"
 
 [[files]]
 file = "resourcepacks/ghoul.zip"
-hash = "6a6a6d4ac027ec015ca03cbfafaf39a37915543ce116163642b6390323fe61ca"
+hash = "245c0e2692e09942613cc3026a3a5f3c39e84459cbdcfb652df6e87e20cd06de"
