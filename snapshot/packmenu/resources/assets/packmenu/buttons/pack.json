@@ -4,7 +4,7 @@
 	"width": 160,
 	"height": 20,
 	"action": "OPEN_URL",
-	"data": "https://den4enko.github.io/GamersReforged",
+	"data": "https://den4enko.github.io/GamersReforged/",
 	"langKey": "gamers.info",
 	"anchor": "TOP_CENTER"
 }
