@@ -212,6 +212,11 @@ hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.toml"
+hash = "a83dcc445aac8681907f9d05ee8887bd39452fd99e8bd30088972994755c3741"
+metafile = true
+
+[[files]]
 file = "mods/packmenu.toml"
 hash = "999559e7a99f9fbc3eeb23d889da8f12b542cb8910aeadd8eca8933b967cf00c"
 metafile = true
