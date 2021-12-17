@@ -172,6 +172,11 @@ hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.toml"
 hash = "7ba121d25930b07043ea20a219d43624132fd9df430f7cc4967f3103ae4adf89"
 metafile = true
@@ -308,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.toml"
-hash = "f57afaf9061f43d30aa242f446aaf9df710f8bd97cff1c86161c40324453f031"
+hash = "eed59bfdcff326bad0021acd9f958349fcb909842e391a25528813828dde465b"
 metafile = true
 
 [[files]]
