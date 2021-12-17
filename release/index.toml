@@ -172,6 +172,11 @@ hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
+metafile = true
+
+[[files]]
 file = "mods/mana-and-artifice.toml"
 hash = "7ba121d25930b07043ea20a219d43624132fd9df430f7cc4967f3103ae4adf89"
 metafile = true
@@ -308,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.toml"
-hash = "f57afaf9061f43d30aa242f446aaf9df710f8bd97cff1c86161c40324453f031"
+hash = "eed59bfdcff326bad0021acd9f958349fcb909842e391a25528813828dde465b"
 metafile = true
 
 [[files]]
@@ -348,7 +353,7 @@ hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/pack.json"
-hash = "03dc09b7e2ed5e5fda1094716e6e418ddfc92c2bad4a570e2c014cdbd0e148fa"
+hash = "4d48b4c26314a9414521615e74a693409bd8f0ee90631da0e7f8a025506af5ce"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
@@ -360,7 +365,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "6f245dd7a6cfaf137fb9e229622985f481af69ebb61ead54176a1369f6040e52"
+hash = "8369b99f0000cb7e0f8af4ca7da00214e3ddba762c1079678121c06fef2cf239"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
