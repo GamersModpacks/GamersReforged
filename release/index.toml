@@ -47,11 +47,6 @@ hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
 metafile = true
 
 [[files]]
-file = "mods/block-armor.toml"
-hash = "f0440c64c33fb1047dd2db2ddeb6bf8c1e1a11108176c77f1fc02d590f4ade6a"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.toml"
 hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
 metafile = true
@@ -365,7 +360,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "8369b99f0000cb7e0f8af4ca7da00214e3ddba762c1079678121c06fef2cf239"
+hash = "1b7dba134b33f4f448fcb6356196678f3e511e7d9cfabcc3c5b7d8e04f9a1f47"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
