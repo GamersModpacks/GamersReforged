@@ -152,11 +152,6 @@ hash = "a12a7e2eeaea2e2bb75d072bd80e57bb30146c54f46eada797edd567f2c54931"
 metafile = true
 
 [[files]]
-file = "mods/ice-and-fire-dragons.toml"
-hash = "22554998e0c1210389e5dd2a2e805f874435503c431ccbe0b8f4af9b61f5c411"
-metafile = true
-
-[[files]]
 file = "mods/itemphysic.toml"
 hash = "ea75886dddd5865f65f0861c5ece905e324f8e3f96f24946bb1f70046bd0f789"
 metafile = true
