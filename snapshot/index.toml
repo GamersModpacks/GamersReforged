@@ -117,8 +117,18 @@ hash = "458ccea2b6525d25ca425b2b0950743e79948c40037efee35a58af8cb40bb5ac"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.toml"
+hash = "9301c27a1884ff2a27ecf8c24148eaf45007ed3eb29150d0448390956854fcb7"
+metafile = true
+
+[[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
 
 [[files]]
@@ -278,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "7a31fe28a09682bd24dc85fb29d9120090663aa1a668a920349012e15ee58be6"
+hash = "6211d1f443d3623540bb5d2ed5ba25e6eaa2b743544e50030fe8b098e428a561"
 metafile = true
 
 [[files]]
