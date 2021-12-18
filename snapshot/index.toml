@@ -262,6 +262,11 @@ hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.toml"
+hash = "6e6a38f15157c5dd48b63e54a06e741f1d687c04b6af79010dd278237ea53323"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "ef2d040922a12c9286264fc590d839528286377aaca8e874c853ac001806dfa9"
 metafile = true
