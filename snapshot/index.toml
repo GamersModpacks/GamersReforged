@@ -23,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "3ecfb48ce018a5852cd5e7ca17c69e75a85cac42b952cb1a65fad8da7cea4086"
+hash = "192f25400e607af8057f3df1126a7df5b6296d23fc2711d2c3efa92e2b9b1c4f"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "7ba121d25930b07043ea20a219d43624132fd9df430f7cc4967f3103ae4adf89"
+hash = "9eca6a61464a9fea9001ee997de41f0222878b9736382a4a05fa5a80d59d8c0c"
 metafile = true
 
 [[files]]
