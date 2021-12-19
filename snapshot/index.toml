@@ -62,8 +62,8 @@ hash = "9b2dff08f47ca6b5a8aede9b5525c9a1bd00aa1f1649599f6f5afcec5a8bc231"
 metafile = true
 
 [[files]]
-file = "mods/chicken-chunks-1-8.toml"
-hash = "f45bc0cc76b1c7a7eb95bcafba42efc018b2de79df5f379f08e72e258cb7f292"
+file = "mods/chunk-loaders.toml"
+hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
 metafile = true
 
 [[files]]
@@ -74,11 +74,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config-forge.toml"
 hash = "00d524a05bb039db4fd460241c92e99291516b8c071c34c449cca5405c992da6"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib-1-8.toml"
-hash = "7c780b75006e821d33d9873839962a1848fe38e94ee7a4908c1bc9ee5edc5b15"
 metafile = true
 
 [[files]]
@@ -217,6 +212,11 @@ hash = "d0cc0afba99aa547f2f5cfb6e78b50f4bb9345698628b6bca3fc5e32d465860b"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.toml"
+hash = "45a46102ab55ced079b9b8daa63462b48d8f1e841bc012cadca69ac902790934"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
 metafile = true
@@ -307,6 +307,16 @@ hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.toml"
+hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.toml"
+hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
+metafile = true
+
+[[files]]
 file = "mods/switch-bow.toml"
 hash = "e211c13b32b21eae76f900bdee495a60fd654af147c2b6f933a9d2231facef76"
 metafile = true
@@ -344,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
 hash = "654ec00d47cf45e44b1c0675ff709cbd324c9a65cd23ad08fbb0434527caad4a"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.toml"
+hash = "57c70819108581d4632a08e6d86931a9b8d784f389a41ce3606851dfd4b039a2"
 metafile = true
 
 [[files]]
