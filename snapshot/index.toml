@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/packmenu.cfg"
-hash = "8de8f62a7897eced14c0bd3b0841d93191ad6fc2fdb92e2ea5eb472d088542d4"
+hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
@@ -407,7 +407,7 @@ hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "b892eedb923e21aee209081f282b577f43ca0d67bc90a0765117dc1da042893e"
+hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
