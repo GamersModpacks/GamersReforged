@@ -82,6 +82,11 @@ hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
 metafile = true
 
 [[files]]
+file = "mods/configured.toml"
+hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
