@@ -1,0 +1,13 @@
+name = "EvilCraft"
+filename = "EvilCraft-1.16.5-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/741/EvilCraft-1.16.5-1.1.11.jar"
+hash-format = "murmur2"
+hash = "3172328691"
+
+[update]
+[update.curseforge]
+file-id = 3546741
+project-id = 74610

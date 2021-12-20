@@ -17,6 +17,11 @@ file = "defaultconfigs/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.toml"
 hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
 metafile = true
@@ -82,13 +87,18 @@ hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
 metafile = true
 
 [[files]]
+file = "mods/configured.toml"
+hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "6265759865a98aa49471f65c367fd10175cedf40c063392930a44785ad50a28f"
+hash = "23db868cc552e3c57df9152ba616aa0a8936804217edd4279f183be7315a7817"
 metafile = true
 
 [[files]]
@@ -99,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/cyclic.toml"
 hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.toml"
+hash = "950ca5d70d522432663f3fc18ca977c11a09198fe587727c3251eb321863a1fc"
 metafile = true
 
 [[files]]
@@ -114,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.toml"
 hash = "9301c27a1884ff2a27ecf8c24148eaf45007ed3eb29150d0448390956854fcb7"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.toml"
+hash = "86bf6d31baae2503f21a11ac8a02e7296bd469ff830a298adb4345a9952adb44"
 metafile = true
 
 [[files]]
@@ -395,7 +415,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "11f7edd95c5826e3bdacd249a99aceeefac5dc68fa46974fe1b349195c94e99d"
+hash = "d3b14c95fb96e1481877c00c3afc2498bf135a88a877b6175581c95e931d78a8"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"

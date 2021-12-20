@@ -1,12 +1,12 @@
 name = "GamersReforged"
 author = "Den4enko"
-version = "1.4"
+version = "1.4.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "035c72a931812a32def0e0c7f76ba337f44d4f6785620989f5e0274c180fe250"
+hash = "828c1f2c1b11d2f7292728499fb2a961979ed77b4f3167fd5d88bf505c3c47e6"
 
 [versions]
 forge = "36.2.22"
