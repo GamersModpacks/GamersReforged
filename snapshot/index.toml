@@ -17,6 +17,11 @@ file = "defaultconfigs/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
+file = "mods/advanced-peripherals.toml"
+hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.toml"
 hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
 metafile = true
