@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "6265759865a98aa49471f65c367fd10175cedf40c063392930a44785ad50a28f"
+hash = "23db868cc552e3c57df9152ba616aa0a8936804217edd4279f183be7315a7817"
 metafile = true
 
 [[files]]
