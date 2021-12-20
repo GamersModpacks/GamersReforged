@@ -112,6 +112,11 @@ hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.toml"
+hash = "950ca5d70d522432663f3fc18ca977c11a09198fe587727c3251eb321863a1fc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-surroundings.toml"
 hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
 metafile = true
@@ -124,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.toml"
 hash = "9301c27a1884ff2a27ecf8c24148eaf45007ed3eb29150d0448390956854fcb7"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.toml"
+hash = "86bf6d31baae2503f21a11ac8a02e7296bd469ff830a298adb4345a9952adb44"
 metafile = true
 
 [[files]]
