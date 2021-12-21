@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "0ee60a513c0931275a13d4a5722676a72672e1afe8c51f2c5da2950c438a49a9"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
@@ -198,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "9eca6a61464a9fea9001ee997de41f0222878b9736382a4a05fa5a80d59d8c0c"
+hash = "8c650c9dd2019f2fb41e21e00fe3cd46ed78224504b74f3f2ae9404d3ada5a18"
 metafile = true
 
 [[files]]
@@ -342,13 +346,18 @@ hash = "e211c13b32b21eae76f900bdee495a60fd654af147c2b6f933a9d2231facef76"
 metafile = true
 
 [[files]]
+file = "mods/the-abyss-chapter-ii.toml"
+hash = "f3de72d3cfbf4a598e35c81d3b34d54acdb79d2ec5cf6d4f6cf6e9b79b85cf14"
+metafile = true
+
+[[files]]
 file = "mods/the-legend-of-herobrine.toml"
 hash = "fdff04418e2295c70a35a84561f96be8674bf58e3ca3adc28ad7581189a009a1"
 metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.toml"
-hash = "014cdc116f1bce2406ad48177bdf7815a2162c2af0f21edeaaceb827d2cadeb0"
+hash = "1b10c25012b1136ee172cbaa2c1db9c01777654b5d4037aba7ec71c2209265e5"
 metafile = true
 
 [[files]]
@@ -380,6 +389,10 @@ metafile = true
 file = "mods/wireless-chargers.toml"
 hash = "57c70819108581d4632a08e6d86931a9b8d784f389a41ce3606851dfd4b039a2"
 metafile = true
+
+[[files]]
+file = "pack.ico"
+hash = "1ea5169b5f629713664cd5fa11b1bf4f5999ee222e7792f9a08715b600768b98"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
@@ -415,7 +428,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "d3b14c95fb96e1481877c00c3afc2498bf135a88a877b6175581c95e931d78a8"
+hash = "8bfad405b585822557fde9f365b4719ad060a4c14f7e3fc8c8ac01c78bc58946"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -431,7 +444,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "6cd557968e8a49c38359ab451c30801df51d43031bc9e499539a79db09b68db9"
+hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
