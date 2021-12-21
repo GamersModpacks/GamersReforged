@@ -1,13 +1,13 @@
 name = "Magnesium"
-filename = "magnesium-1.6-pupil.jar"
+filename = "magnesium-1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3528/352/magnesium-1.6-pupil.jar"
+url = "https://edge.forgecdn.net/files/3526/76/magnesium-1.5.jar"
 hash-format = "murmur2"
-hash = "321698565"
+hash = "2419099626"
 
 [update]
 [update.curseforge]
-file-id = 3528352
+file-id = 3526076
 project-id = 532724
