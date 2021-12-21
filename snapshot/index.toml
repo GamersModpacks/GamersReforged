@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "9eca6a61464a9fea9001ee997de41f0222878b9736382a4a05fa5a80d59d8c0c"
+hash = "8c650c9dd2019f2fb41e21e00fe3cd46ed78224504b74f3f2ae9404d3ada5a18"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "62fca8b787988a6739b435bddb4afffd599b0d5786c6722a5e9369769134f062"
+hash = "1de386aa56c6b9bc914603d1ada85c625e545478d7156c14b1ab491164379ff2"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
+hash = "c5bd3ab2a8fd452214a3de1373f6a40e31961f1d7c4c26d3091bd259ee63f8e5"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.toml"
-hash = "014cdc116f1bce2406ad48177bdf7815a2162c2af0f21edeaaceb827d2cadeb0"
+hash = "1b10c25012b1136ee172cbaa2c1db9c01777654b5d4037aba7ec71c2209265e5"
 metafile = true
 
 [[files]]
