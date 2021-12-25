@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "9b2dff08f47ca6b5a8aede9b5525c9a1bd00aa1f1649599f6f5afcec5a8bc231"
+hash = "c10a8ffd6a6d842a29eefada99ccfa6ccfac9b12f1f14fcd250467ced1855431"
 metafile = true
 
 [[files]]
@@ -207,27 +207,27 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.toml"
-hash = "ba896fb1cfeeed3ef071b0d98d5ea0ff92c19cfad543a0be3070519526976114"
+hash = "9b023a70d51d9a68f1b526f5bf9507dbee0b95199a109fb7e94c653a6fa8f028"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.toml"
-hash = "e6a21790c557be5f844a76f353cc3fd27c594e4915abe456b9a82060aa3b00e1"
+hash = "3d573e3b0e9d18c6c8734c262b5b734027d24b3a661f276311d311c272d08c2d"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.toml"
-hash = "cd3909a3b4fe567aa04c57d183006e6293a894e372758324912c8306d9227cbf"
+hash = "015b955a9ec177ca8c8d5938cf03a2774ed305cef5dee4d5ce6235c3d13e4793"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.toml"
-hash = "9eb6dc785d2b6147b295f5a4a9c67fb62014ab8366951d1a255bb127a8b9ebbb"
+hash = "e61666a051a9e100993aa97f6ac60d907c29c8a0778195e302ca77f6c137be6c"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.toml"
-hash = "8baa826e37ec6c9706708a64bc478e4e511c4fd5de8d7a3cf420141dff1bc3d0"
+hash = "43c1feb49545364c77077ac7ef9c6c1bcdae61720f3a482effe3000f2e6a0fbb"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.toml"
-hash = "7c43675e84566b7b6968981ee36d8384333ef26723f33acc8b40cecf44b01eeb"
+hash = "4e79c0390b9aa057607a10cfa397bd13c023c4bb4c0373f9e26e146e80b83efa"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "8bfad405b585822557fde9f365b4719ad060a4c14f7e3fc8c8ac01c78bc58946"
+hash = "e846694cf8b4a1e61d96c40d24e8f60c2a79ec19acdcbd41d93630a19e1b7ab0"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
