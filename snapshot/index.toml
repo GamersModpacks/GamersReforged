@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "23db868cc552e3c57df9152ba616aa0a8936804217edd4279f183be7315a7817"
+hash = "c3401bd6bfee647557cad7a8295e4b87879add39e5eeb8cb2b5e471033e4db59"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.toml"
-hash = "b8656cbff60b0618a68ff7b6684d6b290bf5d7f1e1cd82188829ef4017a5f14c"
+hash = "c1590f660b09f438e899e92e29821f45d5ab66ccbb6c8ddf65a3352252de7081"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "29fee1df9a9e4c83087b4edc5d490f6dca8d649c7276139bc6043f5c60a7cfdc"
+hash = "f11bb5ee5d757acf7d939889465d47743f06973bc7c46581d7eeb8b16d279a99"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
+hash = "c5bd3ab2a8fd452214a3de1373f6a40e31961f1d7c4c26d3091bd259ee63f8e5"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-abyss-chapter-ii.toml"
-hash = "f3de72d3cfbf4a598e35c81d3b34d54acdb79d2ec5cf6d4f6cf6e9b79b85cf14"
+hash = "10fea7193bb3f97066f2e8b20239f1ae5b7bfa856019a8ef27e73bade51e9b71"
 metafile = true
 
 [[files]]
