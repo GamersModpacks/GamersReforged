@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.toml"
-hash = "458ccea2b6525d25ca425b2b0950743e79948c40037efee35a58af8cb40bb5ac"
+hash = "b8656cbff60b0618a68ff7b6684d6b290bf5d7f1e1cd82188829ef4017a5f14c"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "d0cc0afba99aa547f2f5cfb6e78b50f4bb9345698628b6bca3fc5e32d465860b"
+hash = "9e3d07d1c54adedeb769e1bd1d3000f05d5ada609782073d31a0aa645a99703b"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "6211d1f443d3623540bb5d2ed5ba25e6eaa2b743544e50030fe8b098e428a561"
+hash = "97bc45733600f6d3aa053f036c0dfdf842e4a0e251af9055f780da8d76c9d712"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "e846694cf8b4a1e61d96c40d24e8f60c2a79ec19acdcbd41d93630a19e1b7ab0"
+hash = "b09b5ffe0a7177db0a196dfb1f27f648ca919fef04fdeaf0b2ac147dafb75b65"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
