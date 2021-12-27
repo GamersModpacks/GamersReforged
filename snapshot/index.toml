@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "0ee60a513c0931275a13d4a5722676a72672e1afe8c51f2c5da2950c438a49a9"
+hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
 
 [[files]]
 file = "config/packmenu.cfg"
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "f11bb5ee5d757acf7d939889465d47743f06973bc7c46581d7eeb8b16d279a99"
+hash = "29fee1df9a9e4c83087b4edc5d490f6dca8d649c7276139bc6043f5c60a7cfdc"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "c5bd3ab2a8fd452214a3de1373f6a40e31961f1d7c4c26d3091bd259ee63f8e5"
+hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
 metafile = true
 
 [[files]]

@@ -12,40 +12,6 @@
       "type": "MojangAPI",
       "apiRoot": "https://api.mojang.com/",
       "sessionRoot": "https://sessionserver.mojang.com/"
-    },
-    {
-      "name": "LittleSkin",
-      "type": "CustomSkinAPI",
-      "root": "https://littlesk.in/csl/"
-    },
-    {
-      "name": "BlessingSkin",
-      "type": "CustomSkinAPI",
-      "root": "http://skin.prinzeugen.net/"
-    },
-    {
-      "name": "SkinMe",
-      "type": "UniSkinAPI",
-      "root": "http://www.skinme.cc/uniskin/"
-    },
-    {
-      "name": "TLauncher",
-      "type": "ElyByAPI",
-      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
-    },
-    {
-      "name": "LocalSkin",
-      "type": "Legacy",
-      "checkPNG": false,
-      "skin": "LocalSkin/skins/{USERNAME}.png",
-      "model": "auto",
-      "cape": "LocalSkin/capes/{USERNAME}.png",
-      "elytra": "LocalSkin/elytras/{USERNAME}.png"
-    },
-    {
-      "name": "GlitchlessGames",
-      "type": "GlitchlessAPI",
-      "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname\u003d"
     }
   ],
   "enableDynamicSkull": true,
@@ -59,6 +25,6 @@
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
-  "enableCacheAutoClean": false,
+  "enableCacheAutoClean": true,
   "forceDisableCache": false
 }
