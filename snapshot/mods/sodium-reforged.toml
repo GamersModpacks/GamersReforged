@@ -1,6 +1,6 @@
 name = "Magnesium"
 filename = "magnesium-1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3526/76/magnesium-1.5.jar"

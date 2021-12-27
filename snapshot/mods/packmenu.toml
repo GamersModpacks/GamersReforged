@@ -1,6 +1,6 @@
 name = "PackMenu"
 filename = "PackMenu-1.16.5-2.5.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3475/660/PackMenu-1.16.5-2.5.0.jar"
