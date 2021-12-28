@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "9e3d07d1c54adedeb769e1bd1d3000f05d5ada609782073d31a0aa645a99703b"
+hash = "b1451cdb65bc8dc148d41cd97727cc12186bb1345fd6e662451bce4c3e820d12"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-abyss-chapter-ii.toml"
-hash = "10fea7193bb3f97066f2e8b20239f1ae5b7bfa856019a8ef27e73bade51e9b71"
+hash = "3f0e40fca9be30fdcd45a9c575666c8783e5b33573a016d6663e40855ef8b5cd"
 metafile = true
 
 [[files]]
