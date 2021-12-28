@@ -1,6 +1,6 @@
 name = "CustomSkinLoader"
 filename = "CustomSkinLoader_ForgeLegacy-14.13-SNAPSHOT-309.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3559/387/CustomSkinLoader_ForgeLegacy-14.13-SNAPSHOT-309.jar"
