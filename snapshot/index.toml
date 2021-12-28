@@ -26,6 +26,11 @@ hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.toml"
+hash = "e15faad5dd745a6d1bce5301f5ca7202de5ae9819828c9e442678e5e05642a66"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas.toml"
 hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
 metafile = true
@@ -81,6 +86,11 @@ hash = "e1c06b486de303676e9b35336db571f1045e8af8612e1351868295ca5ec1d727"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.toml"
+hash = "5154b5a42e04a974d47850c98cfc4f7f9f80fabd7140d56dd3d21f3bfd1d69a0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config-forge.toml"
 hash = "00d524a05bb039db4fd460241c92e99291516b8c071c34c449cca5405c992da6"
 metafile = true
@@ -126,6 +136,11 @@ hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.toml"
+hash = "de35bdefbefa802b222a320768edbf41d55c453649f14bf5879e4fc4ab5233d4"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-legacy.toml"
 hash = "c1590f660b09f438e899e92e29821f45d5ab66ccbb6c8ddf65a3352252de7081"
 metafile = true
@@ -143,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.toml"
+hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench-minus-replacement.toml"
+hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
 
 [[files]]
@@ -232,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "b1451cdb65bc8dc148d41cd97727cc12186bb1345fd6e662451bce4c3e820d12"
+hash = "078dbf632bd6b2ed384a2ef67bb7a761b3a2d591ceffa85335bb9a3785f44561"
 metafile = true
 
 [[files]]
@@ -347,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-abyss-chapter-ii.toml"
-hash = "3f0e40fca9be30fdcd45a9c575666c8783e5b33573a016d6663e40855ef8b5cd"
+hash = "2be172f770147434e7ce740ab890b28fef4cc6dcbe50d17eb02bb220959d3429"
 metafile = true
 
 [[files]]
