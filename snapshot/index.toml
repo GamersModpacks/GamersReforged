@@ -5,16 +5,16 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
 
 [[files]]
+file = "config/iceandfire-client.toml"
+hash = "9316cc126baa3871db4ec123cb2ea36de45cbcd5dce580d40bbcb641eb52abe2"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
-hash = "f414599c42d0b0176f9115b12852ca04dcfec0f8e2712ac401294df00ee03d70"
-
-[[files]]
-file = "defaultconfigs/iceandfire-client.toml"
-hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
+hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
 file = "defaultconfigs/vampirism-common.toml"
@@ -303,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.toml"
 hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "9cca53362425c65272b8ecb7df888b2a98206e71b96348a7576826d25c5d4699"
 metafile = true
 
 [[files]]
