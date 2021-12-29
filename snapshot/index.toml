@@ -326,6 +326,11 @@ hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
 metafile = true
 
 [[files]]
+file = "mods/rats-ratlantis.toml"
+hash = "20c7f1834953da9bd2093b286760ad8581a5e8bc61ecb9932bd56b2bcff36905"
+metafile = true
+
+[[files]]
 file = "mods/rats.toml"
 hash = "405a94a3eb8885f355632b7978cad63b32b5e14bd1ea33f252b379442a199dda"
 metafile = true
