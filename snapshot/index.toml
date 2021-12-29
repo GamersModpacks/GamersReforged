@@ -181,6 +181,11 @@ hash = "3826f00cc0c78a240ba551112bea34f59cc64ce067b8815c403a37188b0a85fc"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-forge.toml"
+hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
 metafile = true
@@ -236,6 +241,11 @@ hash = "9b023a70d51d9a68f1b526f5bf9507dbee0b95199a109fb7e94c653a6fa8f028"
 metafile = true
 
 [[files]]
+file = "mods/materialis.toml"
+hash = "8c851dd5810a937c93644cc26e7a857c0fd4abae5c4f8fb525e4a0caab84d71a"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.toml"
 hash = "3d573e3b0e9d18c6c8734c262b5b734027d24b3a661f276311d311c272d08c2d"
 metafile = true
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.toml"
 hash = "078dbf632bd6b2ed384a2ef67bb7a761b3a2d591ceffa85335bb9a3785f44561"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.toml"
+hash = "388109fcd6fbe13e7de28371ca1ce9d97e9ba9f1657b60ecd7c4fbc05931f7c2"
 metafile = true
 
 [[files]]
@@ -288,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor-reforged.toml"
 hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
+metafile = true
+
+[[files]]
+file = "mods/piseks-tinkers-enchantments.toml"
+hash = "a88eb1b29f921700cc39d1672396e54ede283bef55d8db9380606db545977e47"
 metafile = true
 
 [[files]]
@@ -372,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-abyss-chapter-ii.toml"
-hash = "2be172f770147434e7ce740ab890b28fef4cc6dcbe50d17eb02bb220959d3429"
+hash = "50b91797dfa5dd548f373eea04315e9ec64871c603c14a7d539f808de08df9df"
 metafile = true
 
 [[files]]
@@ -388,6 +408,21 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.toml"
 hash = "4e79c0390b9aa057607a10cfa397bd13c023c4bb4c0373f9e26e146e80b83efa"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-delight.toml"
+hash = "564bcc2caa0a5a0ba49fabb235689bb7c7d992e6442449533c416351652d276d"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-planner.toml"
+hash = "7a0164c327f5a889752ea202f30b789c73a2d08537cc1cbc23d4e26e901cda79"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-rapier.toml"
+hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
 metafile = true
 
 [[files]]
