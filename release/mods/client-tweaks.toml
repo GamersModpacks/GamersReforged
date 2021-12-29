@@ -1,6 +1,6 @@
 name = "Client Tweaks"
 filename = "ClientTweaks_1.16.3-5.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3222/131/ClientTweaks_1.16.3-5.3.0.jar"
