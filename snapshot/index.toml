@@ -111,6 +111,11 @@ hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.toml"
+hash = "59cb0135570a5e3dea26c4a76244efef28ef01ba9c14b53b8f25f10bf93876af"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -193,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
-metafile = true
-
-[[files]]
-file = "mods/gravestone-mod.toml"
-hash = "eac1ccea43d0fc1acc625822e499ad9118ac3e25866a9274d32b77637c1fe711"
 metafile = true
 
 [[files]]
@@ -316,8 +316,18 @@ hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
 metafile = true
 
 [[files]]
+file = "mods/projecte.toml"
+hash = "a7c339f5ed947568c2fe71ceb0061d02cadf76479980d57c84dc5bdd8f158123"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
+metafile = true
+
+[[files]]
+file = "mods/rats.toml"
+hash = "405a94a3eb8885f355632b7978cad63b32b5e14bd1ea33f252b379442a199dda"
 metafile = true
 
 [[files]]
@@ -383,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
 hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
-metafile = true
-
-[[files]]
-file = "mods/switch-bow.toml"
-hash = "e211c13b32b21eae76f900bdee495a60fd654af147c2b6f933a9d2231facef76"
 metafile = true
 
 [[files]]
