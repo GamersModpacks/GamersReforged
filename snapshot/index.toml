@@ -406,11 +406,6 @@ hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
 metafile = true
 
 [[files]]
-file = "mods/the-abyss-chapter-ii.toml"
-hash = "50b91797dfa5dd548f373eea04315e9ec64871c603c14a7d539f808de08df9df"
-metafile = true
-
-[[files]]
 file = "mods/the-legend-of-herobrine.toml"
 hash = "fdff04418e2295c70a35a84561f96be8674bf58e3ca3adc28ad7581189a009a1"
 metafile = true
