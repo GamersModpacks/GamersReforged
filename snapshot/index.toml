@@ -36,6 +36,11 @@ hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.toml"
+hash = "b5ed6dc6b7cecf64dc583d9eb90e8556f6d6589d35780e306e834b7b8893e996"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "192f25400e607af8057f3df1126a7df5b6296d23fc2711d2c3efa92e2b9b1c4f"
 metafile = true
@@ -303,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor-reforged.toml"
 hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
-metafile = true
-
-[[files]]
-file = "mods/piseks-tinkers-enchantments.toml"
-hash = "a88eb1b29f921700cc39d1672396e54ede283bef55d8db9380606db545977e47"
 metafile = true
 
 [[files]]
