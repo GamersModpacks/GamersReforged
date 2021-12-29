@@ -351,6 +351,11 @@ hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.toml"
+hash = "987c22a8b62a45d4e5fa4db6778748efc9b3d6779d49c345d2603748459ca4dd"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
 metafile = true
