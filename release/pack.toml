@@ -1,13 +1,16 @@
 name = "GamersReforged"
 author = "Den4enko"
-version = "1.6"
+version = "1.6.1"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8804634e43bf568569809b2d37e6592238e8f3b6f4c859bc2f49e95bf09d8c83"
+hash = "9f5a1def4e3460916259f3b98322acd3e669f9d97c923556ae1b8faa4b9d6151"
 
 [versions]
 forge = "36.2.22"
 minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16", "1.16.1", "1.16.2", "1.16.3", "1.16.4"]

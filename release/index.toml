@@ -351,6 +351,11 @@ hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.toml"
+hash = "987c22a8b62a45d4e5fa4db6778748efc9b3d6779d49c345d2603748459ca4dd"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
 metafile = true
@@ -398,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
 hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
-metafile = true
-
-[[files]]
-file = "mods/the-abyss-chapter-ii.toml"
-hash = "50b91797dfa5dd548f373eea04315e9ec64871c603c14a7d539f808de08df9df"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "fc93de3b42936403c740671a4cd49736afe9a67c3e833e987746df31d261079d"
+hash = "e9edf8aeafff251997ca47f8d6137d41ddbf8fe2c864295cfe6f6bd9098d7dfe"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
