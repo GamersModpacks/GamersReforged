@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
+hash = "bc85cdbb520a89f691f787ab19f4edb9dcbc2673de83daebc0ecea2bdbb9d41b"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "078dbf632bd6b2ed384a2ef67bb7a761b3a2d591ceffa85335bb9a3785f44561"
+hash = "0731360ad554678fb61c8f067e1a3707e6891d39c54520673fdb38e72f3e4f08"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "29fee1df9a9e4c83087b4edc5d490f6dca8d649c7276139bc6043f5c60a7cfdc"
+hash = "40bbddc9d705e912543d77d10b4f68c68b89c43e96b00614e2e341eebb442516"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
+hash = "962a1b286c20d0fca4189bd79980f970d6d4a09c98d27e960e5592003d7a84a2"
 metafile = true
 
 [[files]]

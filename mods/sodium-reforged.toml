@@ -11,3 +11,4 @@ hash = "2419099626"
 [update.curseforge]
 file-id = 3526076
 project-id = 532724
+release-channel = "release"
