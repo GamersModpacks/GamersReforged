@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.toml"
-hash = "443212514ef38188d692a4c6640ee3f21643afe7b31d414241541dc46dc22957"
+hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
@@ -393,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/spartan-shields.toml"
 hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "63b43c32c9a4b3fcaf79285cf8677557f5bdfe0a8a9d55daa18328282af4e184"
 metafile = true
 
 [[files]]
