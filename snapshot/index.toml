@@ -474,7 +474,7 @@ hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
+hash = "860771e23ae882c93f597198e493237eaa193c73deb699adb38ea2baccb78a15"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
@@ -483,10 +483,6 @@ hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/options.json"
 hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/pack.json"
-hash = "4d48b4c26314a9414521615e74a693409bd8f0ee90631da0e7f8a025506af5ce"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
