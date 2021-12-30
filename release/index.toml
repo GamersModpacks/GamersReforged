@@ -76,6 +76,11 @@ hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.toml"
+hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "c10a8ffd6a6d842a29eefada99ccfa6ccfac9b12f1f14fcd250467ced1855431"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
@@ -311,6 +316,11 @@ hash = "9cca53362425c65272b8ecb7df888b2a98206e71b96348a7576826d25c5d4699"
 metafile = true
 
 [[files]]
+file = "mods/phosphor-reforged.toml"
+hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
 metafile = true
@@ -383,11 +393,6 @@ metafile = true
 [[files]]
 file = "mods/spartan-shields.toml"
 hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "63b43c32c9a4b3fcaf79285cf8677557f5bdfe0a8a9d55daa18328282af4e184"
 metafile = true
 
 [[files]]
@@ -494,7 +499,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "fa41683c5661e1a9aee901c422be3f3f04ad4443df7b1156d1d7dd72b89bd73a"
+hash = "620232a68b1993353fd32e33e199345d1120f76c2d9f3b2704cff1bb4596b385"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
