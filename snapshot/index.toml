@@ -6,7 +6,7 @@ hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
 
 [[files]]
 file = "config/iceandfire-client.toml"
-hash = "9316cc126baa3871db4ec123cb2ea36de45cbcd5dce580d40bbcb641eb52abe2"
+hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
 
 [[files]]
 file = "config/packmenu.cfg"
