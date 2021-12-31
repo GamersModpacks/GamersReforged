@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "b27989a020f4455e52fb286971c25aabbe271396614a6e2379911f698daed3a6"
+hash = "8801b43737eacdd134775bcef52c060224c8e2432219f7932c3533d9a7659c7d"
 metafile = true
 
 [[files]]
