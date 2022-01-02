@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "192f25400e607af8057f3df1126a7df5b6296d23fc2711d2c3efa92e2b9b1c4f"
+hash = "66bc71bafda67c3443013dde4f12fc2b9a4dfff3ad3b34834eb8d67f60550d23"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "c10a8ffd6a6d842a29eefada99ccfa6ccfac9b12f1f14fcd250467ced1855431"
+hash = "bf88b8aca74bfd528e74dbf701e6a9f55a712f8c28f71408223f98b746c7c54f"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
+hash = "909831779425894c02b2cfb7c014f407124b7dda504cea4a9a87d85d60c98d93"
 metafile = true
 
 [[files]]
@@ -257,22 +257,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.toml"
-hash = "3d573e3b0e9d18c6c8734c262b5b734027d24b3a661f276311d311c272d08c2d"
+hash = "e6d128a92717ba60523a1300f48b7b2245622d628226be15405855244a7f2577"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.toml"
-hash = "015b955a9ec177ca8c8d5938cf03a2774ed305cef5dee4d5ce6235c3d13e4793"
+hash = "db04ea28d41e4fd3e4c888f9173b056ec45057cf71dff5ebed98b30d565f05bc"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.toml"
-hash = "e61666a051a9e100993aa97f6ac60d907c29c8a0778195e302ca77f6c137be6c"
+hash = "942620bee3e206261a246b4f7aac7d8b6c2c633c2baea1114dd6e5fe628acac6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.toml"
-hash = "43c1feb49545364c77077ac7ef9c6c1bcdae61720f3a482effe3000f2e6a0fbb"
+hash = "b1f63382d591e40dbabb56d860a5a83c5c12ac0615b1d8d34d0f27d13ad37e97"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "8801b43737eacdd134775bcef52c060224c8e2432219f7932c3533d9a7659c7d"
+hash = "39ed84adda310a2090969a44360072ac413d5a277e8edafb913da344563eaafc"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "97bc45733600f6d3aa053f036c0dfdf842e4a0e251af9055f780da8d76c9d712"
+hash = "4c7df1e0ce14b0d0acfa5e0f387d8b9ecb9287039283a39fb9489d3178d690ed"
 metafile = true
 
 [[files]]
