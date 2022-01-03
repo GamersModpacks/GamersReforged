@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
+hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.toml"
-hash = "c1590f660b09f438e899e92e29821f45d5ab66ccbb6c8ddf65a3352252de7081"
+hash = "45318e5625b0073855edb8ec5c5cb8efd92bf8e52ce9666c935ee61c06a408f3"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.toml"
-hash = "b44bd90a6115a44b79fe38ff82b8b08ec8474d74b9f53821972fa3413ce8bfdc"
+hash = "22e9d149ee87b9427a43b21f2ca48c01d9dbf7278172011b6c7c604f2b4d4f9b"
 metafile = true
 
 [[files]]
