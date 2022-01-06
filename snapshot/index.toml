@@ -226,11 +226,6 @@ hash = "ea75886dddd5865f65f0861c5ece905e324f8e3f96f24946bb1f70046bd0f789"
 metafile = true
 
 [[files]]
-file = "mods/jade.toml"
-hash = "48b39a6096c6e04ed9babb2671aae45b58958bf5f8257cc24d7c8e2ee77c79b9"
-metafile = true
-
-[[files]]
 file = "mods/jei.toml"
 hash = "909831779425894c02b2cfb7c014f407124b7dda504cea4a9a87d85d60c98d93"
 metafile = true
@@ -282,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "0731360ad554678fb61c8f067e1a3707e6891d39c54520673fdb38e72f3e4f08"
+hash = "7400f95952377f5dc2eb7793d8d6c5db3ee48e6edb497aac931de4937d43b2b8"
 metafile = true
 
 [[files]]
@@ -352,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "39ed84adda310a2090969a44360072ac413d5a277e8edafb913da344563eaafc"
+hash = "c6655fe87f2a19206755a3421ff4ffbd3543e2b6217d49b9e896a914524bbc67"
 metafile = true
 
 [[files]]
