@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
+hash = "4e04c4cfca77b48296ec9509e2a68e9e820bd267c5be93a97c850b79b0093b47"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
-hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
+hash = "091aaa694a13ff99d1de24ed894c983866bba315cf9d00cc9aa3af8f3e8675a9"
 metafile = true
 
 [[files]]
