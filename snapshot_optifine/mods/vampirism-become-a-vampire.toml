@@ -1,0 +1,13 @@
+name = "Vampirism - Become a vampire!"
+filename = "Vampirism-1.16.5-1.8.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3568/777/Vampirism-1.16.5-1.8.6.jar"
+hash-format = "murmur2"
+hash = "375000158"
+
+[update]
+[update.curseforge]
+file-id = 3568777
+project-id = 233029
