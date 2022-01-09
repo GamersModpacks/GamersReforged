@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "c3401bd6bfee647557cad7a8295e4b87879add39e5eeb8cb2b5e471033e4db59"
+hash = "9a698c2ab20921cda003880f7dd6397038fbaf508957ea281f80de47a27b32c6"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "4c7df1e0ce14b0d0acfa5e0f387d8b9ecb9287039283a39fb9489d3178d690ed"
+hash = "c5d890786834dbabeb8a80a2ea42e056d66ca7e445f4c549200dafc8634900c9"
 metafile = true
 
 [[files]]
