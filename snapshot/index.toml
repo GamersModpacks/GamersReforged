@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "pack.ico"
-hash = "1ea5169b5f629713664cd5fa11b1bf4f5999ee222e7792f9a08715b600768b98"
+hash = "a34e53cd1a0834510ef39fa4c23fdd9a8904ba3ac5f21602aaeb7671b6816685"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
@@ -511,7 +511,7 @@ hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
+hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
@@ -523,7 +523,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
+hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
