@@ -1,13 +1,13 @@
 name = "MineColonies"
-filename = "minecolonies-1.16.5-1.0.345-ALPHA.jar"
+filename = "minecolonies-1.16.5-1.0.348-ALPHA.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3600/945/minecolonies-1.16.5-1.0.345-ALPHA.jar"
+url = "https://edge.forgecdn.net/files/3601/662/minecolonies-1.16.5-1.0.348-ALPHA.jar"
 hash-format = "murmur2"
-hash = "1533557155"
+hash = "19095555"
 
 [update]
 [update.curseforge]
-file-id = 3600945
+file-id = 3601662
 project-id = 245506
