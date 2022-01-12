@@ -201,6 +201,11 @@ hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
 metafile = true
 
 [[files]]
+file = "mods/futurepack.toml"
+hash = "c71b382d48dacc7abf782a17c649b4f27c3883dde123c65c59ee3c79e9ce1ad3"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.toml"
 hash = "23ccd4434eb7450bf97b5b89e15c23c2731f60a0a9ff19f39d86d6992a4768ab"
 metafile = true
