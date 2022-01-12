@@ -176,6 +176,11 @@ hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "bda906a44e96526d08e68b8c504e6a31a691bd95ff8ba186f0887bfc325bac22"
+metafile = true
+
+[[files]]
 file = "mods/fastsuite.toml"
 hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
 metafile = true
@@ -198,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-forge.toml"
 hash = "6f618c6d687a54f668848c42af9f1db00679fa7a1bee4004bcbf3cbc015846b8"
-metafile = true
-
-[[files]]
-file = "mods/futurepack.toml"
-hash = "c71b382d48dacc7abf782a17c649b4f27c3883dde123c65c59ee3c79e9ce1ad3"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "909831779425894c02b2cfb7c014f407124b7dda504cea4a9a87d85d60c98d93"
+hash = "07bca2df77a363b35908a89c52a2cdd9274d5f539493c2e02dc1600d7b239b0a"
 metafile = true
 
 [[files]]
@@ -443,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-rapier.toml"
 hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
+metafile = true
+
+[[files]]
+file = "mods/tips.toml"
+hash = "9a8b54357cbde9d5a7451ef336f6e18b3202d8ab315b399ebdcc3e57fead9e76"
 metafile = true
 
 [[files]]
