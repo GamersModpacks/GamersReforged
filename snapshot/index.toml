@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
+hash = "ee862bed101f49e8d1bca700162ca7e9e3d474a23bdec9d5f8c386f9122b6878"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "23ccd4434eb7450bf97b5b89e15c23c2731f60a0a9ff19f39d86d6992a4768ab"
+hash = "330b85fe715ed051118cf1d2d7a15ce2e4571dd49fdd4b662a6a4c54d2df58c8"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.toml"
-hash = "9a8b54357cbde9d5a7451ef336f6e18b3202d8ab315b399ebdcc3e57fead9e76"
+hash = "2dfafe24b6fb550b399985672dfb24f31a8e5af2aa4601dc6a71af750aec393e"
 metafile = true
 
 [[files]]
