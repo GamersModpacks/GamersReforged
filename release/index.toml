@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "pack.ico"
-hash = "a34e53cd1a0834510ef39fa4c23fdd9a8904ba3ac5f21602aaeb7671b6816685"
+hash = "1204162217da788423cd9f7c741abd4551bab91389b0f8e10298893573e5acc1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
