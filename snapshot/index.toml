@@ -376,11 +376,6 @@ hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
 metafile = true
 
 [[files]]
-file = "mods/slashblade.toml"
-hash = "1b111912c08e699617dff3ab46a49d42dbea44eba396d1e3c163bac1d13a8254"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-forge.toml"
 hash = "8d9834d190bc83e098642d24e6e8c6b7c46b73bd85b4f5cb50e6dc5503780c7a"
 metafile = true
