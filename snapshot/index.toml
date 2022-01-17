@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "66bc71bafda67c3443013dde4f12fc2b9a4dfff3ad3b34834eb8d67f60550d23"
+hash = "983beffdfcf8b3bb0d5e4e8e7fb4925e7a54e24f044754d86060c061d7ed7032"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.toml"
-hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
+hash = "1848c9853eb4290c6324f87ef9a97ff22a81ed7aef2a8f43b2769f851f53080e"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "bf88b8aca74bfd528e74dbf701e6a9f55a712f8c28f71408223f98b746c7c54f"
+hash = "670800ac41aca4b1bf82d70e124835b7c620b4f08e1bbd1496f5949843b1c2a8"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
+hash = "a69e05f8b901a5965ba525901877378401042e41fe3e304ab62488c904de335f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.toml"
-hash = "45318e5625b0073855edb8ec5c5cb8efd92bf8e52ce9666c935ee61c06a408f3"
+hash = "bcabd38a7c88b5ef1a5525ad7205c5595d54c3a60e1030d5a3c00477324a503f"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "07bca2df77a363b35908a89c52a2cdd9274d5f539493c2e02dc1600d7b239b0a"
+hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "ae91c47c30ff3d8662ff6746c7e3d9c06594b4279f8e41212640236592f137bf"
+hash = "d4b29261bfa1b9830f2d06f44a0443bc92d0e1b183cc547e9de43ecf90fb8a91"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
-hash = "1e4921160f4959e34fd89d865e4821ec6f21f085caedfc5f9788462b7c53106b"
+hash = "b886a0a7baa8bbb102e731a84275b77a2e96c350c0cf6c1d8405ab55f2316f6b"
 metafile = true
 
 [[files]]

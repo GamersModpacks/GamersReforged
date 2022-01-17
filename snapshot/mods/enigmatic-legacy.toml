@@ -1,13 +1,13 @@
 name = "Enigmatic Legacy"
-filename = "EnigmaticLegacy-2.11.9.jar"
+filename = "EnigmaticLegacy-2.11.11.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3591/189/EnigmaticLegacy-2.11.9.jar"
+url = "https://edge.forgecdn.net/files/3608/374/EnigmaticLegacy-2.11.11.jar"
 hash-format = "murmur2"
-hash = "863280887"
+hash = "3443347367"
 
 [update]
 [update.curseforge]
-file-id = 3591189
+file-id = 3608374
 project-id = 336184
