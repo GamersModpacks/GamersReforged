@@ -5,16 +5,16 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
 
 [[files]]
+file = "config/iceandfire-client.toml"
+hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
-hash = "f414599c42d0b0176f9115b12852ca04dcfec0f8e2712ac401294df00ee03d70"
-
-[[files]]
-file = "defaultconfigs/iceandfire-client.toml"
-hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
+hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
 file = "defaultconfigs/vampirism-common.toml"
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "192f25400e607af8057f3df1126a7df5b6296d23fc2711d2c3efa92e2b9b1c4f"
+hash = "983beffdfcf8b3bb0d5e4e8e7fb4925e7a54e24f044754d86060c061d7ed7032"
 metafile = true
 
 [[files]]
@@ -62,27 +62,32 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "db72b669bdd9cae3409601bcba55dc0f661cc84420d83ba5e4aa9589a7ffefee"
+hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "c0dd39e605365513bf69a3b5855351b87447833cdc9a1263749ad304c86b2cd1"
+hash = "ee862bed101f49e8d1bca700162ca7e9e3d474a23bdec9d5f8c386f9122b6878"
 metafile = true
 
 [[files]]
 file = "mods/botania.toml"
-hash = "16210c4c9e4945e3b4644f7beeab0e426af4c3f80c8e3cbb124f8700713c16f0"
+hash = "1848c9853eb4290c6324f87ef9a97ff22a81ed7aef2a8f43b2769f851f53080e"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.toml"
+hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "c10a8ffd6a6d842a29eefada99ccfa6ccfac9b12f1f14fcd250467ced1855431"
+hash = "670800ac41aca4b1bf82d70e124835b7c620b4f08e1bbd1496f5949843b1c2a8"
 metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "caa3e09efd0efcd1e707aec8a0bd7b73400bdd1323aa57d4024ca245ba2820e2"
+hash = "4e04c4cfca77b48296ec9509e2a68e9e820bd267c5be93a97c850b79b0093b47"
 metafile = true
 
 [[files]]
@@ -102,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "5203d9b2028cd36e1df06fbcf65d083185ec0bce46461d5b50d1d5285c1f21d7"
+hash = "a69e05f8b901a5965ba525901877378401042e41fe3e304ab62488c904de335f"
 metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "dd82f77f3991e951dd76e76860ebf4a92457c794538d6b700c90a101d9839f43"
+hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
@@ -122,17 +127,17 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "c3401bd6bfee647557cad7a8295e4b87879add39e5eeb8cb2b5e471033e4db59"
+hash = "9a698c2ab20921cda003880f7dd6397038fbaf508957ea281f80de47a27b32c6"
 metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "dee9adba265de737448a31a1f1f674cb11b606b4244817023e2a1633aa265a2f"
+hash = "76aee20f9cf5bfc3825fef0d55d49fd8c3d0792f86ec477477190d47973c2da8"
 metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "1b9273689ecda115e06f10239f5eff6fb22b566d84f0d94a3d4a481e9a8232db"
+hash = "bc85cdbb520a89f691f787ab19f4edb9dcbc2673de83daebc0ecea2bdbb9d41b"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/enigmatic-legacy.toml"
-hash = "c1590f660b09f438e899e92e29821f45d5ab66ccbb6c8ddf65a3352252de7081"
+hash = "bcabd38a7c88b5ef1a5525ad7205c5595d54c3a60e1030d5a3c00477324a503f"
 metafile = true
 
 [[files]]
@@ -168,6 +173,16 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "f250049175eb215fac45eb1f8703de18fa8fdc4f7b6995c2a14d2e0acff682eb"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "bda906a44e96526d08e68b8c504e6a31a691bd95ff8ba186f0887bfc325bac22"
 metafile = true
 
 [[files]]
@@ -197,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "3c26e2e22e97881387cca7b68fd860c2ba506702a311945f528d0f98621c17a8"
+hash = "330b85fe715ed051118cf1d2d7a15ce2e4571dd49fdd4b662a6a4c54d2df58c8"
 metafile = true
 
 [[files]]
@@ -222,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "048c7a36ab01ccb9c8c23029e4b12992b65483a84aa826af913a7190f17db96c"
+hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
 metafile = true
 
 [[files]]
@@ -252,27 +267,27 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.toml"
-hash = "3d573e3b0e9d18c6c8734c262b5b734027d24b3a661f276311d311c272d08c2d"
+hash = "e6d128a92717ba60523a1300f48b7b2245622d628226be15405855244a7f2577"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.toml"
-hash = "015b955a9ec177ca8c8d5938cf03a2774ed305cef5dee4d5ce6235c3d13e4793"
+hash = "db04ea28d41e4fd3e4c888f9173b056ec45057cf71dff5ebed98b30d565f05bc"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.toml"
-hash = "e61666a051a9e100993aa97f6ac60d907c29c8a0778195e302ca77f6c137be6c"
+hash = "942620bee3e206261a246b4f7aac7d8b6c2c633c2baea1114dd6e5fe628acac6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.toml"
-hash = "43c1feb49545364c77077ac7ef9c6c1bcdae61720f3a482effe3000f2e6a0fbb"
+hash = "b1f63382d591e40dbabb56d860a5a83c5c12ac0615b1d8d34d0f27d13ad37e97"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "078dbf632bd6b2ed384a2ef67bb7a761b3a2d591ceffa85335bb9a3785f44561"
+hash = "d4b29261bfa1b9830f2d06f44a0443bc92d0e1b183cc547e9de43ecf90fb8a91"
 metafile = true
 
 [[files]]
@@ -292,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
-hash = "1e4921160f4959e34fd89d865e4821ec6f21f085caedfc5f9788462b7c53106b"
+hash = "b886a0a7baa8bbb102e731a84275b77a2e96c350c0cf6c1d8405ab55f2316f6b"
 metafile = true
 
 [[files]]
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.toml"
 hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.toml"
+hash = "9cca53362425c65272b8ecb7df888b2a98206e71b96348a7576826d25c5d4699"
 metafile = true
 
 [[files]]
@@ -337,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "b27989a020f4455e52fb286971c25aabbe271396614a6e2379911f698daed3a6"
+hash = "c6655fe87f2a19206755a3421ff4ffbd3543e2b6217d49b9e896a914524bbc67"
 metafile = true
 
 [[files]]
@@ -356,28 +376,23 @@ hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
 metafile = true
 
 [[files]]
-file = "mods/slashblade.toml"
-hash = "3aa1a13bd739ea34f39d08ac8f6e88a632bb4e668c8eda7a10faebb64ab74e4a"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-forge.toml"
 hash = "8d9834d190bc83e098642d24e6e8c6b7c46b73bd85b4f5cb50e6dc5503780c7a"
 metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.toml"
-hash = "b44bd90a6115a44b79fe38ff82b8b08ec8474d74b9f53821972fa3413ce8bfdc"
+hash = "22e9d149ee87b9427a43b21f2ca48c01d9dbf7278172011b6c7c604f2b4d4f9b"
 metafile = true
 
 [[files]]
 file = "mods/sodium-reforged.toml"
-hash = "29fee1df9a9e4c83087b4edc5d490f6dca8d649c7276139bc6043f5c60a7cfdc"
+hash = "40bbddc9d705e912543d77d10b4f68c68b89c43e96b00614e2e341eebb442516"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "97bc45733600f6d3aa053f036c0dfdf842e4a0e251af9055f780da8d76c9d712"
+hash = "c5d890786834dbabeb8a80a2ea42e056d66ca7e445f4c549200dafc8634900c9"
 metafile = true
 
 [[files]]
@@ -387,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "e4688d3a0d3a6cc6bcd1badfde810578a9061be62ed604b9229641e93120be60"
+hash = "962a1b286c20d0fca4189bd79980f970d6d4a09c98d27e960e5592003d7a84a2"
 metafile = true
 
 [[files]]
@@ -397,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
-hash = "487e7e5a0025093a90877b0ca6fb9309058fe7c04b51473b2b05a764aba9fa23"
+hash = "091aaa694a13ff99d1de24ed894c983866bba315cf9d00cc9aa3af8f3e8675a9"
 metafile = true
 
 [[files]]
@@ -431,6 +446,11 @@ hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
 metafile = true
 
 [[files]]
+file = "mods/tips.toml"
+hash = "2dfafe24b6fb550b399985672dfb24f31a8e5af2aa4601dc6a71af750aec393e"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-become-a-vampire.toml"
 hash = "eed59bfdcff326bad0021acd9f958349fcb909842e391a25528813828dde465b"
 metafile = true
@@ -457,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "pack.ico"
-hash = "1ea5169b5f629713664cd5fa11b1bf4f5999ee222e7792f9a08715b600768b98"
+hash = "a34e53cd1a0834510ef39fa4c23fdd9a8904ba3ac5f21602aaeb7671b6816685"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
@@ -469,7 +489,7 @@ hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "01bcf173a80772c6cc2a80ec9727d8e019bc9229bb778dca4b04d09ba88b7e6b"
+hash = "860771e23ae882c93f597198e493237eaa193c73deb699adb38ea2baccb78a15"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
@@ -478,10 +498,6 @@ hash = "e1ae3e0c986cd28e777cdcc59135cc54423a0bb8f253c361f0f4d8d8d946b2ce"
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/options.json"
 hash = "cf0ac731f880d5378f19c44c31de15fc4a71b9a457389316841badd76aa14170"
-
-[[files]]
-file = "packmenu/resources/assets/packmenu/buttons/pack.json"
-hash = "4d48b4c26314a9414521615e74a693409bd8f0ee90631da0e7f8a025506af5ce"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/quit.json"
@@ -493,7 +509,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "e9edf8aeafff251997ca47f8d6137d41ddbf8fe2c864295cfe6f6bd9098d7dfe"
+hash = "57b12f20d219a55d50016d53a72f6dd70d0cfd026e493314e3b60cf4b3207eb2"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -501,7 +517,7 @@ hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
+hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
@@ -509,7 +525,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "b9a648b683f02537e6186106a9ba76fc6f8ceff42155979234eb480c070aba78"
+hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"

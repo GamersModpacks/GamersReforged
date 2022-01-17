@@ -1,13 +1,13 @@
 name = "Mekanism"
-filename = "Mekanism-1.16.5-10.1.0.455.jar"
+filename = "Mekanism-1.16.5-10.1.1.456.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/6/Mekanism-1.16.5-10.1.0.455.jar"
+url = "https://edge.forgecdn.net/files/3590/99/Mekanism-1.16.5-10.1.1.456.jar"
 hash-format = "murmur2"
-hash = "4106912133"
+hash = "1347632077"
 
 [update]
 [update.curseforge]
-file-id = 3577006
+file-id = 3590099
 project-id = 268560

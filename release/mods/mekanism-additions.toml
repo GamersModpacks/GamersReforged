@@ -1,13 +1,13 @@
 name = "Mekanism Additions"
-filename = "MekanismAdditions-1.16.5-10.1.0.455.jar"
+filename = "MekanismAdditions-1.16.5-10.1.1.456.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3577/10/MekanismAdditions-1.16.5-10.1.0.455.jar"
+url = "https://edge.forgecdn.net/files/3590/103/MekanismAdditions-1.16.5-10.1.1.456.jar"
 hash-format = "murmur2"
-hash = "2776984643"
+hash = "3658303463"
 
 [update]
 [update.curseforge]
-file-id = 3577010
+file-id = 3590103
 project-id = 345425

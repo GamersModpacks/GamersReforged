@@ -3,7 +3,7 @@
 	"y": 48,
 	"width": 200,
 	"height": 20,
-	"langKey": "fml.menu.mods",
+	"langKey": "gamers.info",
 	"action": "OPEN_GUI",
 	"data": "MODS"
 }
