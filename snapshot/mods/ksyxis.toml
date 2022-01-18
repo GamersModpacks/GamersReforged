@@ -1,0 +1,13 @@
+name = "Ksyxis"
+filename = "Ksyxis-Forge1.14thru1.16-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3502/164/Ksyxis-Forge1.14thru1.16-1.1.jar"
+hash-format = "murmur2"
+hash = "1650238092"
+
+[update]
+[update.curseforge]
+file-id = 3502164
+project-id = 537533
