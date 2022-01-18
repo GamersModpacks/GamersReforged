@@ -200,6 +200,11 @@ hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
 metafile = true
 
 [[files]]
+file = "mods/fastworkbench-minus-replacement.toml"
+hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.toml"
 hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
