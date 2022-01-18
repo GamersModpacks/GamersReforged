@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "330b85fe715ed051118cf1d2d7a15ce2e4571dd49fdd4b662a6a4c54d2df58c8"
+hash = "8731056848ae1d6e94dcc9cd450db951ecae58f36f2e8d78a4d90c1b4dbd644b"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "654ec00d47cf45e44b1c0675ff709cbd324c9a65cd23ad08fbb0434527caad4a"
+hash = "ccdd9cba60b0897565673f64122d919530903f8b360127da76b0c7b21ebb27d4"
 metafile = true
 
 [[files]]
