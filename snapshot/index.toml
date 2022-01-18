@@ -65,6 +65,11 @@ hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
 
 [[files]]
+file = "mods/betterend-forge-port.toml"
+hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
@@ -402,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/spartan-shields.toml"
 hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
+metafile = true
+
+[[files]]
+file = "mods/starlight-x-create.toml"
+hash = "550d765d4538a443d9bad319a0c3693748be04077868c40aeb1fc82bb11f7b21"
 metafile = true
 
 [[files]]
