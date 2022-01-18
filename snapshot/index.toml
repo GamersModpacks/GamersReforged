@@ -250,6 +250,11 @@ hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.toml"
+hash = "13088db077f610462ce689193fb04c6ef9af376c57185a2bdf0e84d8330fc365"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
@@ -330,8 +335,8 @@ hash = "9cca53362425c65272b8ecb7df888b2a98206e71b96348a7576826d25c5d4699"
 metafile = true
 
 [[files]]
-file = "mods/phosphor-reforged.toml"
-hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
+file = "mods/performant.toml"
+hash = "5a816f6638ef9a6d013b1756e4eda2208fa337bc4238bdc095ab25bb14ade201"
 metafile = true
 
 [[files]]
@@ -402,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/spartan-shields.toml"
 hash = "110d1c6e2574a1ef1a62c7d4d20dff33e806a095f79200aa21424199c9db26ed"
+metafile = true
+
+[[files]]
+file = "mods/starlight-x-create.toml"
+hash = "550d765d4538a443d9bad319a0c3693748be04077868c40aeb1fc82bb11f7b21"
 metafile = true
 
 [[files]]
