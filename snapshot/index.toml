@@ -255,11 +255,6 @@ hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.toml"
-hash = "13088db077f610462ce689193fb04c6ef9af376c57185a2bdf0e84d8330fc365"
-metafile = true
-
-[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
