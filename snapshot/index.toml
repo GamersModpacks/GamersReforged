@@ -65,6 +65,11 @@ hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
 
 [[files]]
+file = "mods/betterend-forge-port.toml"
+hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
@@ -332,11 +337,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.toml"
 hash = "9cca53362425c65272b8ecb7df888b2a98206e71b96348a7576826d25c5d4699"
-metafile = true
-
-[[files]]
-file = "mods/performant.toml"
-hash = "5a816f6638ef9a6d013b1756e4eda2208fa337bc4238bdc095ab25bb14ade201"
 metafile = true
 
 [[files]]
