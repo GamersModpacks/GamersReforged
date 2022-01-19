@@ -13,10 +13,6 @@ file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
-file = "defaultconfigs/ProjectE/client.toml"
-hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
-
-[[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
