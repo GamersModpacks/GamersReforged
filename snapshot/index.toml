@@ -65,11 +65,6 @@ hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
 
 [[files]]
-file = "mods/betterend-forge-port.toml"
-hash = "67ce7d811bf776b0cd1ce368863fdfab06eebcf6127bf40b301f49a22abb485e"
-metafile = true
-
-[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
@@ -136,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "9a698c2ab20921cda003880f7dd6397038fbaf508957ea281f80de47a27b32c6"
+hash = "255c7ddc831dc74ac1a9c0d01c8fafde5049284ffdbe3860e56c40656c993d0f"
 metafile = true
 
 [[files]]
@@ -337,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.toml"
 hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
-metafile = true
-
-[[files]]
-file = "mods/projecte.toml"
-hash = "a7c339f5ed947568c2fe71ceb0061d02cadf76479980d57c84dc5bdd8f158123"
 metafile = true
 
 [[files]]
