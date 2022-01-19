@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.toml"
-hash = "2dfafe24b6fb550b399985672dfb24f31a8e5af2aa4601dc6a71af750aec393e"
+hash = "d57cfca6a439a9643336d5b6404aa5830b491897a3fba537d5ae979ae18b0b3a"
 metafile = true
 
 [[files]]
