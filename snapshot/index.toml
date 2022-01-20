@@ -22,7 +22,7 @@ hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+hash = "d4333e440204f1e204f2418f77cc04ce959ade6d6a3293b2432bfcac2eecb2ac"
 metafile = true
 
 [[files]]
