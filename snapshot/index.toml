@@ -535,6 +535,10 @@ file = "resourcepacks/Default-Dark-Mode.zip"
 hash = "f5fb14de69e0783e99ce10eac05e0847225f297fff9da85149f76dbdde4ca452"
 
 [[files]]
+file = "resourcepacks/anti-alko.zip"
+hash = "33d2f19054ba7a7c133bf4dcc059a111703746bc9ea1d60f640eef9a7da9d0f7"
+
+[[files]]
 file = "resourcepacks/blynova.zip"
 hash = "9f3e840659eaf3b5a40f8673e81639bd85b59d4edafe63d3a706d8e767277157"
 
