@@ -374,6 +374,11 @@ hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen-forge.toml"
+hash = "8e6797d65b317432d031ce1fd92305b6b1dab62ffd28236b76dbc8f622c7bec3"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
 metafile = true
