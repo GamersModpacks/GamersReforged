@@ -169,11 +169,6 @@ hash = "bcabd38a7c88b5ef1a5525ad7205c5595d54c3a60e1030d5a3c00477324a503f"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.toml"
-hash = "5b0fc3b8a5f09f6bad2bd1c0d830f2317cf91a357b7331a5a74ccd0b9a496103"
-metafile = true
-
-[[files]]
 file = "mods/evilcraft.toml"
 hash = "86bf6d31baae2503f21a11ac8a02e7296bd469ff830a298adb4345a9952adb44"
 metafile = true
