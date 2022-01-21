@@ -9,20 +9,24 @@ file = "config/iceandfire-client.toml"
 hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
 
 [[files]]
+file = "config/itemphysic-client.json"
+hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
-file = "defaultconfigs/vampirism-common.toml"
-hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
-
-[[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+hash = "d4333e440204f1e204f2418f77cc04ce959ade6d6a3293b2432bfcac2eecb2ac"
 metafile = true
 
 [[files]]
@@ -508,7 +512,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "3822639797ae0a3ae8912a386dbfb23941c9342caaae383093aa70e9208e8949"
+hash = "c1d01fe081aed5a2360e1f4305dab22b57a88e9a5aee763506e939b1e0a56691"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
