@@ -1,13 +1,13 @@
 name = "EvilCraft"
-filename = "EvilCraft-1.16.5-1.1.11.jar"
+filename = "EvilCraft-1.16.5-1.1.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3546/741/EvilCraft-1.16.5-1.1.11.jar"
+url = "https://edge.forgecdn.net/files/3620/539/EvilCraft-1.16.5-1.1.12.jar"
 hash-format = "murmur2"
-hash = "3172328691"
+hash = "1279829666"
 
 [update]
 [update.curseforge]
-file-id = 3546741
+file-id = 3620539
 project-id = 74610

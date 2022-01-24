@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "4e04c4cfca77b48296ec9509e2a68e9e820bd267c5be93a97c850b79b0093b47"
+hash = "075f6a85c204a4b3fd9cbbbf1d9dd674c2d64fbe531e286ffe9511cf737e8011"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "a69e05f8b901a5965ba525901877378401042e41fe3e304ab62488c904de335f"
+hash = "8a0299011b63a9645f76d2ebac7ed69605b3faa90e90373887a01cccc46bec4f"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "76aee20f9cf5bfc3825fef0d55d49fd8c3d0792f86ec477477190d47973c2da8"
+hash = "3cfbef8dc4790e858fccae9ed271d47a13834e90583fb1b6452f7b2b29bea3f3"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.toml"
-hash = "86bf6d31baae2503f21a11ac8a02e7296bd469ff830a298adb4345a9952adb44"
+hash = "db2ec853ad146aff7117b92780847364aaa60ced7461810da3e2a9143554eec4"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "d4b29261bfa1b9830f2d06f44a0443bc92d0e1b183cc547e9de43ecf90fb8a91"
+hash = "19284e180a4d61767f68f149c239e86adef4da2f1db5b0d300719918f422454a"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "ccdd9cba60b0897565673f64122d919530903f8b360127da76b0c7b21ebb27d4"
+hash = "5d3aac384e1c4e6d1a849638f8653172802dfba0ef4c539fd01fcd06c7107255"
 metafile = true
 
 [[files]]
