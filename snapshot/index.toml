@@ -449,6 +449,16 @@ hash = "2dfafe24b6fb550b399985672dfb24f31a8e5af2aa4601dc6a71af750aec393e"
 metafile = true
 
 [[files]]
+file = "mods/valhelsia-core.toml"
+hash = "a3e395355442d1378466ad3fc45b6a221bf365fb78f30a6f9153335f94de3f91"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "307b243d9c4fb0be4364e73359f86ff87c073b697bd6a7cb70dbe0189a17ad14"
+metafile = true
+
+[[files]]
 file = "mods/vampirism-become-a-vampire.toml"
 hash = "eed59bfdcff326bad0021acd9f958349fcb909842e391a25528813828dde465b"
 metafile = true
