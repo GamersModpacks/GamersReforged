@@ -511,7 +511,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "c1d01fe081aed5a2360e1f4305dab22b57a88e9a5aee763506e939b1e0a56691"
+hash = "616530bbdb7c6d7096b13dff5bc3ffdd29702ecc8602f7743dda2daad53b7130"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
