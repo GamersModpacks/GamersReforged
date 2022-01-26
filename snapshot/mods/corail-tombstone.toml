@@ -1,13 +1,13 @@
 name = "Corail Tombstone"
-filename = "tombstone-6.6.3-1.16.5.jar"
+filename = "tombstone-6.7.1-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/696/tombstone-6.6.3-1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3623/354/tombstone-6.7.1-1.16.5.jar"
 hash-format = "murmur2"
-hash = "1074669831"
+hash = "2567781236"
 
 [update]
 [update.curseforge]
-file-id = 3551696
+file-id = 3623354
 project-id = 243707

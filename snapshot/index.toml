@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "59cb0135570a5e3dea26c4a76244efef28ef01ba9c14b53b8f25f10bf93876af"
+hash = "d8810e14c442e027bbbf9476cee4cd968864596d78d9bedaa63888c294c5a8ea"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "8731056848ae1d6e94dcc9cd450db951ecae58f36f2e8d78a4d90c1b4dbd644b"
+hash = "9fdf1b854e4fe6ba52ad4a13f464a2163a6a0554f450cca0807eb7fb6aaa8e02"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "5d3aac384e1c4e6d1a849638f8653172802dfba0ef4c539fd01fcd06c7107255"
+hash = "7e7ff65ad736a1e05b32b51a01321780f92c378aaa83fae8fc57d14d8523e6da"
 metafile = true
 
 [[files]]
