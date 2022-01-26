@@ -9,20 +9,28 @@ file = "config/iceandfire-client.toml"
 hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
 
 [[files]]
+file = "config/itemphysic-client.json"
+hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
+
+[[files]]
+file = "config/tips-client.toml"
+hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
+
+[[files]]
+file = "config/vampirism-common.toml"
+hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
-file = "defaultconfigs/vampirism-common.toml"
-hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
-
-[[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "ae3657297bd5725e27e619992102bd89c00d8580e2826c66b0757c6ca6c22f31"
+hash = "abc076457b5c54bbcbdc666d42f2ad3574f824c60d825c3521dd2dcaedfbd5bf"
 metafile = true
 
 [[files]]
@@ -87,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "4e04c4cfca77b48296ec9509e2a68e9e820bd267c5be93a97c850b79b0093b47"
+hash = "075f6a85c204a4b3fd9cbbbf1d9dd674c2d64fbe531e286ffe9511cf737e8011"
 metafile = true
 
 [[files]]
@@ -107,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "a69e05f8b901a5965ba525901877378401042e41fe3e304ab62488c904de335f"
+hash = "8a0299011b63a9645f76d2ebac7ed69605b3faa90e90373887a01cccc46bec4f"
 metafile = true
 
 [[files]]
@@ -117,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "59cb0135570a5e3dea26c4a76244efef28ef01ba9c14b53b8f25f10bf93876af"
+hash = "d8810e14c442e027bbbf9476cee4cd968864596d78d9bedaa63888c294c5a8ea"
 metafile = true
 
 [[files]]
@@ -127,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "9a698c2ab20921cda003880f7dd6397038fbaf508957ea281f80de47a27b32c6"
+hash = "255c7ddc831dc74ac1a9c0d01c8fafde5049284ffdbe3860e56c40656c993d0f"
 metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "76aee20f9cf5bfc3825fef0d55d49fd8c3d0792f86ec477477190d47973c2da8"
+hash = "3cfbef8dc4790e858fccae9ed271d47a13834e90583fb1b6452f7b2b29bea3f3"
 metafile = true
 
 [[files]]
@@ -161,13 +169,8 @@ hash = "bcabd38a7c88b5ef1a5525ad7205c5595d54c3a60e1030d5a3c00477324a503f"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.toml"
-hash = "5b0fc3b8a5f09f6bad2bd1c0d830f2317cf91a357b7331a5a74ccd0b9a496103"
-metafile = true
-
-[[files]]
 file = "mods/evilcraft.toml"
-hash = "86bf6d31baae2503f21a11ac8a02e7296bd469ff830a298adb4345a9952adb44"
+hash = "db2ec853ad146aff7117b92780847364aaa60ced7461810da3e2a9143554eec4"
 metafile = true
 
 [[files]]
@@ -191,11 +194,6 @@ hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
 metafile = true
 
 [[files]]
-file = "mods/fastworkbench-minus-replacement.toml"
-hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.toml"
 hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
@@ -212,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "330b85fe715ed051118cf1d2d7a15ce2e4571dd49fdd4b662a6a4c54d2df58c8"
+hash = "9fdf1b854e4fe6ba52ad4a13f464a2163a6a0554f450cca0807eb7fb6aaa8e02"
 metafile = true
 
 [[files]]
@@ -287,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "d4b29261bfa1b9830f2d06f44a0443bc92d0e1b183cc547e9de43ecf90fb8a91"
+hash = "19284e180a4d61767f68f149c239e86adef4da2f1db5b0d300719918f422454a"
 metafile = true
 
 [[files]]
@@ -336,11 +334,6 @@ hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
 metafile = true
 
 [[files]]
-file = "mods/projecte.toml"
-hash = "a7c339f5ed947568c2fe71ceb0061d02cadf76479980d57c84dc5bdd8f158123"
-metafile = true
-
-[[files]]
 file = "mods/quark.toml"
 hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
 metafile = true
@@ -368,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
 hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen-forge.toml"
+hash = "8e6797d65b317432d031ce1fd92305b6b1dab62ffd28236b76dbc8f622c7bec3"
 metafile = true
 
 [[files]]
@@ -402,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "962a1b286c20d0fca4189bd79980f970d6d4a09c98d27e960e5592003d7a84a2"
+hash = "8465ece7062f7243a1ff18c0d0f322a907900b4cae4af851ff7560e83c977060"
 metafile = true
 
 [[files]]
@@ -447,7 +445,17 @@ metafile = true
 
 [[files]]
 file = "mods/tips.toml"
-hash = "d57cfca6a439a9643336d5b6404aa5830b491897a3fba537d5ae979ae18b0b3a"
+hash = "2dfafe24b6fb550b399985672dfb24f31a8e5af2aa4601dc6a71af750aec393e"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.toml"
+hash = "a3e395355442d1378466ad3fc45b6a221bf365fb78f30a6f9153335f94de3f91"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "307b243d9c4fb0be4364e73359f86ff87c073b697bd6a7cb70dbe0189a17ad14"
 metafile = true
 
 [[files]]
@@ -467,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "654ec00d47cf45e44b1c0675ff709cbd324c9a65cd23ad08fbb0434527caad4a"
+hash = "7e7ff65ad736a1e05b32b51a01321780f92c378aaa83fae8fc57d14d8523e6da"
 metafile = true
 
 [[files]]
@@ -509,7 +517,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "57b12f20d219a55d50016d53a72f6dd70d0cfd026e493314e3b60cf4b3207eb2"
+hash = "270943b1ca69eba7b9669761bb4bed43f1bb517f52ee6fb99c4a33c9519952de"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -530,6 +538,10 @@ hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
 hash = "f5fb14de69e0783e99ce10eac05e0847225f297fff9da85149f76dbdde4ca452"
+
+[[files]]
+file = "resourcepacks/anti-alko.zip"
+hash = "34baecef4057fcb0bfab008592850ec66e3593e5b89c18e4fc048889ac8f7ad3"
 
 [[files]]
 file = "resourcepacks/blynova.zip"
