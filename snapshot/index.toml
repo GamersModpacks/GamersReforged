@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "19284e180a4d61767f68f149c239e86adef4da2f1db5b0d300719918f422454a"
+hash = "a0d5edd9c659a178a010eaa682f8042538acec9bbca6794b96aeb53711fa3760"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "7e7ff65ad736a1e05b32b51a01321780f92c378aaa83fae8fc57d14d8523e6da"
+hash = "2b42ae4cf8a9eb6d00ee6e719be818df1d681aaa84b2e9b784b5f617cb8d28df"
 metafile = true
 
 [[files]]
