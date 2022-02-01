@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "797ee3e9f9169850db15357c75fe3a7257ef80848d1b107ea38e72e719b096b3"
+hash = "3cfbef8dc4790e858fccae9ed271d47a13834e90583fb1b6452f7b2b29bea3f3"
 metafile = true
 
 [[files]]
