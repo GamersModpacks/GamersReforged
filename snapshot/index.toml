@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.toml"
-hash = "24596134b20d73ad58d03de84852e6633cc1e9f5348da9e39f0bbce0d69f8aa6"
+hash = "f1ebfbf47fe52f89f9023e32547f950b6b6b6d001ca715f5f439a495d4b73d5a"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
-hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
+hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
 metafile = true
 
 [[files]]
