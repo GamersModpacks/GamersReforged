@@ -44,11 +44,6 @@ hash = "369b4bf185fdb737c0f43689a5453a48892d5e3a8ec7b82364dfe20fb4462666"
 metafile = true
 
 [[files]]
-file = "mods/apotheosis.toml"
-hash = "b5ed6dc6b7cecf64dc583d9eb90e8556f6d6589d35780e306e834b7b8893e996"
-metafile = true
-
-[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "983beffdfcf8b3bb0d5e4e8e7fb4925e7a54e24f044754d86060c061d7ed7032"
 metafile = true
@@ -56,11 +51,6 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.toml"
 hash = "32a37a19ca391833366d2f669c22188bacf4f06e054b134b88224126bf0eb108"
-metafile = true
-
-[[files]]
-file = "mods/atum.toml"
-hash = "f818fe7eef16f66e93ee9637c81f8e37f28035e02e112ed8d755afa9be0f03ed"
 metafile = true
 
 [[files]]
@@ -155,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.toml"
-hash = "ff26634217b81de995738c22db2ce191d3f19dc67880aeb879130f6f6d6a5fe1"
+hash = "f1ebfbf47fe52f89f9023e32547f950b6b6b6d001ca715f5f439a495d4b73d5a"
 metafile = true
 
 [[files]]
@@ -176,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.toml"
-hash = "f250049175eb215fac45eb1f8703de18fa8fdc4f7b6995c2a14d2e0acff682eb"
 metafile = true
 
 [[files]]
@@ -244,11 +229,6 @@ hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.toml"
-hash = "29ca56fbe6d7940984fdb1b6d089248ed653b2cac51470232bb038fa1f9774c3"
-metafile = true
-
-[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
@@ -294,11 +274,6 @@ hash = "ad89e48343225c897ed33adc80344309fd7ab230e615e1770ef86d3aca01a409"
 metafile = true
 
 [[files]]
-file = "mods/more-mekanism-processing.toml"
-hash = "388109fcd6fbe13e7de28371ca1ce9d97e9ba9f1657b60ecd7c4fbc05931f7c2"
-metafile = true
-
-[[files]]
 file = "mods/moving-elevators.toml"
 hash = "45a46102ab55ced079b9b8daa63462b48d8f1e841bc012cadca69ac902790934"
 metafile = true
@@ -339,11 +314,6 @@ hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
 metafile = true
 
 [[files]]
-file = "mods/rats-ratlantis.toml"
-hash = "20c7f1834953da9bd2093b286760ad8581a5e8bc61ecb9932bd56b2bcff36905"
-metafile = true
-
-[[files]]
 file = "mods/rats.toml"
 hash = "405a94a3eb8885f355632b7978cad63b32b5e14bd1ea33f252b379442a199dda"
 metafile = true
@@ -360,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
-hash = "ebc115effc49fca0558aa70310697758498779e81c5d2d64ea60430fe30ba8e5"
+hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
 metafile = true
 
 [[files]]
@@ -371,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-forge.toml"
 hash = "8d9834d190bc83e098642d24e6e8c6b7c46b73bd85b4f5cb50e6dc5503780c7a"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.toml"
-hash = "22e9d149ee87b9427a43b21f2ca48c01d9dbf7278172011b6c7c604f2b4d4f9b"
 metafile = true
 
 [[files]]
@@ -424,18 +389,8 @@ hash = "dc0f37c1784a21ba440a12950224cda5cf837970244194c2f67cab558d73f4b5"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-delight.toml"
-hash = "564bcc2caa0a5a0ba49fabb235689bb7c7d992e6442449533c416351652d276d"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-planner.toml"
 hash = "7a0164c327f5a889752ea202f30b789c73a2d08537cc1cbc23d4e26e901cda79"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-rapier.toml"
-hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
 metafile = true
 
 [[files]]
@@ -497,7 +452,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "d57d650c9f7ba2c7f087aa8aef89f203aa50cce4716e813ef9693fd22ac00501"
+hash = "463e7fdf8438a8daa3235319865421d9f3041314aa68663328439e03eccd2f2d"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
