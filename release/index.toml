@@ -124,11 +124,6 @@ hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.toml"
-hash = "d8810e14c442e027bbbf9476cee4cd968864596d78d9bedaa63888c294c5a8ea"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -211,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.toml"
 hash = "6e9eb13858703aa0dc6d2d2b641ec3b1e748fcf08ace1694fa5c299bce6f331b"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.toml"
+hash = "eac1ccea43d0fc1acc625822e499ad9118ac3e25866a9274d32b77637c1fe711"
 metafile = true
 
 [[files]]
