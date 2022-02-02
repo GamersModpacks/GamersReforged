@@ -389,18 +389,8 @@ hash = "dc0f37c1784a21ba440a12950224cda5cf837970244194c2f67cab558d73f4b5"
 metafile = true
 
 [[files]]
-file = "mods/tinkers-delight.toml"
-hash = "564bcc2caa0a5a0ba49fabb235689bb7c7d992e6442449533c416351652d276d"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-planner.toml"
 hash = "7a0164c327f5a889752ea202f30b789c73a2d08537cc1cbc23d4e26e901cda79"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-rapier.toml"
-hash = "b24dbb558f7afbd40e1ab7e0f53b14a28a870ce46ca9b75abf9eec5bce47fa9a"
 metafile = true
 
 [[files]]
