@@ -105,11 +105,6 @@ hash = "6683848e32d877fa3f1c57e86373b6a3745df211384e847e4b4a93af26725d07"
 metafile = true
 
 [[files]]
-file = "mods/crash-utilities.toml"
-hash = "fe4c59a9507a285b9b898b5168d892f8ef8bdc18982bca2462afd9da9ca0e833"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
