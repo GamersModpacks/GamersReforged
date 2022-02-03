@@ -74,11 +74,6 @@ hash = "1848c9853eb4290c6324f87ef9a97ff22a81ed7aef2a8f43b2769f851f53080e"
 metafile = true
 
 [[files]]
-file = "mods/catalogue.toml"
-hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "670800ac41aca4b1bf82d70e124835b7c620b4f08e1bbd1496f5949843b1c2a8"
 metafile = true
@@ -190,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-forge.toml"
-hash = "c5d597667ea5fed34e18927c576f36d907d3c6bc7b81d3cd5b1676f30f7217e1"
+hash = "0c576223d194070c2f9bc0566cc49817fb4ce248b8c62113a3ce1f36e989cd5f"
 metafile = true
 
 [[files]]
