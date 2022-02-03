@@ -164,6 +164,11 @@ hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.toml"
+hash = "f250049175eb215fac45eb1f8703de18fa8fdc4f7b6995c2a14d2e0acff682eb"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "326e95ed4e68ff443e0f06ded9c12b60cc808a17ba2a85c6bcc83b90b2a1b1b3"
 metafile = true
@@ -326,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
 hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen-forge.toml"
+hash = "b8056ea02bdb8596ae8aebd3cc35e0c8331dda25b6ba8c7715b5e09990cadcc3"
 metafile = true
 
 [[files]]
