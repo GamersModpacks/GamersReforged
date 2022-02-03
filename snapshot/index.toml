@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
+hash = "f45084303a726c1e5e55b1f575571f8f1a19d6dfaa09d14282ac1705abdd24bc"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -17,16 +17,17 @@ file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
-file = "config/tips-client.toml"
-hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
-
-[[files]]
 file = "config/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.toml"
+hash = "7f646cd73600eee23d0ebb33f43b963efb3f4283bd6a39f25bdbc5b3caf029cf"
+metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
@@ -90,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "3cd69fc6abbe2eee23919e365cc9e569f06d8cd758bbd05557962729f5371efd"
+hash = "9a4bb4a307f971f1a7b6f788909266c9a8d6aa946196838657459a8f5a6f40dd"
 metafile = true
 
 [[files]]
@@ -105,12 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
-metafile = true
-
-[[files]]
-file = "mods/corail-tombstone.toml"
-hash = "8aa5b228af8d6966cc4b6803181f7a9db7ebf199b83cf46cd1d7915e6463b74a"
+hash = "6683848e32d877fa3f1c57e86373b6a3745df211384e847e4b4a93af26725d07"
 metafile = true
 
 [[files]]
@@ -141,11 +137,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-surroundings.toml"
 hash = "f1ebfbf47fe52f89f9023e32547f950b6b6b6d001ca715f5f439a495d4b73d5a"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-view.toml"
-hash = "1dc058d27b1cbc50f4b0266671992469e7be458403562dcf032162a578ee5631"
 metafile = true
 
 [[files]]
@@ -185,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-forge.toml"
-hash = "0c576223d194070c2f9bc0566cc49817fb4ce248b8c62113a3ce1f36e989cd5f"
+hash = "6e9bd03de1fcb1095b820842022c7669d158154f2d8d861a8621db8be7c8f46f"
 metafile = true
 
 [[files]]
@@ -221,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.toml"
+hash = "0fa524f2ae998dc9a1e493ab32e3c99ef259773baaea03ab1b6f7abb1fc56b1e"
 metafile = true
 
 [[files]]
@@ -276,11 +272,6 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes-forge.toml"
-hash = "b886a0a7baa8bbb102e731a84275b77a2e96c350c0cf6c1d8405ab55f2316f6b"
 metafile = true
 
 [[files]]
@@ -471,7 +462,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
+hash = "cea3b54580cc5a28292d412793eaa157c10c7e51079833dc7712ae1b6328d459"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"

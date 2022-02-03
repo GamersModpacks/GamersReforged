@@ -1,10 +1,6 @@
 name = "FTB Backups (Forge)"
 filename = "ftb-backups-2.1.2.2.jar"
-side = "both"
-
-[option]
-optional = true
-default = true
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3482/306/ftb-backups-2.1.2.2.jar"

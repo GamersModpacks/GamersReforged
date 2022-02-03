@@ -21,7 +21,7 @@
   "enableCape": true,
   "forceFillSkullNBT": false,
   "threadPoolSize": 3,
-  "retryTime": 1,
+  "retryTime": 10,
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
