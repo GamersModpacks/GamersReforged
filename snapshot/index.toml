@@ -110,11 +110,6 @@ hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.toml"
-hash = "8b4f82d03bcfa8b6ad7306818678ac94364feef3d855ad1404e84e1eb19396d7"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
