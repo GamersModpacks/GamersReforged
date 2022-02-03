@@ -160,11 +160,6 @@ hash = "326e95ed4e68ff443e0f06ded9c12b60cc808a17ba2a85c6bcc83b90b2a1b1b3"
 metafile = true
 
 [[files]]
-file = "mods/fastfurnace-minus-replacement.toml"
-hash = "ebcde053839b60be53e6c8068ed1c0a9fa2be91ae8c5cda3263e988a4c31f6b1"
-metafile = true
-
-[[files]]
 file = "mods/fastworkbench-minus-replacement.toml"
 hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
@@ -215,18 +210,8 @@ hash = "ea75886dddd5865f65f0861c5ece905e324f8e3f96f24946bb1f70046bd0f789"
 metafile = true
 
 [[files]]
-file = "mods/jaopca.toml"
-hash = "81059a177f563f9da0ef7b368b1e845ab19641250998abc4661cd8cf08a0b614"
-metafile = true
-
-[[files]]
 file = "mods/jei.toml"
 hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
-metafile = true
-
-[[files]]
-file = "mods/krypton-reforged.toml"
-hash = "0fa524f2ae998dc9a1e493ab32e3c99ef259773baaea03ab1b6f7abb1fc56b1e"
 metafile = true
 
 [[files]]
