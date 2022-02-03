@@ -310,11 +310,6 @@ hash = "72feb822dc46ed4852771c7a9c6bf1262cd9d092b877b375f558fde6d986d8a7"
 metafile = true
 
 [[files]]
-file = "mods/roadrunner.toml"
-hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.toml"
 hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
 metafile = true
