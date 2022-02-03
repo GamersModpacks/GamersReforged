@@ -17,6 +17,10 @@ file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
+file = "config/performant-common.toml"
+hash = "36542e5af5ff85a538e0ea7595bfc01dca0efb07c4720170ec0157f993b9238f"
+
+[[files]]
 file = "config/vampirism-common.toml"
 hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
