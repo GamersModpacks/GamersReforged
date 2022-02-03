@@ -105,6 +105,11 @@ hash = "6683848e32d877fa3f1c57e86373b6a3745df211384e847e4b4a93af26725d07"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.toml"
+hash = "8b4f82d03bcfa8b6ad7306818678ac94364feef3d855ad1404e84e1eb19396d7"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -152,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.toml"
 hash = "326e95ed4e68ff443e0f06ded9c12b60cc808a17ba2a85c6bcc83b90b2a1b1b3"
-metafile = true
-
-[[files]]
-file = "mods/fastworkbench-minus-replacement.toml"
-hash = "85316e47f24bd7edcb099170cb84a8d5de206115362132a5d96b5a9b0a4d728e"
 metafile = true
 
 [[files]]
