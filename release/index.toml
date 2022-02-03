@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "cafc0cf56209b5e7d920ad0285dce97fec2ecff2b2473985b2aefac16328acd7"
+hash = "f45084303a726c1e5e55b1f575571f8f1a19d6dfaa09d14282ac1705abdd24bc"
 
 [[files]]
 file = "config/iceandfire-client.toml"
@@ -17,8 +17,8 @@ file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
-file = "config/tips-client.toml"
-hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
+file = "config/performant-common.toml"
+hash = "36542e5af5ff85a538e0ea7595bfc01dca0efb07c4720170ec0157f993b9238f"
 
 [[files]]
 file = "config/vampirism-common.toml"
@@ -114,11 +114,6 @@ hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.toml"
-hash = "8aa5b228af8d6966cc4b6803181f7a9db7ebf199b83cf46cd1d7915e6463b74a"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -166,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "f250049175eb215fac45eb1f8703de18fa8fdc4f7b6995c2a14d2e0acff682eb"
 metafile = true
 
 [[files]]
@@ -299,6 +299,11 @@ hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
 metafile = true
 
 [[files]]
+file = "mods/performant.toml"
+hash = "6af4abefe50b38b35440086f91a751ae99f6ed7e3fb53f0333fb95377b8d6c37"
+metafile = true
+
+[[files]]
 file = "mods/phosphor-reforged.toml"
 hash = "bd3b5346a759a86de6538259734f50a4bea4a3e8ea8aa6fdb7b9693dbb0fdc0f"
 metafile = true
@@ -324,13 +329,13 @@ hash = "72feb822dc46ed4852771c7a9c6bf1262cd9d092b877b375f558fde6d986d8a7"
 metafile = true
 
 [[files]]
-file = "mods/roadrunner.toml"
-hash = "ad13aa37b06c1b71e1d4f472aebc0d3accf50cf208a221767bdde42875efb288"
+file = "mods/screenshot-to-clipboard.toml"
+hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard.toml"
-hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
+file = "mods/seamless-loading-screen-forge.toml"
+hash = "b8056ea02bdb8596ae8aebd3cc35e0c8331dda25b6ba8c7715b5e09990cadcc3"
 metafile = true
 
 [[files]]
@@ -452,7 +457,7 @@ hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "463e7fdf8438a8daa3235319865421d9f3041314aa68663328439e03eccd2f2d"
+hash = "9065f7236a8fae9385d1329f33bf9811d3999e6081ee8ad42661c880487984fb"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -468,7 +473,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
+hash = "cea3b54580cc5a28292d412793eaa157c10c7e51079833dc7712ae1b6328d459"
 
 [[files]]
 file = "resourcepacks/Default-Dark-Mode.zip"
