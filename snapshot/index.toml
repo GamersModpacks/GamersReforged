@@ -70,6 +70,11 @@ hash = "1848c9853eb4290c6324f87ef9a97ff22a81ed7aef2a8f43b2769f851f53080e"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.toml"
+hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.toml"
 hash = "670800ac41aca4b1bf82d70e124835b7c620b4f08e1bbd1496f5949843b1c2a8"
 metafile = true
@@ -86,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.toml"
-hash = "9a4bb4a307f971f1a7b6f788909266c9a8d6aa946196838657459a8f5a6f40dd"
+hash = "3cd69fc6abbe2eee23919e365cc9e569f06d8cd758bbd05557962729f5371efd"
 metafile = true
 
 [[files]]
@@ -101,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "6683848e32d877fa3f1c57e86373b6a3745df211384e847e4b4a93af26725d07"
+hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
 
 [[files]]
@@ -140,6 +145,11 @@ hash = "f1ebfbf47fe52f89f9023e32547f950b6b6b6d001ca715f5f439a495d4b73d5a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.toml"
+hash = "1dc058d27b1cbc50f4b0266671992469e7be458403562dcf032162a578ee5631"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-legacy.toml"
 hash = "bcabd38a7c88b5ef1a5525ad7205c5595d54c3a60e1030d5a3c00477324a503f"
 metafile = true
@@ -160,6 +170,11 @@ hash = "326e95ed4e68ff443e0f06ded9c12b60cc808a17ba2a85c6bcc83b90b2a1b1b3"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.toml"
+hash = "35621f8d7144d6f09eec2be534c9fff2b238f9703d9428dc5076446e8f539ae3"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.toml"
 hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
@@ -171,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-forge.toml"
-hash = "6e9bd03de1fcb1095b820842022c7669d158154f2d8d861a8621db8be7c8f46f"
+hash = "c5d597667ea5fed34e18927c576f36d907d3c6bc7b81d3cd5b1676f30f7217e1"
 metafile = true
 
 [[files]]
@@ -265,8 +280,8 @@ hash = "7035dd99730c84b68c024c050ee08f15e8a107c11d3fdf3d8abe061adf8d08d9"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.toml"
-hash = "3dab80aa90008490f6e516101c24e6550e4d4107e00e8e5412cdd7ddd9004385"
+file = "mods/not-enough-crashes-forge.toml"
+hash = "b886a0a7baa8bbb102e731a84275b77a2e96c350c0cf6c1d8405ab55f2316f6b"
 metafile = true
 
 [[files]]
@@ -312,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
 hash = "6b8c6eb20a0503ca0edc123ed44cf3be9b4059157a2e1324282861075d70920b"
-metafile = true
-
-[[files]]
-file = "mods/seamless-loading-screen-forge.toml"
-hash = "c68a62fefefae773b60d5954d50d643b044be192298c696b4039b75a9653b3fe"
 metafile = true
 
 [[files]]
