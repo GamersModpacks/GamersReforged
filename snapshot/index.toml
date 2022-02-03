@@ -215,6 +215,11 @@ hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.toml"
+hash = "0fa524f2ae998dc9a1e493ab32e3c99ef259773baaea03ab1b6f7abb1fc56b1e"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
 metafile = true
