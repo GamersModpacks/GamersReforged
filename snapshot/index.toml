@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "075f6a85c204a4b3fd9cbbbf1d9dd674c2d64fbe531e286ffe9511cf737e8011"
+hash = "ac6ca84d9e9c5cfb17621156d7cc4e72b4d0d29c4e54c5ba6abaf001054b472e"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "8c650c9dd2019f2fb41e21e00fe3cd46ed78224504b74f3f2ae9404d3ada5a18"
+hash = "da11f87993f8f1e83b072f11384bf9896efb1d8556695cdd3caee68d55417e4a"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/materialis.toml"
-hash = "8c851dd5810a937c93644cc26e7a857c0fd4abae5c4f8fb525e4a0caab84d71a"
+hash = "7b5b7ab009638ad066e1636dace52c86268487e8728ee95ad8eca584e7f070dc"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "ad89e48343225c897ed33adc80344309fd7ab230e615e1770ef86d3aca01a409"
+hash = "e3b8c980510258f5d932aee9903ea566bedd13bf943a41800dd2b29ec44120d7"
 metafile = true
 
 [[files]]
@@ -415,12 +415,12 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "2b42ae4cf8a9eb6d00ee6e719be818df1d681aaa84b2e9b784b5f617cb8d28df"
+hash = "2f828a9161ab0c1ddc07f3360017c9372b789e8759fcca32de95d1a1942282a8"
 metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.toml"
-hash = "57c70819108581d4632a08e6d86931a9b8d784f389a41ce3606851dfd4b039a2"
+hash = "537451e04f00504ae18f6d12cd598050d36fac07fc5e53e0bc3a682e75163cde"
 metafile = true
 
 [[files]]

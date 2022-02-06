@@ -1,13 +1,13 @@
 name = "Materialis"
-filename = "materialis-1.16.5-2.4.2.jar"
+filename = "materialis-1.16.5-2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3575/891/materialis-1.16.5-2.4.2.jar"
+url = "https://edge.forgecdn.net/files/3635/300/materialis-1.16.5-2.5.0.jar"
 hash-format = "murmur2"
-hash = "3718572272"
+hash = "4269765693"
 
 [update]
 [update.curseforge]
-file-id = 3575891
+file-id = 3635300
 project-id = 377652

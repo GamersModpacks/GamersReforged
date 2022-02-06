@@ -1,13 +1,13 @@
 name = "Wireless Chargers"
-filename = "wirelesschargers-1.0.3-mc1.16.jar"
+filename = "wirelesschargers-1.0.4-mc1.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3524/885/wirelesschargers-1.0.3-mc1.16.jar"
+url = "https://edge.forgecdn.net/files/3636/497/wirelesschargers-1.0.4-mc1.16.jar"
 hash-format = "murmur2"
-hash = "1432515515"
+hash = "818127823"
 
 [update]
 [update.curseforge]
-file-id = 3524885
+file-id = 3636497
 project-id = 510656
