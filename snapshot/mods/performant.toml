@@ -1,13 +1,13 @@
 name = "Performant"
-filename = "performant-1.16.2-5-3.84m.jar"
+filename = "performant-1.16.2-5-3.85m.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3626/783/performant-1.16.2-5-3.84m.jar"
-hash-format = "murmur2"
-hash = "2705280730"
+url = "https://edge.forgecdn.net/files/3642/362/performant-1.16.2-5-3.85m.jar"
+hash-format = "sha1"
+hash = "1e8a7023165299b9699d7397b05781a50fbe89b0"
 
 [update]
 [update.curseforge]
-file-id = 3626783
+file-id = 3642362
 project-id = 354143

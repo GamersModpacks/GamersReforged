@@ -1,13 +1,13 @@
 name = "Cyclic"
-filename = "Cyclic-1.16.5-1.5.13.jar"
+filename = "Cyclic-1.16.5-1.5.14.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3585/192/Cyclic-1.16.5-1.5.13.jar"
-hash-format = "murmur2"
-hash = "1758864176"
+url = "https://edge.forgecdn.net/files/3640/728/Cyclic-1.16.5-1.5.14.jar"
+hash-format = "sha1"
+hash = "90a8f495131b2ae0ca6c6ba8dc8302f0bf7b68da"
 
 [update]
 [update.curseforge]
-file-id = 3585192
+file-id = 3640728
 project-id = 239286

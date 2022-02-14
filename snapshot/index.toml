@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "00d524a05bb039db4fd460241c92e99291516b8c071c34c449cca5405c992da6"
+hash = "52823e70e9ab44424f43d9a37b3f95814b330c0bb8f67dbc213f192f613f56b6"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "bc85cdbb520a89f691f787ab19f4edb9dcbc2673de83daebc0ecea2bdbb9d41b"
+hash = "183447c034f73043650e3ca7771605eedadbf034d4b218163dcdd06126d8451f"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.toml"
-hash = "db2ec853ad146aff7117b92780847364aaa60ced7461810da3e2a9143554eec4"
+hash = "261c93fee2f4abc47db4c3f4435e3ab58ee6d3e3969ae5eb7968b3ad01c8d080"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "e3b8c980510258f5d932aee9903ea566bedd13bf943a41800dd2b29ec44120d7"
+hash = "25e21761ba555412b61fac3eaf034cb9b15a46467042b530a3f913da61e84d64"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "6af4abefe50b38b35440086f91a751ae99f6ed7e3fb53f0333fb95377b8d6c37"
+hash = "dcc3c5a1adfe9128b542bfb6f3dc78d98bec3e1551931191efd1a2a6ab8258d2"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "08bd3e5a99c8209124ab967f51516d2364f0604f42de9ae09e8c446e155f8804"
+hash = "ee49ae892b8d1483172b2132f30b96a3ba45d2d46ba51a2113e0aee3eb90c909"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.toml"
-hash = "c5d890786834dbabeb8a80a2ea42e056d66ca7e445f4c549200dafc8634900c9"
+hash = "eeea9c394075838e9b359657ec91499e0abf24b070a765b47f4e4fda07776a79"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "8465ece7062f7243a1ff18c0d0f322a907900b4cae4af851ff7560e83c977060"
+hash = "b80230e277d5b0a347f2a9ff751992d7f62a43ffa8a75b88e1281b5331bcd31b"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "2f828a9161ab0c1ddc07f3360017c9372b789e8759fcca32de95d1a1942282a8"
+hash = "ab984e94877019dd16d49ada0731f50222661d993dc70988de77b8b1e553a3bc"
 metafile = true
 
 [[files]]

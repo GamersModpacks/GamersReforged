@@ -1,13 +1,13 @@
 name = "Werewolves - Become a Beast!"
-filename = "Werewolves-1.16.5-1.8-0.6.0-alpha+20220204-1429.jar"
+filename = "Werewolves-1.16.5-1.8-0.6.0-alpha+20220210-1639.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3636/262/Werewolves-1.16.5-1.8-0.6.0-alpha+20220204-1429.jar"
-hash-format = "murmur2"
-hash = "3768184482"
+url = "https://edge.forgecdn.net/files/3643/97/Werewolves-1.16.5-1.8-0.6.0-alpha+20220210-1639.jar"
+hash-format = "sha1"
+hash = "faad0b3751354a79850d2a6efc7bd0d01b1ae7ac"
 
 [update]
 [update.curseforge]
-file-id = 3636262
+file-id = 3643097
 project-id = 417851
