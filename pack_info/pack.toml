@@ -1,6 +1,10 @@
 name = "GamersReforged"
 author = "Den4enko"
+<<<<<<< HEAD
 version = "1.11"
+=======
+version = "1.9.2"
+>>>>>>> parent of 10cb2a1 (Release 1.10)
 pack-format = "packwiz:1.0.0"
 
 [index]
