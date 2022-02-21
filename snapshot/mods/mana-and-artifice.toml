@@ -1,13 +1,13 @@
 name = "Mana and Artifice"
-filename = "mana-and-artifice-1.5.1.6.jar"
+filename = "mana-and-artifice-1.5.1.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3638/916/mana-and-artifice-1.5.1.6.jar"
-hash-format = "murmur2"
-hash = "1450125732"
+url = "https://edge.forgecdn.net/files/3651/870/mana-and-artifice-1.5.1.7.jar"
+hash-format = "sha1"
+hash = "723578d61c100750b2b811bec3997c279c03c2cc"
 
 [update]
 [update.curseforge]
-file-id = 3638916
+file-id = 3651870
 project-id = 406360

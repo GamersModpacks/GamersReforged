@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture.toml"
-hash = "32a37a19ca391833366d2f669c22188bacf4f06e054b134b88224126bf0eb108"
+hash = "86d2ccabf5b6e5eb9011d882f75a1f66f04321b5dad3d20f74f9d21f6f604c30"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "1b6851f5cd4fd6295bb4581ebc97f7d561253e5cbdcedcaef38d495562cbc6c3"
+hash = "d7a50ba442580b966c144b56eb1b7a571622c86209c0133a0e31421eafb76340"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.toml"
-hash = "da11f87993f8f1e83b072f11384bf9896efb1d8556695cdd3caee68d55417e4a"
+hash = "dbc9ceebfea9b3ac4962dbd154b0b70d9e5d92b61574a7c51e17ea42733cf6b6"
 metafile = true
 
 [[files]]
@@ -270,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "25e21761ba555412b61fac3eaf034cb9b15a46467042b530a3f913da61e84d64"
+hash = "8d861fde9aa2acadfc62d6565782f5fd0bafd6030c50cf96e0bce824d4d2bf93"
 metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "45a46102ab55ced079b9b8daa63462b48d8f1e841bc012cadca69ac902790934"
+hash = "141a76d9433c5f9e2eb42e77c511bb78ba5cf85be88b3b2717e54d68a0390382"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "eb107ffeee4fa0178e4e02572b2c09d01c9d2ce789e18b6c40066b079bd00abf"
+hash = "e7a76fe0150e019dd9fdd30577f509975d6b82f890fa60076a79ae5d9286f050"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "ab984e94877019dd16d49ada0731f50222661d993dc70988de77b8b1e553a3bc"
+hash = "d12a0d427435fea2aeeb5763e92cfaf496f9e26ce120ed2e194d2e8333ead63c"
 metafile = true
 
 [[files]]
