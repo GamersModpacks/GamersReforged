@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.toml"
-hash = "326e95ed4e68ff443e0f06ded9c12b60cc808a17ba2a85c6bcc83b90b2a1b1b3"
+hash = "bda906a44e96526d08e68b8c504e6a31a691bd95ff8ba186f0887bfc325bac22"
 metafile = true
 
 [[files]]
@@ -251,11 +251,6 @@ metafile = true
 [[files]]
 file = "mods/lazy-dfu-forge.toml"
 hash = "96aa94af84d9d63fb8d9b27317f95a00721bc3144d2461faa7a456b4e16ad188"
-metafile = true
-
-[[files]]
-file = "mods/mana-and-artifice.toml"
-hash = "dbc9ceebfea9b3ac4962dbd154b0b70d9e5d92b61574a7c51e17ea42733cf6b6"
 metafile = true
 
 [[files]]
@@ -460,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.toml"
-hash = "15eef055d1529a606be2a50106a9863baa6090d6c9475204fcd1eaedbfe338ba"
+hash = "984aa62a0e3d4dba22c1d2e01dc9253c819624463154d2933c75e30cddbd1d9f"
 metafile = true
 
 [[files]]
