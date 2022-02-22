@@ -344,6 +344,11 @@ hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
 metafile = true
 
 [[files]]
+file = "mods/projecte.toml"
+hash = "fc7a68deb913a8921c201ad953882c8772622b6ed1416303674319be6ad6692a"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "ee49ae892b8d1483172b2132f30b96a3ba45d2d46ba51a2113e0aee3eb90c909"
 metafile = true
@@ -376,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/shutup-experimental-settings.toml"
 hash = "8c780b20ce184c219bc47a96fbbc561c2ac9ca469f1b28b96cab535b7b8f8f0e"
+metafile = true
+
+[[files]]
+file = "mods/slashblade.toml"
+hash = "5deb8baf0ce61343840c010e1af22e8adc81487e6860e586e9296ac1d5ed31a2"
 metafile = true
 
 [[files]]

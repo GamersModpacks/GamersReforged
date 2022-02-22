@@ -1,6 +1,6 @@
 name = "Fast Leaf Decay"
 filename = "FastLeafDecay-v25.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3590/413/FastLeafDecay-v25.2.jar"

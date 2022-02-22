@@ -1,6 +1,6 @@
 name = "Tips"
 filename = "Tips-1.16.5-4.0.15.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3604/215/Tips-1.16.5-4.0.15.jar"
