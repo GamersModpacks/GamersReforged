@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "797ee3e9f9169850db15357c75fe3a7257ef80848d1b107ea38e72e719b096b3"
+hash = "5441a60c245c89e0e5929d6e835ebfc52b1631febb3f2dd55825da803ef1f03a"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "8d861fde9aa2acadfc62d6565782f5fd0bafd6030c50cf96e0bce824d4d2bf93"
+hash = "3dbbc9a32347e8c3b2d5adbcd70465624e9eea534f4ac0ea9af627fff790cfae"
 metafile = true
 
 [[files]]
