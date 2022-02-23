@@ -1,0 +1,17 @@
+name = "CameraOverhaul (Forge)"
+filename = "cameraoverhaul-1.0-1.16.4.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3191/725/cameraoverhaul-1.0-1.16.4.jar"
+hash-format = "sha1"
+hash = "191786a4de1884aee71058e41836893b29ef990d"
+
+[update]
+[update.curseforge]
+file-id = 3191725
+project-id = 443034

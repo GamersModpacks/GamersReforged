@@ -92,6 +92,11 @@ hash = "1848c9853eb4290c6324f87ef9a97ff22a81ed7aef2a8f43b2769f851f53080e"
 metafile = true
 
 [[files]]
+file = "mods/camera-overhaul-forge.toml"
+hash = "dbf400061a66b3536c13266a787e8b40542ae8736f2114709edc64d2d5685486"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.toml"
 hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
 metafile = true
