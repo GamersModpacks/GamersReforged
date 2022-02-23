@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.toml"
-hash = "f52b25d7d3e61232340bde63722a1a8c130ab1d9a13c2847d435afaa469c6ca3"
+hash = "4519399d9f2958841a3299d6df5ea042bb395c9ce037a057526b0c56c16283c9"
 metafile = true
 
 [[files]]
