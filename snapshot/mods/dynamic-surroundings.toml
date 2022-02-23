@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Мод добавляющий реалистичные эффекты"
 
 [download]
 url = "https://edge.forgecdn.net/files/3502/320/DynamicSurroundings-1.16.5-4.0.5.0.jar"

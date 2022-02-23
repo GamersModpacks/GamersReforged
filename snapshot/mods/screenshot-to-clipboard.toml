@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Мод копирующий скриншот в буфер обмена при нажатии F2"
 
 [download]
 url = "https://edge.forgecdn.net/files/3509/44/screenshot-to-clipboard-1.0.7-forge.jar"

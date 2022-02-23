@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Мод добавляющий более реалистичное движение игровой камеры"
 
 [download]
 url = "https://edge.forgecdn.net/files/3191/725/cameraoverhaul-1.0-1.16.4.jar"
