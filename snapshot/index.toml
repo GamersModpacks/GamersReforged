@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-overhaul-forge.toml"
-hash = "a14d30ba02632fb1eb22630babd646bd53a44cea2d863e32e0f3c2e9ed728e3d"
+hash = "d5f658099c192e8b1d9c7c0075644eba4871efda2100669f83a92e05fe96cb09"
 metafile = true
 
 [[files]]

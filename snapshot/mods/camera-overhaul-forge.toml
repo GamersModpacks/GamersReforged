@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Mod that attempts to improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback."
 
 [download]
