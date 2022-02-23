@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-overhaul-forge.toml"
-hash = "ae95b393366f5aa9a3428611a8d6c8932d0aaea3b410b1d117db22f845d1a71a"
+hash = "a14d30ba02632fb1eb22630babd646bd53a44cea2d863e32e0f3c2e9ed728e3d"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.toml"
-hash = "5ff9d15934197a383c1cc4a92b957a793a0b9cd63d1c11ecf375fa7bcbd23d7e"
+hash = "f52b25d7d3e61232340bde63722a1a8c130ab1d9a13c2847d435afaa469c6ca3"
 metafile = true
 
 [[files]]
@@ -373,12 +373,12 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
-hash = "1e10b3bd8f3506b106fda5ddbe2ab5d2dc1b894069ea886887ca04fcc9669c62"
+hash = "3255624848075ce112318b1370d0895efd93d88c9f76198e8d140e5213afd627"
 metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen-forge.toml"
-hash = "63b4855deb838de068fcbf8a269f5e71776abdce402c44b35e2b94899160aa54"
+hash = "a6b7252a8df648ff93b76700536a74e5b0ac8e47ace10f4fd607db76951dc250"
 metafile = true
 
 [[files]]

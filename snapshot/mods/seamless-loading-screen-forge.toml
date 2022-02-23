@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Мод добавляющий красивую загрузку мира"
+description = "Mod that takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it."
 
 [download]
 url = "https://edge.forgecdn.net/files/3601/876/seamless_loading_screen-1.16.5-1.1.7.jar"

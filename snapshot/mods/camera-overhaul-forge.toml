@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Мод добавляющий более реалистичное движение игровой камеры"
+description = "Mod that attempts to improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback."
 
 [download]
 url = "https://edge.forgecdn.net/files/3191/725/cameraoverhaul-1.0-1.16.4.jar"
