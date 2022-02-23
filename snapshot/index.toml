@@ -319,11 +319,6 @@ hash = "4096fe53f38b3a3132f6008c6e06108896baf662196c90f124ffc9054021a0dd"
 metafile = true
 
 [[files]]
-file = "mods/pehkui.toml"
-hash = "31bf8ff669c3a61e0c86f7e844be7df0f4d0bb64217a693c085317b0abc00bc2"
-metafile = true
-
-[[files]]
 file = "mods/performant.toml"
 hash = "e7a76fe0150e019dd9fdd30577f509975d6b82f890fa60076a79ae5d9286f050"
 metafile = true
