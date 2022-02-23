@@ -132,6 +132,11 @@ hash = "8a0299011b63a9645f76d2ebac7ed69605b3faa90e90373887a01cccc46bec4f"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.toml"
+hash = "c22694d13861c2bb7177d842d73c7b25a380b086d9f88afc6ae28caadad7076f"
+metafile = true
+
+[[files]]
 file = "mods/configured.toml"
 hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
 metafile = true
@@ -187,6 +192,11 @@ hash = "261c93fee2f4abc47db4c3f4435e3ab58ee6d3e3969ae5eb7968b3ad01c8d080"
 metafile = true
 
 [[files]]
+file = "mods/exchangers.toml"
+hash = "369ad60ae62024acd170a7469f081b7e3938b32a4b96b432b060ee33fdde2504"
+metafile = true
+
+[[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
 metafile = true
@@ -212,6 +222,11 @@ hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.toml"
+hash = "e8ff915c7f18dbab9323c080c34275fccaf761f5de5ea86f9ee27e7b9b20ca32"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.toml"
 hash = "3826f00cc0c78a240ba551112bea34f59cc64ce067b8815c403a37188b0a85fc"
 metafile = true
@@ -229,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/guide-api-village-and-pillage.toml"
 hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.toml"
+hash = "67dc8aafb29124724aadd7d55e96f411204b6e9e54522b91289e65c802081f87"
 metafile = true
 
 [[files]]
@@ -344,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.toml"
 hash = "4ae7af751e23c7f6616cdd1093148c4c882f360077fd745f761f2f3b8213ebfd"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.toml"
+hash = "448be8a15f582d3581aa4f9cbd10241cd88cdfc9d3db50203c1898f043995d5b"
 metafile = true
 
 [[files]]
