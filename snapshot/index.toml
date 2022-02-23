@@ -37,6 +37,11 @@ file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
+file = "mods/advanced-chimneys.toml"
+hash = "7e65e90c62497c218b81b71fc1f0786530db1d0964e22cd729ddfe29717668c2"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.toml"
 hash = "abc076457b5c54bbcbdc666d42f2ad3574f824c60d825c3521dd2dcaedfbd5bf"
 metafile = true
