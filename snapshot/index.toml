@@ -303,22 +303,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.toml"
-hash = "e6d128a92717ba60523a1300f48b7b2245622d628226be15405855244a7f2577"
+hash = "0a3ab08ee13a00db218f123f936d5f06499bcd61e0cfa5ab88ddbe53b37a57d8"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.toml"
-hash = "db04ea28d41e4fd3e4c888f9173b056ec45057cf71dff5ebed98b30d565f05bc"
+hash = "edf599390183a6ddd9c15646a04f69c7b2a6980d564431e1042271fc24c866b4"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.toml"
-hash = "942620bee3e206261a246b4f7aac7d8b6c2c633c2baea1114dd6e5fe628acac6"
+hash = "1c722af6f443c41d4e8f9aed9a400545c4bc85ba68793b55bf9fa709e23b3f0a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.toml"
-hash = "b1f63382d591e40dbabb56d860a5a83c5c12ac0615b1d8d34d0f27d13ad37e97"
+hash = "2d296dcf757625fbb4deb60b00fb9fb7b0d9a87a0a682a9ae760dcfd8460c568"
 metafile = true
 
 [[files]]
