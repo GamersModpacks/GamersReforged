@@ -5,6 +5,10 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f45084303a726c1e5e55b1f575571f8f1a19d6dfaa09d14282ac1705abdd24bc"
 
 [[files]]
+file = "config/ProjectE/client.toml"
+hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
+
+[[files]]
 file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
