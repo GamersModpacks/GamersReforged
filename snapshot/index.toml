@@ -82,6 +82,11 @@ hash = "ba9514853e9c9dd3392446dce8dcc4c63ea243bed64c4291b49003b1df12b1b5"
 metafile = true
 
 [[files]]
+file = "mods/better-mods-button.toml"
+hash = "70ea41d2acd10a1afd407139af7d8543d71d6a8d3fe4ffae24f16cd00d24dd65"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.toml"
 hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
 metafile = true
