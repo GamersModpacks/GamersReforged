@@ -592,11 +592,11 @@ hash = "c0a17c3fa592833475a1c73c35fe7a08d6aa76357272c0e039d8bdd7b22f0a11"
 
 [[files]]
 file = "packmenu/resources/assets/wirelesschargers/lang/ru_ru.json"
-hash = "be6ba1cb95cc13b707e9b3e079f3c06cff411d4bd04460ff89e88f7b62b7c310"
+hash = "03b95573a41eb1b2dcea98838e24371e46aaae92ca169e430542852ccd21f8e7"
 
 [[files]]
 file = "packmenu/resources/assets/wirelesschargers/lang/ru_ru.lang"
-hash = "eee32c1a29058163ba2fa2c84c96dbb3f32ebb4003f577d9ff9d02ad96c2e076"
+hash = "2bf093fa2fb4374bbb929443991aee6a56b2e304008df3dff9035a7d0d2f4f73"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
