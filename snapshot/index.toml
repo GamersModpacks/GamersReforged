@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "255c7ddc831dc74ac1a9c0d01c8fafde5049284ffdbe3860e56c40656c993d0f"
+hash = "5f389db3d5b0d2ad436a8382dc0417cacdd63b520fb53c0c244587f54be62450"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "4d784b2a064839c7bc977c9e0136851df53951da985ed8e657eef5ec3c11813f"
+hash = "882e16defb82b2003fc457f2e8a3a550836ecfc5718898f2751a7143be5af1b0"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "d12a0d427435fea2aeeb5763e92cfaf496f9e26ce120ed2e194d2e8333ead63c"
+hash = "5ddf9d820e88cc37c036b2c26238f9957ea045800ae649d7dc883f1e74192389"
 metafile = true
 
 [[files]]
