@@ -544,11 +544,11 @@ hash = "6acf2edcb2e5121be3dc6a919d55182a21a3ef7c0554efe692d1dd1356dc228c"
 
 [[files]]
 file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
-hash = "c18f12e5c7a1d8181cd53e2d6a9b7b1f63e86b9ce91b01ec47abc8462e9b47f1"
+hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
 [[files]]
 file = "packmenu/resources/assets/movingelevators/lang/ru_ru.json"
-hash = "96828860b40511982b1230f015cf7839571d3d5793328766da9dde40b85f3702"
+hash = "487c9ad62a5da8e26e9d7c6e897fd79a896aca041eab660d9fc412d8c27e70ba"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"

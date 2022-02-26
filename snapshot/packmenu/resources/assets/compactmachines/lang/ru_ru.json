@@ -130,7 +130,7 @@
     "commands.compactmachines.machines.clear.usage": "/compactmachines machines clear [<id>]",
     "commands.compactmachines.machines.clear.description": "Sets all blocks inside the given machine to air.",
 
-    "gui.compactmachines.psd.welcome.welcome": "Compact Machines 3 позволяет Вам строить сложные схемы из механизмов в одном блоке!",
+    "gui.compactmachines.psd.welcome.welcome": "Compact Machines позволяет Вам строить сложные схемы из механизмов в одном блоке!",
     "gui.compactmachines.psd.welcome.chapters": "Доступные разделы:",
 
     "gui.compactmachines.psd.machines.label": "Компактные механизмы",
