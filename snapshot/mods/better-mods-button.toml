@@ -1,6 +1,6 @@
 name = "Better Mods Button [Forge]"
 filename = "BetterModsButton-v1.0.5-1.16.5-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3519/38/BetterModsButton-v1.0.5-1.16.5-Forge.jar"
