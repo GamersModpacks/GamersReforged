@@ -5,6 +5,10 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "f45084303a726c1e5e55b1f575571f8f1a19d6dfaa09d14282ac1705abdd24bc"
 
 [[files]]
+file = "config/bettermodsbutton-client.toml"
+hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
+
+[[files]]
 file = "config/extrabotany-client.toml"
 hash = "42f279ec22ab7a16a2118549b22def70435d9209c98cc356948976b7062861b1"
 
