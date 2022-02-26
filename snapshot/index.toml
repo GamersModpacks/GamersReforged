@@ -543,6 +543,14 @@ file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
 hash = "6acf2edcb2e5121be3dc6a919d55182a21a3ef7c0554efe692d1dd1356dc228c"
 
 [[files]]
+file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
+hash = "c18f12e5c7a1d8181cd53e2d6a9b7b1f63e86b9ce91b01ec47abc8462e9b47f1"
+
+[[files]]
+file = "packmenu/resources/assets/movingelevators/lang/ru_ru.json"
+hash = "96828860b40511982b1230f015cf7839571d3d5793328766da9dde40b85f3702"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
 hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
 
