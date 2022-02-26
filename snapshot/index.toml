@@ -535,6 +535,10 @@ file = "pack.ico"
 hash = "1204162217da788423cd9f7c741abd4551bab91389b0f8e10298893573e5acc1"
 
 [[files]]
+file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
+hash = "8e893fc8ec55a998a5c3b483406c5e9f5d132dc9edff23c00e08913829885da9"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
 hash = "88f8547629519b1cc8724952ef2b7eec805c2eebb7530de7dd7998d4be2a7bcf"
 
