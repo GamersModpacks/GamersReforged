@@ -536,7 +536,7 @@ hash = "1204162217da788423cd9f7c741abd4551bab91389b0f8e10298893573e5acc1"
 
 [[files]]
 file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
-hash = "68d34be9b8b64b98710b96fcb895835e56a7077d18fd45f3acfd77afff226324"
+hash = "6acf2edcb2e5121be3dc6a919d55182a21a3ef7c0554efe692d1dd1356dc228c"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
@@ -585,6 +585,14 @@ hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
 hash = "c0a17c3fa592833475a1c73c35fe7a08d6aa76357272c0e039d8bdd7b22f0a11"
+
+[[files]]
+file = "packmenu/resources/assets/wirelesschargers/lang/ru_ru.json"
+hash = "be6ba1cb95cc13b707e9b3e079f3c06cff411d4bd04460ff89e88f7b62b7c310"
+
+[[files]]
+file = "packmenu/resources/assets/wirelesschargers/lang/ru_ru.lang"
+hash = "eee32c1a29058163ba2fa2c84c96dbb3f32ebb4003f577d9ff9d02ad96c2e076"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
