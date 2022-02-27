@@ -210,11 +210,6 @@ hash = "261c93fee2f4abc47db4c3f4435e3ab58ee6d3e3969ae5eb7968b3ad01c8d080"
 metafile = true
 
 [[files]]
-file = "mods/exchangers.toml"
-hash = "369ad60ae62024acd170a7469f081b7e3938b32a4b96b432b060ee33fdde2504"
-metafile = true
-
-[[files]]
 file = "mods/extrabotany.toml"
 hash = "3407b78fc902649c71ad444ebb084abdff8cc2c79c0dacef0035302bba22493c"
 metafile = true
@@ -262,11 +257,6 @@ metafile = true
 [[files]]
 file = "mods/guide-api-village-and-pillage.toml"
 hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
-metafile = true
-
-[[files]]
-file = "mods/gunpowderlib.toml"
-hash = "67dc8aafb29124724aadd7d55e96f411204b6e9e54522b91289e65c802081f87"
 metafile = true
 
 [[files]]
