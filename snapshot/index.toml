@@ -385,6 +385,11 @@ hash = "fc7a68deb913a8921c201ad953882c8772622b6ed1416303674319be6ad6692a"
 metafile = true
 
 [[files]]
+file = "mods/psi.toml"
+hash = "e6cd19569eb87143a87c1c3ba745a875946eae55a3df52066092b52f5cc240e6"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "ee49ae892b8d1483172b2132f30b96a3ba45d2d46ba51a2113e0aee3eb90c909"
 metafile = true
