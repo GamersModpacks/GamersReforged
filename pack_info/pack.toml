@@ -1,19 +1,15 @@
 name = "GamersReforged"
 author = "Den4enko"
-<<<<<<< HEAD
-version = "1.11"
-=======
-version = "1.9.2"
->>>>>>> parent of 10cb2a1 (Release 1.10)
+version = "0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "333e41fb88c8d1a7f6125a0189531cc083874a63acebb8f6e8fc29e88a6ae63f"
+hash = ""
 
 [versions]
-forge = "36.2.26"
+forge = "36.2.29"
 minecraft = "1.16.5"
 
 [options]
