@@ -55,6 +55,11 @@ hash = "abc076457b5c54bbcbdc666d42f2ad3574f824c60d825c3521dd2dcaedfbd5bf"
 metafile = true
 
 [[files]]
+file = "mods/advancement-plaques.toml"
+hash = "6450e406f87498557e43f1b713edfa9f5cb97cda0dd43427d8df9bba4edd0489"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "e15faad5dd745a6d1bce5301f5ca7202de5ae9819828c9e442678e5e05642a66"
 metafile = true
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.toml"
 hash = "22554998e0c1210389e5dd2a2e805f874435503c431ccbe0b8f4af9b61f5c411"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.toml"
+hash = "45762c64af2d78838ec9c719e8eba9a84a5d49922c5525835cb8a9cbb3e81404"
 metafile = true
 
 [[files]]
