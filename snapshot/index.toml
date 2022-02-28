@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "8f7d6ce28dc703060e074e625368e1d21601db3ff999780aed777b18af5e06dc"
+hash = "42aeda4b138eec295cedc05c891ab58acddd189bc38745179de8ccb74a138d4a"
 metafile = true
 
 [[files]]
