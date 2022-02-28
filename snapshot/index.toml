@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "91299757ed0887428cef1b09d681b5c061015302989ce55a3ff01515bf67fd8e"
+hash = "afd13e48c7d2fab88fffac22e8084e5108503159dd848beb5467e558a4cf1324"
 metafile = true
 
 [[files]]
@@ -382,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/projecte.toml"
 hash = "fc7a68deb913a8921c201ad953882c8772622b6ed1416303674319be6ad6692a"
-metafile = true
-
-[[files]]
-file = "mods/psi.toml"
-hash = "e6cd19569eb87143a87c1c3ba745a875946eae55a3df52066092b52f5cc240e6"
 metafile = true
 
 [[files]]
@@ -456,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "b80230e277d5b0a347f2a9ff751992d7f62a43ffa8a75b88e1281b5331bcd31b"
+hash = "8f7d6ce28dc703060e074e625368e1d21601db3ff999780aed777b18af5e06dc"
 metafile = true
 
 [[files]]
