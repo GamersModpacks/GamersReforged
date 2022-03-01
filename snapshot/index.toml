@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "141a76d9433c5f9e2eb42e77c511bb78ba5cf85be88b3b2717e54d68a0390382"
+hash = "41ea7ffcb8e2b96123ff7ad5f2023d072eda7b4c67e8a3b477d8f577e0801eae"
 metafile = true
 
 [[files]]
@@ -561,10 +561,6 @@ hash = "fbf7f19e9a1ad26d4773f24c3fe39aa093b5996d29b0eaf9a259c8c134429b0e"
 [[files]]
 file = "packmenu/resources/assets/moremekanismprocessing/lang/ru_ru.json"
 hash = "a3e96348a990f278dca977b6687301df176ecdc5150ac2bd8fdbde5789565265"
-
-[[files]]
-file = "packmenu/resources/assets/movingelevators/lang/ru_ru.json"
-hash = "487c9ad62a5da8e26e9d7c6e897fd79a896aca041eab660d9fc412d8c27e70ba"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
