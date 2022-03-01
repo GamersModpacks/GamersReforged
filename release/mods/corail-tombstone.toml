@@ -1,0 +1,13 @@
+name = "Corail Tombstone"
+filename = "tombstone-6.7.3-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3649/155/tombstone-6.7.3-1.16.5.jar"
+hash-format = "sha1"
+hash = "4b09f05a6daa4184ae959dcb0d9babdc1ca6cf44"
+
+[update]
+[update.curseforge]
+file-id = 3649155
+project-id = 243707
