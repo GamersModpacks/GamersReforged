@@ -48,7 +48,7 @@
   "statedMaterial.moremekanismprocessing._comment9": "    e.g.) 'slurry.moremekanismprocessing.clean_cobalt' : 'Clean Blue Metal Slurry'",
   "statedMaterial.moremekanismprocessing.clean_slurry": "Чистая %s глина",
   "statedMaterial.moremekanismprocessing.clump": "%s сгусток",
-  "statedMaterial.moremekanismprocessing.crystal": "%s кристал",
+  "statedMaterial.moremekanismprocessing.crystal": "%s кристалл",
   "statedMaterial.moremekanismprocessing.dirty_dust": "Грязная %s пыль",
   "statedMaterial.moremekanismprocessing.dirty_slurry": "Грязная %s глина",
   "statedMaterial.moremekanismprocessing.dust": "%s пыль",

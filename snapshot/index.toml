@@ -552,11 +552,11 @@ hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
 [[files]]
 file = "packmenu/resources/assets/jaopca/lang/ru_ru.json"
-hash = "fbf7f19e9a1ad26d4773f24c3fe39aa093b5996d29b0eaf9a259c8c134429b0e"
+hash = "e764f7b0487f78edd85c37d2435d3fcaa6652823647fe5c0ffbfa3f0147d5179"
 
 [[files]]
 file = "packmenu/resources/assets/moremekanismprocessing/lang/ru_ru.json"
-hash = "a3e96348a990f278dca977b6687301df176ecdc5150ac2bd8fdbde5789565265"
+hash = "ab4ca0b3def42790d0dde4d49e5af5851c0ad2054d6463ff8b268617bc517632"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/accessibility.json"
