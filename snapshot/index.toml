@@ -555,6 +555,10 @@ file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
 hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
 [[files]]
+file = "packmenu/resources/assets/jaopca/lang/ru_ru.json"
+hash = "fbf7f19e9a1ad26d4773f24c3fe39aa093b5996d29b0eaf9a259c8c134429b0e"
+
+[[files]]
 file = "packmenu/resources/assets/moremekanismprocessing/lang/ru_ru.json"
 hash = "a3e96348a990f278dca977b6687301df176ecdc5150ac2bd8fdbde5789565265"
 
