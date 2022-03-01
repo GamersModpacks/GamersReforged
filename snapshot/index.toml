@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.toml"
-hash = "537451e04f00504ae18f6d12cd598050d36fac07fc5e53e0bc3a682e75163cde"
+hash = "eb62733306da3b64804c7676a15c455223799bbe13afd98e9c11963984a12b89"
 metafile = true
 
 [[files]]
@@ -609,10 +609,6 @@ hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
 hash = "c0a17c3fa592833475a1c73c35fe7a08d6aa76357272c0e039d8bdd7b22f0a11"
-
-[[files]]
-file = "packmenu/resources/assets/wirelesschargers/lang/ru_ru.json"
-hash = "8b9b31b0fe3ba876edc576be1ae5fe6ad5500b7b14a9fad12dc31d9fba507e80"
 
 [[files]]
 file = "packmenu/resources/pack.mcmeta"
