@@ -543,6 +543,10 @@ file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
 hash = "35caf1f1a1990c4bd103b95deadd2263d68a4a2206558f453df63d6dfda55a19"
 
 [[files]]
+file = "packmenu/resources/assets/chunkloaders/lang/ru_ru.json"
+hash = "bb37e8b8f015ea8ef45141dd7f34a701040c80b5626bb25a77d6e1e984182755"
+
+[[files]]
 file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
 hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
