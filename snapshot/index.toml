@@ -269,11 +269,6 @@ hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
 metafile = true
 
 [[files]]
-file = "mods/halogen.toml"
-hash = "41e556432d23c1a2486dab5a5f268d1be24a5454780981232458cdea8994383a"
-metafile = true
-
-[[files]]
 file = "mods/hwyla.toml"
 hash = "a12a7e2eeaea2e2bb75d072bd80e57bb30146c54f46eada797edd567f2c54931"
 metafile = true
@@ -436,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.toml"
 hash = "5b3ddd491e41e5cafc05d7f5491473765eec5076b863ca538825658642fae48f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-reforged.toml"
+hash = "40bbddc9d705e912543d77d10b4f68c68b89c43e96b00614e2e341eebb442516"
 metafile = true
 
 [[files]]
