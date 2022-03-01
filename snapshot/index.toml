@@ -599,6 +599,10 @@ file = "packmenu/resources/assets/packmenu/lang/en_us.json"
 hash = "3822639797ae0a3ae8912a386dbfb23941c9342caaae383093aa70e9208e8949"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/lang/ru_ru.json"
+hash = "e69bb0462c37bc3bd503324dba3ab21dba72f70b1a51d841b3b22bed7d898db5"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
 hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
 
