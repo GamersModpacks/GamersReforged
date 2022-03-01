@@ -555,6 +555,10 @@ file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
 hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
 [[files]]
+file = "packmenu/resources/assets/moremekanismprocessing/lang/ru_ru.json"
+hash = "a3e96348a990f278dca977b6687301df176ecdc5150ac2bd8fdbde5789565265"
+
+[[files]]
 file = "packmenu/resources/assets/movingelevators/lang/ru_ru.json"
 hash = "487c9ad62a5da8e26e9d7c6e897fd79a896aca041eab660d9fc412d8c27e70ba"
 
