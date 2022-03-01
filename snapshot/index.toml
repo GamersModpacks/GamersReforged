@@ -33,6 +33,10 @@ file = "config/performant-common.toml"
 hash = "36542e5af5ff85a538e0ea7595bfc01dca0efb07c4720170ec0157f993b9238f"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "7563c8a5416a83d0ec119bdcf356cac48bb04a27a73e0fb2c4d514bd7f1081a8"
+
+[[files]]
 file = "config/tips-client.toml"
 hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
 
