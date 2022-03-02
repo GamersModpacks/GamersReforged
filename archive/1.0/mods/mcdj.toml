@@ -1,0 +1,13 @@
+name = "MCDJ"
+filename = "MCDJ-1.16.4-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3197/870/MCDJ-1.16.4-2.1.1.jar"
+hash-format = "murmur2"
+hash = "1509663603"
+
+[update]
+[update.curseforge]
+file-id = 3197870
+project-id = 382651
