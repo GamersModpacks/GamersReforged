@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "670800ac41aca4b1bf82d70e124835b7c620b4f08e1bbd1496f5949843b1c2a8"
+hash = "c66dd7a7cd96408cfd01482f81d7f08eca1dee29b73a6be115bb30041fb612eb"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "add1a6fea832019e6a3851fc0f1123f68ff537710592ef892b234ad080185b1a"
+hash = "a4b9a359e0f6dad7bb5679a78f3cea4196d7025e4f5bec568dcbf84e29f8251e"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "5441a60c245c89e0e5929d6e835ebfc52b1631febb3f2dd55825da803ef1f03a"
+hash = "1823248d102a3f5dd9be14c9c7500953b5e993da945d0da74cafd5d630dfcfb2"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "afd13e48c7d2fab88fffac22e8084e5108503159dd848beb5467e558a4cf1324"
+hash = "9bef7a0a6dedb94c08409112da7eecf9931300029a5339427007d063770da7c3"
 metafile = true
 
 [[files]]
