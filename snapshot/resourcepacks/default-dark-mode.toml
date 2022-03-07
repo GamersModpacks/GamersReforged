@@ -1,6 +1,6 @@
 name = "Default Dark Mode"
 filename = "Default-Dark-Mode-1.16.2+-(v1.3.1).zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3545/505/Default-Dark-Mode-1.16.2+-(v1.3.1).zip"
