@@ -619,16 +619,16 @@ file = "packmenu/resources/pack.png"
 hash = "cea3b54580cc5a28292d412793eaa157c10c7e51079833dc7712ae1b6328d459"
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode.zip"
-hash = "f5fb14de69e0783e99ce10eac05e0847225f297fff9da85149f76dbdde4ca452"
-
-[[files]]
 file = "resourcepacks/anti-alko.zip"
 hash = "34baecef4057fcb0bfab008592850ec66e3593e5b89c18e4fc048889ac8f7ad3"
 
 [[files]]
 file = "resourcepacks/blynova.zip"
 hash = "9f3e840659eaf3b5a40f8673e81639bd85b59d4edafe63d3a706d8e767277157"
+
+[[files]]
+file = "resourcepacks/default-dark-mode.toml"
+hash = "b7897c2d997cd6c29c6de22bb294d5cb8cd657d7e6059d333eb1f40a14fd8c16"
 
 [[files]]
 file = "resourcepacks/ghoul.zip"
