@@ -629,6 +629,7 @@ hash = "9f3e840659eaf3b5a40f8673e81639bd85b59d4edafe63d3a706d8e767277157"
 [[files]]
 file = "resourcepacks/default-dark-mode.toml"
 hash = "bca1bf904fbf11819b35c834eecaf033cabd06eb2005e36b198ad7dfa654bea0"
+metafile = true
 
 [[files]]
 file = "resourcepacks/ghoul.zip"
