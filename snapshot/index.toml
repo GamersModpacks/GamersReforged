@@ -290,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.toml"
-hash = "991b40a2e1f787cc367539c518a13551642c0901083a4cabfa0cfe43145d5f06"
+hash = "4e34ccf8624fd586e673791087f6335281edfe799e452cbd2d39a016d6d33853"
 metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "d7a50ba442580b966c144b56eb1b7a571622c86209c0133a0e31421eafb76340"
+hash = "3f8803ed3daea9508f4617adc6435597f18df2d5ba8878951ebbbbdc841d9e61"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "22c59cfab6e193c9a58a7c5bcde1ca70a60eebd55d3f6a212568cc38a5db4377"
+hash = "78aaea49d52f14deea4289a764a8a9ee6fa520f37c387023607852925c405f8b"
 metafile = true
 
 [[files]]
