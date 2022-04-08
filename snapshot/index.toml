@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "9015f31773573f0a27d677c9f669aa417c83ae2adbe0ef4718104cd0cd477efa"
+hash = "f01dba9cfed356f4cd35db04cff27e6238b28864af71f2e263a89060904dd9b6"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "ee862bed101f49e8d1bca700162ca7e9e3d474a23bdec9d5f8c386f9122b6878"
+hash = "d67a3fd5f36f1566488ecab3b9230b15a18ae6041e2835a74b0ce4deb41d920e"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.toml"
-hash = "e279d1da4001b7d91460190fd3c6863914e8fc6763a13f46ba4f82b58f788521"
+hash = "74f88515446e96f2ad7c0eeaaec74864a5bd5bf39ce227034ee3966d955a1aca"
 metafile = true
 
 [[files]]
@@ -180,17 +180,17 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "5f389db3d5b0d2ad436a8382dc0417cacdd63b520fb53c0c244587f54be62450"
+hash = "06d7a52c2514494ba32779a7b31418a0f702a057780013590594639da581ed37"
 metafile = true
 
 [[files]]
 file = "mods/customskinloader.toml"
-hash = "2526a4bdd69dfb22db1d3102317f4666cb3169b57a41c326b4a71499dffbaf22"
+hash = "ea85bcc5982edef86cccf22d1d151c42bba8f1ac2572d30e1c719c573a9b23dd"
 metafile = true
 
 [[files]]
 file = "mods/cyclic.toml"
-hash = "183447c034f73043650e3ca7771605eedadbf034d4b218163dcdd06126d8451f"
+hash = "d9d7fd1e322d554d31a39922d8f675e3ba197df7c58353a766ff455d1a8f764a"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.toml"
-hash = "f250049175eb215fac45eb1f8703de18fa8fdc4f7b6995c2a14d2e0acff682eb"
+hash = "68d197c7c4536f9713b41b188a665ef1a30fb964adae87478d7b334037cc0e0b"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "6e9eb13858703aa0dc6d2d2b641ec3b1e748fcf08ace1694fa5c299bce6f331b"
+hash = "8ab1b40d7969beb872cb655cbb4557665fb0ce2076fc26cf8817cfc1fbcf4cf2"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "2d0fece5170466369b7e11b5526f26cfde09872ddd790f6c6b877151dfa02852"
+hash = "426aae2dcf4ba2eb984a61ab15dd897b93fd04f62f1049b38f0d097e203c643b"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "a62373e35e245e4b01b3320bc683a7240c0cc67fb118a51e62cc43965ba4c3fa"
+hash = "bff682bcf80913994ace5fb7443d7f52ff8788310b3d67dcdb393e3013d0d38d"
 metafile = true
 
 [[files]]
@@ -380,12 +380,12 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.toml"
-hash = "448be8a15f582d3581aa4f9cbd10241cd88cdfc9d3db50203c1898f043995d5b"
+hash = "845a5cdf144dc57fcb9d60cc24c506e17bfc8250201259f126927bd09f71a0df"
 metafile = true
 
 [[files]]
 file = "mods/projecte.toml"
-hash = "fc7a68deb913a8921c201ad953882c8772622b6ed1416303674319be6ad6692a"
+hash = "41d27427c38f15b4d513c744a295905dd25866977763b0f85866b76dc149d9bd"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "72feb822dc46ed4852771c7a9c6bf1262cd9d092b877b375f558fde6d986d8a7"
+hash = "e75306eef77b7e83cae6b043f0dfc90e2cc2d4895e68b9af724f95271697b2fb"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.toml"
-hash = "984aa62a0e3d4dba22c1d2e01dc9253c819624463154d2933c75e30cddbd1d9f"
+hash = "73083b71a28bcb2b4352b440ad48d7b1300df9b01486beb3f5f57bbd297c1338"
 metafile = true
 
 [[files]]
@@ -525,12 +525,12 @@ metafile = true
 
 [[files]]
 file = "mods/wawla.toml"
-hash = "ee8a0d30b8c8c7aa6e322537107b3baeb6f272d4a6e1cc5021e0a494b6997942"
+hash = "565c94a91f4b8d7682320a161e5e34e92f618add4af32f74b36b7162133907fc"
 metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "419c13cebbab2e6438f29b7c3b9be36cdbb0dc26ed7aec03853e146ee491b03d"
+hash = "a52bcabcfc04e7451c9275f82a814fe713d7315ae2f6e15a2e54137572018605"
 metafile = true
 
 [[files]]
