@@ -1,2 +1,2 @@
 # GamersReforged
-Minecraft 1.16.5 modpack for my friends
+Minecraft modpack for my friends
