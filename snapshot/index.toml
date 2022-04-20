@@ -551,6 +551,10 @@ file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
 hash = "35caf1f1a1990c4bd103b95deadd2263d68a4a2206558f453df63d6dfda55a19"
 
 [[files]]
+file = "packmenu/resources/assets/adpother/lang/uk_ua.json"
+hash = "1dc0b72e07c8dce71e8e8a5857ac8a8eff83d4f46d0d28e4d7641e4b560bb3a1"
+
+[[files]]
 file = "packmenu/resources/assets/compactmachines/lang/ru_ru.json"
 hash = "77abd9408e1b03b34f36a7d0ca662a9844cbb44d81bba6d1ca6a07bb21723108"
 
@@ -600,6 +604,10 @@ hash = "3822639797ae0a3ae8912a386dbfb23941c9342caaae383093aa70e9208e8949"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/ru_ru.json"
+hash = "e69bb0462c37bc3bd503324dba3ab21dba72f70b1a51d841b3b22bed7d898db5"
+
+[[files]]
+file = "packmenu/resources/assets/packmenu/lang/uk_ua.json"
 hash = "e69bb0462c37bc3bd503324dba3ab21dba72f70b1a51d841b3b22bed7d898db5"
 
 [[files]]
