@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "cdba6debd0dfe3b98bd1d25195d89d766a69badf453ca51cec263d90f2236390"
+hash = "9a4d9dfb752e1f6601fd4d51b28ea77b9650d477358f81aa38931af8d1cd8663"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.toml"
-hash = "eea4773be825550600fe324863d31c4d0d9ba7997e96d7b3018ed09e0d2952e7"
+hash = "c459fc6ed805e048072e5d383ffcfb6124c009a6e4d9bbab1ccdd634c79afdf7"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "52823e70e9ab44424f43d9a37b3f95814b330c0bb8f67dbc213f192f613f56b6"
+hash = "72feb3495f973f393655776546c234401ae399d93f8066d918fbe59304fb9521"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "1257e31ef871f97f39643861cf1c0cc1caef7bcced6318177d5944f46fbd3c1e"
+hash = "436370be7910cb3860f34e75aed238789a310b6557ce41b8046010866e4bac02"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.toml"
-hash = "eed59bfdcff326bad0021acd9f958349fcb909842e391a25528813828dde465b"
+hash = "386cb4e036705b75aadef508b8c882670fc0d957e06f833fed4da7de0cf971be"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.toml"
-hash = "a52bcabcfc04e7451c9275f82a814fe713d7315ae2f6e15a2e54137572018605"
+hash = "1f3d5e6a22ee115c8096f513d480be5ddbdacac255379113090c6660a8e64436"
 metafile = true
 
 [[files]]
