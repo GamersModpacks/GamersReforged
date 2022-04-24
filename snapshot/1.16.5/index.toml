@@ -158,6 +158,11 @@ hash = "72feb3495f973f393655776546c234401ae399d93f8066d918fbe59304fb9521"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "0b1633a6b5cc55e1d0b966846de1c8e23d779645584c09b5b4b1e38a3ca7bc58"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.toml"
 hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
 metafile = true
