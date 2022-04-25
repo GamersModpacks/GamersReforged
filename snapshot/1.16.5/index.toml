@@ -153,13 +153,8 @@ hash = "3cd69fc6abbe2eee23919e365cc9e569f06d8cd758bbd05557962729f5371efd"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-forge.toml"
-hash = "72feb3495f973f393655776546c234401ae399d93f8066d918fbe59304fb9521"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.toml"
-hash = "0b1633a6b5cc55e1d0b966846de1c8e23d779645584c09b5b4b1e38a3ca7bc58"
+hash = "482c9c925311a0b0fd473cb563e955d68798fff6313973abfbd1d4d1db682711"
 metafile = true
 
 [[files]]
@@ -349,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "436370be7910cb3860f34e75aed238789a310b6557ce41b8046010866e4bac02"
+hash = "40fa1ab5daf7e25e594c9cc153a74d04965ba0b702dc170401c9c699e0f95953"
 metafile = true
 
 [[files]]
