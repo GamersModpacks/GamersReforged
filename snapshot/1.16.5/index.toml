@@ -178,6 +178,11 @@ hash = "a4b9a359e0f6dad7bb5679a78f3cea4196d7025e4f5bec568dcbf84e29f8251e"
 metafile = true
 
 [[files]]
+file = "mods/create.toml"
+hash = "5343506f8c1acb3502f94ef336e6af0d21519f90f39405b0c2789f70c2ffd2c5"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.toml"
 hash = "e9bcbdc7ea8718d5c89315770f769834e897b68285745a7ea1eaf389476ea8be"
 metafile = true
@@ -245,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.toml"
 hash = "305affb1cff160ec5cd4f1c23192259985870e10eb94ce52cb54afba63f7c6b4"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "3a332123aec6bda27daffae9f04ccf3d0d71baa4cf3cea0ce2d5823ac9e3d432"
 metafile = true
 
 [[files]]
