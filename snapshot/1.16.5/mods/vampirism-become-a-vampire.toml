@@ -1,13 +1,13 @@
 name = "Vampirism - Become a vampire!"
-filename = "Vampirism-1.16.5-1.8.7.jar"
+filename = "Vampirism-1.16.5-1.8.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3760/899/Vampirism-1.16.5-1.8.7.jar"
+url = "https://edge.forgecdn.net/files/3771/536/Vampirism-1.16.5-1.8.8.jar"
 hash-format = "sha1"
-hash = "9b050bc1cc454a26c82fad5fa92cbcada0703562"
+hash = "a94314c13e0384e467db6403bcdd7ff684b4790b"
 
 [update]
 [update.curseforge]
-file-id = 3760899
+file-id = 3771536
 project-id = 233029
