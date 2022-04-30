@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "a4b9a359e0f6dad7bb5679a78f3cea4196d7025e4f5bec568dcbf84e29f8251e"
+hash = "354f94b036e433e1827f57a2b32fe22a4310bace859ed2d4b1a0a1a66f8ed72b"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "40fa1ab5daf7e25e594c9cc153a74d04965ba0b702dc170401c9c699e0f95953"
+hash = "e03a6f9b0ecd77d41cc80452995a5eb2b9f520a953d3985c81d7625e19b80611"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.toml"
-hash = "bff682bcf80913994ace5fb7443d7f52ff8788310b3d67dcdb393e3013d0d38d"
+hash = "31482a70bd4c81371716dbd17d680dc1c5f31c2e394bc575ace8b8948a2ea006"
 metafile = true
 
 [[files]]
@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
-hash = "091aaa694a13ff99d1de24ed894c983866bba315cf9d00cc9aa3af8f3e8675a9"
+hash = "df9993fa664757a9f5eb1a85a3af2e3fc999c86c6494bca24388c5e772ea0891"
 metafile = true
 
 [[files]]
