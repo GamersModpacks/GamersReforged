@@ -13,6 +13,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "6a0bd4ad277ebe20196ea7db6953083f038c1b7b14c6fe9ce8f87bdbc932ebee"
+
+[[files]]
 file = "config/extrabotany-client.toml"
 hash = "42f279ec22ab7a16a2118549b22def70435d9209c98cc356948976b7062861b1"
 
