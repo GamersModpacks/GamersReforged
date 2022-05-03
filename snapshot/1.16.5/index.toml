@@ -54,7 +54,7 @@ hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
 
 [[files]]
 file = "icon.png"
-hash = "f9165b3ce1b55a381815afddfcd599b11397cc578752bd74fc62c23780382cf2"
+hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "pack.ico"
-hash = "1204162217da788423cd9f7c741abd4551bab91389b0f8e10298893573e5acc1"
+hash = "307360d69a0ef185c8ebc2d2d239395d734c828f30ed2fb0b7dd7241cc902590"
 
 [[files]]
 file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
@@ -631,11 +631,11 @@ hash = "e69bb0462c37bc3bd503324dba3ab21dba72f70b1a51d841b3b22bed7d898db5"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
-hash = "7c62cdaab5ad8956aa49ccee20e3b78887445ab009cc06b90402a6c30061762c"
+hash = "f32b135e685eadb8c79837fbf6d41da25b8a495b4b6c762abca7cc19fbe0b779"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
-hash = "3d02f29ca8e1629c70c21cda841cc96a022f969bda6284a0a2270250c25da33b"
+hash = "1feb9a1de37759088b41fb1ef6a086f50ab928e68882039590dcea4fc8b153ae"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/reload.png"
@@ -647,7 +647,7 @@ hash = "18c978e312f381a09350f2c1cd61e244419a77592e8b0bc973a6c31224c895f0"
 
 [[files]]
 file = "packmenu/resources/pack.png"
-hash = "cea3b54580cc5a28292d412793eaa157c10c7e51079833dc7712ae1b6328d459"
+hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
 file = "resourcepacks/anti-alko.zip"
