@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "9a4d9dfb752e1f6601fd4d51b28ea77b9650d477358f81aa38931af8d1cd8663"
+hash = "609c3e04c82fc79b8c9ccf8b2a797ae68b7878a29f4a3e0055636675d9733296"
 metafile = true
 
 [[files]]
@@ -358,12 +358,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "e03a6f9b0ecd77d41cc80452995a5eb2b9f520a953d3985c81d7625e19b80611"
+hash = "e65b9ffaca45a497f1854ced4a9608bfa2096b94381ce69be0c7a376b74226d6"
 metafile = true
 
 [[files]]
 file = "mods/more-mekanism-processing.toml"
-hash = "f3f2dd8e7ffaafe5e3529dcafd68163a4f2d5d8aa1fcc9bf6b6f57470d282185"
+hash = "be59d6a29eeb55ac401033ae8a8c67ebbc116fbc2944437e3c4a165f11a95d78"
 metafile = true
 
 [[files]]
@@ -399,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/pollution-of-the-realms.toml"
 hash = "845a5cdf144dc57fcb9d60cc24c506e17bfc8250201259f126927bd09f71a0df"
+metafile = true
+
+[[files]]
+file = "mods/project-mmo.toml"
+hash = "76416758aead17fc71e29b5146abf8610ed10e88ba0d0a93730fd2dad39d9a41"
 metafile = true
 
 [[files]]
@@ -553,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/wireless-chargers.toml"
-hash = "eb62733306da3b64804c7676a15c455223799bbe13afd98e9c11963984a12b89"
+hash = "352c5c32ca2f92e906cfd9803efe9ad11cceea1ed552a7792c9eb0ed1bd39cae"
 metafile = true
 
 [[files]]
