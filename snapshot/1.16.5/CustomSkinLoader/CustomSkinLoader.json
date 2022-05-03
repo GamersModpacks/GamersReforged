@@ -1,6 +1,6 @@
 {
-  "version": "14.13",
-  "buildNumber": 309,
+  "version": "14.14",
+  "buildNumber": 323,
   "loadlist": [
     {
       "name": "ElyBy",
@@ -19,7 +19,6 @@
   "forceIgnoreHttpsCertificate": false,
   "forceLoadAllTextures": false,
   "enableCape": true,
-  "forceFillSkullNBT": false,
   "threadPoolSize": 3,
   "retryTime": 10,
   "cacheExpiry": 30,
