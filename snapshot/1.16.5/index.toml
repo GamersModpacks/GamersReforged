@@ -5,6 +5,10 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "81475fb1b0314b17387bf5784f518f68ac843e0a3e936f637e048ba4153fb598"
 
 [[files]]
+file = "GamersReforged.png"
+hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
 
@@ -51,10 +55,6 @@ hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
-
-[[files]]
-file = "icon.png"
-hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "pack.ico"
-hash = "307360d69a0ef185c8ebc2d2d239395d734c828f30ed2fb0b7dd7241cc902590"
+hash = "7359b1780eb1ecdc21b5566b8302f358f822d46ff57c3d8d2fa258b90d4656ef"
 
 [[files]]
 file = "packmenu/resources/assets/adpother/lang/ru_ru.json"
