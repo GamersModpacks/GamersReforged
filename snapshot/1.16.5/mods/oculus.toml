@@ -1,0 +1,13 @@
+name = "Oculus"
+filename = "oculus-1.2.3-pre.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3769/759/oculus-1.2.3-pre.jar"
+hash-format = "sha1"
+hash = "688ba72c98431b75dfe11c0b2faf3c0b60d341b2"
+
+[update]
+[update.curseforge]
+file-id = 3769759
+project-id = 581495
