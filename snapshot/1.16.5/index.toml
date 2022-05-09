@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.toml"
-hash = "abc076457b5c54bbcbdc666d42f2ad3574f824c60d825c3521dd2dcaedfbd5bf"
+hash = "6a57f91ba9e17240dc404d6d75b0f69a661c0dd1509383e9a5f352aeeaf43154"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.toml"
-hash = "609c3e04c82fc79b8c9ccf8b2a797ae68b7878a29f4a3e0055636675d9733296"
+hash = "8f57f44a5f10215e93d6ef1789c65c3f774cf92d65f0280ba715989015160e57"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/catalogue.toml"
-hash = "10a3042c76b4ad21fa0e7e5a4be00570ea134b0480ceb42c9177f073fb58f223"
+hash = "2487a10f0033f5f950b9a61942148d24fa3482eecba22a3f6fb353b8df5db1d7"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "548af1e08c87d0b2eea28399299e169bc994de73a0d6d75a774b4bfce13c4722"
+hash = "26f7735c9d09f929d47f24122766b2bcbc191b6f9777b81237e9dcb4f4a9ebf9"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "78a4e7e856e040f41d2ab3d1f1fed83944bff02f38a9e6240b8c1fbb49581bab"
+hash = "558ab0a78698749370349b3845614bc3d8322ec885ec22754fb8d093d854a1c3"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "e65b9ffaca45a497f1854ced4a9608bfa2096b94381ce69be0c7a376b74226d6"
+hash = "a61c8c27ef2e9eac20f177c5a64997ed57bedf047d01fe0f1ad08e776bc02715"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "5522e4de1a040b7feee98964610d36842ccdf045a0387f51758ab3c8f5ed1cc7"
+hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
 metafile = true
 
 [[files]]
