@@ -1,6 +1,11 @@
 name = "Oculus"
 filename = "oculus-1.2.3-pre.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+default = true
+description = "Adds support for shaders"
 
 [download]
 url = "https://edge.forgecdn.net/files/3769/759/oculus-1.2.3-pre.jar"

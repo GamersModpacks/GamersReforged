@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.toml"
-hash = "c03a5d08c3abc12b291307fe242d23bde01841c3ab83d3030d1cf74f19e3c616"
+hash = "9d571ef45ecb002b79837ad852100fb6558fe78a9cff1a083a885828ceff5240"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.toml"
-hash = "574136e4ab5ca1cae3f06ad4370b2b1f9c16dad09a29918fb482fe74034eb30a"
+hash = "97d555cd201bd1bd034af4e92419e8532cae25fd2435a6181dcdbf6cf3d8a44a"
 metafile = true
 
 [[files]]

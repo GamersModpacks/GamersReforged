@@ -1,6 +1,6 @@
 name = "Rubidium"
 filename = "rubidium-0.2.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3769/736/rubidium-0.2.6.jar"
