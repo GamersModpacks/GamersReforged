@@ -467,11 +467,6 @@ hash = "5b3ddd491e41e5cafc05d7f5491473765eec5076b863ca538825658642fae48f"
 metafile = true
 
 [[files]]
-file = "mods/sodium-reforged.toml"
-hash = "40bbddc9d705e912543d77d10b4f68c68b89c43e96b00614e2e341eebb442516"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.toml"
 hash = "700dd7952f9de841729dbdb216c22bca853a17b0ee02588524b230193df2e8e3"
 metafile = true
