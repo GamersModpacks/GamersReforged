@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "558ab0a78698749370349b3845614bc3d8322ec885ec22754fb8d093d854a1c3"
+hash = "1a680d976b11f6d9b4a32d54373d4d0136fb2b326bf9b0410b733764483f2bd0"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.toml"
-hash = "e75306eef77b7e83cae6b043f0dfc90e2cc2d4895e68b9af724f95271697b2fb"
+hash = "127e37034323a03c550ba88ca4916660375aafdffe6df398412afee56cb5e1d2"
 metafile = true
 
 [[files]]
