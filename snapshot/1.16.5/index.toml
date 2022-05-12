@@ -282,6 +282,11 @@ hash = "1a680d976b11f6d9b4a32d54373d4d0136fb2b326bf9b0410b733764483f2bd0"
 metafile = true
 
 [[files]]
+file = "mods/gokistats.toml"
+hash = "2aa4bb94e723026ed75f4cc0343f9abbfc61012719661992024476e097668de1"
+metafile = true
+
+[[files]]
 file = "mods/guide-api-village-and-pillage.toml"
 hash = "7cfcc9731b7d9e2ff44adbdb9e2b8d8754d119433d0f5ed9b621f7c6096e5723"
 metafile = true
