@@ -1,0 +1,13 @@
+name = "Rubidium"
+filename = "rubidium-0.2.6.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3769/736/rubidium-0.2.6.jar"
+hash-format = "sha1"
+hash = "5d194282e1cb7e98066e714b164d62aedb9d1170"
+
+[update]
+[update.curseforge]
+file-id = 3769736
+project-id = 574856
