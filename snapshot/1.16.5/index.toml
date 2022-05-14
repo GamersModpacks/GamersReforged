@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
+hash = "b391d18ba730396efc0eadb7609cb65711f575d8db1bf0397fc9bec59d74412e"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.toml"
-hash = "45762c64af2d78838ec9c719e8eba9a84a5d49922c5525835cb8a9cbb3e81404"
+hash = "6737aa09d0251c126d85010d6110186c6d925d1028555816dc8eea319734788a"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "a61c8c27ef2e9eac20f177c5a64997ed57bedf047d01fe0f1ad08e776bc02715"
+hash = "8d2d926319da41a0afe9095c868641db2aab6adf10b8794f1697851540290c61"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "63d0a913b75d5f34f2a9291859c705cfcc5517c4dbcc582c9893e4c56aa8ab02"
+hash = "0869c8b5eba95a226cc326f15db1e62639d6ea0ce6f6dcc47dcac089101faa5e"
 metafile = true
 
 [[files]]
