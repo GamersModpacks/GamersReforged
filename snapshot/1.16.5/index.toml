@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "8d2d926319da41a0afe9095c868641db2aab6adf10b8794f1697851540290c61"
+hash = "2e26efab40d6c7661e152b9d15a987097f5fe379cd88aa04a6ad54a3a95f22a5"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
+hash = "76f5f054b89a7d063d46561bca41ecd07fc834b7919918e1530f2a1cc39f916d"
 metafile = true
 
 [[files]]
