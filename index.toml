@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.toml"
-hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
+hash = "e15faad5dd745a6d1bce5301f5ca7202de5ae9819828c9e442678e5e05642a66"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "6fc24b1360d3fa602b18ab310320eacafb8bcbf2f623e1a94273f0bb7166ab56"
+hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "b552ca18e38236440ce6e02632cf30f6c4922a5b6b6aaf5d7fb0e05c0197d72a"
+hash = "354f94b036e433e1827f57a2b32fe22a4310bace859ed2d4b1a0a1a66f8ed72b"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.toml"
-hash = "53bb90dd6a039ae924a4e796c3b5b1dc69f1941b9dc47fb05c88c3c75ed544ca"
+hash = "9d11f1bea97cabdaaa69d0b67f3e62f897add703784c2c81e6bb30bd8930d701"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.toml"
-hash = "f5901e29a05694a278b4714921db82363393fa13904e5e958ea894b1a22f6981"
+hash = "45762c64af2d78838ec9c719e8eba9a84a5d49922c5525835cb8a9cbb3e81404"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "ef370ea9809ab89d59df11a329f9431ccd6d6dcedc6d3bcda7c8c81098aba839"
+hash = "a61c8c27ef2e9eac20f177c5a64997ed57bedf047d01fe0f1ad08e776bc02715"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "36e7e4332d001e5a563eccdf95ce0be4d481bf18ce44e458802618b382dd9266"
+hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "31e65d793c02bdf57545c54d42d9adaedee9081bc97e999a1ff972957943824d"
+hash = "63d0a913b75d5f34f2a9291859c705cfcc5517c4dbcc582c9893e4c56aa8ab02"
 metafile = true
 
 [[files]]
