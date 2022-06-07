@@ -1,13 +1,13 @@
 name = "SuperMartijn642's Config Lib"
-filename = "supermartijn642configlib-1.1.0-forge-mc1.16.jar"
+filename = "supermartijn642configlib-1.1.1-forge-mc1.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "202801a4ba48358d651a74338e457ab315911334"
+hash = "c1fb32ae7f22d2a6c9f1dac81acb408164a79ef4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3819626
+file-id = 3819931
 project-id = 438332

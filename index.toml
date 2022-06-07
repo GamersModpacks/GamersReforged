@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "c43b60115cc597adc774016ce2e677dbcee0727f792f8e1a209d093cbbd764aa"
+hash = "f0cf3024165ad4253419e47178ea022b78ca44b1e92bdfcd8f93a0b16862d4e6"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.toml"
-hash = "5298ad1b787c93c4dbe95118b90d56483888ad491d1204b3eabdec827ebfbc8a"
+hash = "2db7b8faeb52b79c979ecf5500785e392c6b234ccfab2474b119b5957903ff23"
 metafile = true
 
 [[files]]
