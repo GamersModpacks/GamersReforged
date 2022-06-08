@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.toml"
-hash = "e15faad5dd745a6d1bce5301f5ca7202de5ae9819828c9e442678e5e05642a66"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
+hash = "6fc24b1360d3fa602b18ab310320eacafb8bcbf2f623e1a94273f0bb7166ab56"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.toml"
-hash = "354f94b036e433e1827f57a2b32fe22a4310bace859ed2d4b1a0a1a66f8ed72b"
+hash = "a9d3331246dea7821b397c21bc5956e50a90ef491d084ea1b52062621e90cd46"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.toml"
-hash = "9d11f1bea97cabdaaa69d0b67f3e62f897add703784c2c81e6bb30bd8930d701"
+hash = "53bb90dd6a039ae924a4e796c3b5b1dc69f1941b9dc47fb05c88c3c75ed544ca"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.toml"
-hash = "6cc1b53f707b039efa4206beb704f33b71616368d6c0ecf0a78cd19547853201"
+hash = "42c1ad5838e7bbfbd0a35483847448cd13aa085bb7c819d3708e6a5514b784f5"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "1a680d976b11f6d9b4a32d54373d4d0136fb2b326bf9b0410b733764483f2bd0"
+hash = "f0cf3024165ad4253419e47178ea022b78ca44b1e92bdfcd8f93a0b16862d4e6"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.toml"
-hash = "45762c64af2d78838ec9c719e8eba9a84a5d49922c5525835cb8a9cbb3e81404"
+hash = "f5901e29a05694a278b4714921db82363393fa13904e5e958ea894b1a22f6981"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "a61c8c27ef2e9eac20f177c5a64997ed57bedf047d01fe0f1ad08e776bc02715"
+hash = "c4a39dd8be2f24da89d0006fd76590d0f65c454b91f9751849747f627018bf9c"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.toml"
-hash = "9d571ef45ecb002b79837ad852100fb6558fe78a9cff1a083a885828ceff5240"
+hash = "e0fd6625887bcbd3b085bf6bd6352812e1f0332d6c3d7a75a1992ea074191010"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/performant.toml"
-hash = "f1e32568ae72d7c4b608c0444b25b80edee09e55fbc3eb523b12742dc61cd9c9"
+hash = "36e7e4332d001e5a563eccdf95ce0be4d481bf18ce44e458802618b382dd9266"
 metafile = true
 
 [[files]]
@@ -487,13 +487,13 @@ hash = "78ca93c122fb037c28dfaf7d7255a8981bc789de47811e98394514b6aba2780d"
 metafile = true
 
 [[files]]
-file = "mods/structurize.toml"
-hash = "63d0a913b75d5f34f2a9291859c705cfcc5517c4dbcc582c9893e4c56aa8ab02"
+file = "mods/structurize.pw.toml"
+hash = "55272d8b0c7469d985f48f3b6fd068da9ecdbaf2f4bae9b1207e401f33c673f2"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.toml"
-hash = "0540c4b2be5d484712b3d28b06825eacc3565c2d7ffdaf948ebbb81a52d40f7b"
+hash = "32af8ec6ed25a5bed1c76236d9fd1fa494236eaeab718d904a9195b8f20acc04"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "860771e23ae882c93f597198e493237eaa193c73deb699adb38ea2baccb78a15"
+hash = "378837bece75b601b71b0c5660b3167c8b28846082785047a8c850322639ca67"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
@@ -624,8 +624,12 @@ file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
 hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/buttons/version.json"
+hash = "bc287ced59f8a63d1f9c176c86977ac119b4af79270eaaa2a4f144a2bfccbb71"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "d771e08bccbe2a20a438cac58d3d87318a31baedb0244ad9b53ade9035dcf82f"
+hash = "5fff85f8ddcde73fca48031a052f447c7645894e9237293f7733e7ee12c2ba07"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
@@ -644,6 +648,18 @@ file = "packmenu/resources/pack.png"
 hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
+file = "resourcepacks/anti-alko.zip"
+hash = "34baecef4057fcb0bfab008592850ec66e3593e5b89c18e4fc048889ac8f7ad3"
+
+[[files]]
+file = "resourcepacks/blynova.zip"
+hash = "9f3e840659eaf3b5a40f8673e81639bd85b59d4edafe63d3a706d8e767277157"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.toml"
 hash = "bca1bf904fbf11819b35c834eecaf033cabd06eb2005e36b198ad7dfa654bea0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/ghoul.zip"
+hash = "245c0e2692e09942613cc3026a3a5f3c39e84459cbdcfb652df6e87e20cd06de"
