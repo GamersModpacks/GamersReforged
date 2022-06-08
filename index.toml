@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.toml"
-hash = "9d571ef45ecb002b79837ad852100fb6558fe78a9cff1a083a885828ceff5240"
+hash = "e0fd6625887bcbd3b085bf6bd6352812e1f0332d6c3d7a75a1992ea074191010"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.toml"
-hash = "2db7b8faeb52b79c979ecf5500785e392c6b234ccfab2474b119b5957903ff23"
+hash = "32af8ec6ed25a5bed1c76236d9fd1fa494236eaeab718d904a9195b8f20acc04"
 metafile = true
 
 [[files]]
