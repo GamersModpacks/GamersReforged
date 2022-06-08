@@ -487,8 +487,8 @@ hash = "78ca93c122fb037c28dfaf7d7255a8981bc789de47811e98394514b6aba2780d"
 metafile = true
 
 [[files]]
-file = "mods/structurize.toml"
-hash = "2cc9b3c970c8b1a468e2389d0d491b7c91c7496fee433e57d52d275b423a7de6"
+file = "mods/structurize.pw.toml"
+hash = "55272d8b0c7469d985f48f3b6fd068da9ecdbaf2f4bae9b1207e401f33c673f2"
 metafile = true
 
 [[files]]
