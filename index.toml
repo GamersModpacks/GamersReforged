@@ -605,7 +605,7 @@ hash = "2c31db4e6877cb80f8fb65b7bb88201e8fe290b87776f8ca7c7334bcea000a08"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/mods.json"
-hash = "860771e23ae882c93f597198e493237eaa193c73deb699adb38ea2baccb78a15"
+hash = "378837bece75b601b71b0c5660b3167c8b28846082785047a8c850322639ca67"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/buttons/multiplayer.json"
@@ -624,8 +624,12 @@ file = "packmenu/resources/assets/packmenu/buttons/singleplayer.json"
 hash = "de47792809583e07ae8b3f24b0cf2d906f8e03813f33a234744dfdf34c1d41d1"
 
 [[files]]
+file = "packmenu/resources/assets/packmenu/buttons/version.json"
+hash = "bc287ced59f8a63d1f9c176c86977ac119b4af79270eaaa2a4f144a2bfccbb71"
+
+[[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "d771e08bccbe2a20a438cac58d3d87318a31baedb0244ad9b53ade9035dcf82f"
+hash = "5fff85f8ddcde73fca48031a052f447c7645894e9237293f7733e7ee12c2ba07"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
