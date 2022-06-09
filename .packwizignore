@@ -8,10 +8,9 @@
 .gitattributes
 .gitignore
 
-
-# Exclude README
+# Exclude GitHub files
 /README.md
-
+/_config.yml
 
 # Exclude exported Modrinth modpacks
 *.mrpack
