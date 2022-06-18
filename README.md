@@ -1,6 +1,6 @@
 # GamersReforged
 ## Information:
-Minecraft Forge modpack
+Hightly optimized Minecraft modpack oriented for multiplayer
 ## Downloads:
  - [MiltiMC AutoUpdating Pack](https://github.com/Den4enko/GamersReforged/releases/latest/download/GamersReforgedAutoUpdate.zip)
  - [Curseforge Pack](https://github.com/Den4enko/GamersReforged/releases/latest/download/GamersReforged-CF.zip)
