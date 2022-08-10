@@ -1,0 +1,13 @@
+name = "GokiStats"
+filename = "GokiStats-1.16.5-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3f2f74bef3e4618436a286d075004ad1537b9d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3726441
+project-id = 298141

@@ -1,0 +1,13 @@
+name = "ExtraBotany"
+filename = "ExtraBotany-r1.2-68.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9339271fc72d52f34d67b2021ffd6125a6f7cbe2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3483762
+project-id = 299086
