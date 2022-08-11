@@ -9,52 +9,52 @@ file = "GamersReforged.png"
 hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
-file = "config/ProjectE/client.toml"
-hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
-
-[[files]]
-file = "config/bettermodsbutton-client.toml"
-hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
-
-[[files]]
-file = "config/create-client.toml"
-hash = "cea97aa18991892d849acb9e64fe2a8391cffdf505b4344bc57c9cb195e3fd6c"
-
-[[files]]
-file = "config/extrabotany-client.toml"
-hash = "42f279ec22ab7a16a2118549b22def70435d9209c98cc356948976b7062861b1"
-
-[[files]]
-file = "config/iceandfire-client.toml"
-hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
-
-[[files]]
-file = "config/itemphysic-client.json"
-hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
-
-[[files]]
 file = "config/packmenu.cfg"
 hash = "1d2ce1b5d6616b109bfbfaff640d3542832bd67483682f762b58926de9003a31"
 
 [[files]]
-file = "config/performant-common.toml"
-hash = "36542e5af5ff85a538e0ea7595bfc01dca0efb07c4720170ec0157f993b9238f"
+file = "defaultconfigs/ProjectE/client.toml"
+hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
 
 [[files]]
-file = "config/quark-common.toml"
-hash = "7563c8a5416a83d0ec119bdcf356cac48bb04a27a73e0fb2c4d514bd7f1081a8"
+file = "defaultconfigs/bettermodsbutton-client.toml"
+hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
-file = "config/tips-client.toml"
-hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
+file = "defaultconfigs/create-client.toml"
+hash = "cea97aa18991892d849acb9e64fe2a8391cffdf505b4344bc57c9cb195e3fd6c"
 
 [[files]]
-file = "config/vampirism-common.toml"
-hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
+file = "defaultconfigs/extrabotany-client.toml"
+hash = "42f279ec22ab7a16a2118549b22def70435d9209c98cc356948976b7062861b1"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "718bff5ecc613b7367feab47713120b229f10afa2750e6f52c4e37cdc9b6c97e"
+
+[[files]]
+file = "defaultconfigs/iceandfire-client.toml"
+hash = "7edba4ec08ab1f9c0b492f6d181dacfc54ffcfba7efdd50f359302561363e6d8"
+
+[[files]]
+file = "defaultconfigs/itemphysic-client.json"
+hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
+file = "defaultconfigs/performant-common.toml"
+hash = "36542e5af5ff85a538e0ea7595bfc01dca0efb07c4720170ec0157f993b9238f"
+
+[[files]]
+file = "defaultconfigs/quark-common.toml"
+hash = "7563c8a5416a83d0ec119bdcf356cac48bb04a27a73e0fb2c4d514bd7f1081a8"
+
+[[files]]
+file = "defaultconfigs/tips-client.toml"
+hash = "4d9382486d8737356e1175a02008999e0a46216307053570c11ef00064c45911"
+
+[[files]]
+file = "defaultconfigs/vampirism-common.toml"
+hash = "5cf69bb6b5f5490a9996b552b058e7f348a717cf69e39f7c6357bbe2969dfb16"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
