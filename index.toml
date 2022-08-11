@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "1b3bc409982441e993bca4b7ca8dd30b68325df3bf5331cbada39dd3f3408715"
+hash = "b7025b88127f88b684c76e0a874a5dd221de2137cefc3f3cb0c5f7b2424efd85"
 metafile = true
 
 [[files]]
@@ -128,12 +128,12 @@ metafile = true
 
 [[files]]
 file = "mods/camera-overhaul-forge.pw.toml"
-hash = "6deec42c7d9177c9046c2c599bc2cb7591ac9f79d7cc58b0e4f817335aa3c2bf"
+hash = "721f6250965c7053af86ad1037217fbf0ffe7359c162128ca7fd0595f944277f"
 metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "c672f28f4e820ba7b1cb81d8ac7583c5c7f9fcf5118c39884405ed84ad3518b7"
+hash = "9402051f83ba09f407d5c3803a614c47dfb9609ea86667bd9aaa59e76cfbe50a"
 metafile = true
 
 [[files]]
@@ -153,12 +153,8 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "7a4e4048f24290e30da57664de010ab5de5c003ff77f42ea01e7fe228660bbd9"
+hash = "87abcb59a9e02e509cdf3447d09deaa855b1d7a4df3b58b2ddb3ec0f30355d41"
 metafile = true
-
-[[files]]
-file = "mods/cloth-config-4.14.54-forge.jar"
-hash = "5cfe280c0a75b13d97d58ef708c1db87cdf41e188b04ccca8c4a0a7a0d183e5e"
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
@@ -172,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "69c87abad481950f8046e49bf1ec3b2aec942dcf5898b9c122a6f991e432ca3e"
+hash = "90e117ff7a0a0f2165f7631dcb822df33425a3352ced0c8e5a9a43ab1cbcaf43"
 metafile = true
 
 [[files]]
@@ -197,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "38df49547d188cb463b4e8bc7a156b6edff9fd7d3e6e1b953d5190c76da76caf"
+hash = "b706619937b24b01916cae08724c9794dec16c720acc7ef6142fd9d6290fd9a0"
 metafile = true
 
 [[files]]
@@ -212,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "ebac196d4df9a7240edfeaf9246fb75089e84ec33e2e9f1642b99f1690c738fc"
+hash = "79189940ed964c0723b25174d9af3f488652bdb4f7b9900b8a4a558b16fcc289"
 metafile = true
 
 [[files]]
@@ -262,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "83aee32b0f8af9d3223affd9c2da88c15cd1101d0d0c542bebb272275ed2dafc"
+hash = "336571d4676a4fd09807708b70bea995c1144d0ef654e1de2ad8b0e1dfba4936"
 metafile = true
 
 [[files]]
@@ -377,12 +373,12 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "702c6a6d9ac11aef1614a0460ae50b394b5908538eaa33d8e8d2b94bc88f9f5f"
+hash = "1def0c39c6f9c4c942831637466af67c542437de875e76d72db158e469329c94"
 metafile = true
 
 [[files]]
 file = "mods/packmenu.pw.toml"
-hash = "019510c35417d2470633d535fe850e06089f8ad42184ba5409ed38f8df8eb5ae"
+hash = "4bff54663309ddbe5c75a69489d2a6f7feaf2fb7c7bae6e5884fdd179eaaa5e8"
 metafile = true
 
 [[files]]
@@ -442,17 +438,17 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "492e598215aca30892cd868d074eaf5d8aa01eb6f459d159391fbc4a64e2073c"
+hash = "b342e492dd85bd173c78ce33bfe0baf486cf910672029a178db67ef5ec277eb4"
 metafile = true
 
 [[files]]
 file = "mods/seamless-loading-screen-forge.pw.toml"
-hash = "0dcfbf754816c2d4dfae452714699e770efbec61fb47c10015d270436a793d54"
+hash = "85ef906e7a2dc255ad3424347e6793ca8e65186f5545011bfd6e85f43a9e3a9e"
 metafile = true
 
 [[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
-hash = "bdbf0e89c6bdfcac33f44921835b4a7e7b909214d99badb1d8e15200f836bb90"
+hash = "e031fdc8c128699aba2bc0b71adeb148150574a9a7a3cd7a5e6f9650acc879e2"
 metafile = true
 
 [[files]]
@@ -527,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "6f70c07f603477e713eb9733e273a2c4875da805b7b76ffd2819b93f8a95fdfa"
+hash = "a767f625c2950fd39965c8c3c7dce14beb0948228ca3ad5b8452f916353bf9a8"
 metafile = true
 
 [[files]]
