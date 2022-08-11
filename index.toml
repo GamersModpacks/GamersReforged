@@ -472,9 +472,8 @@ hash = "d985b374c125ebf80f2aabf9d947013b10edc2631a7291acddf206952498547c"
 metafile = true
 
 [[files]]
-file = "mods/starlight-x-create.pw.toml"
-hash = "6eca2d9c04d67392eb6cabcbddd156c7d49d29cdf9410c2dce62c14ee3306060"
-metafile = true
+file = "mods/starlight-1.2.jar"
+hash = "b5a1ffc32528249d0fb309ff540ba5c819ddce0f405d88771487b34eeeb8c880"
 
 [[files]]
 file = "mods/structurize.pw.toml"
