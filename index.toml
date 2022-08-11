@@ -157,6 +157,11 @@ hash = "87abcb59a9e02e509cdf3447d09deaa855b1d7a4df3b58b2ddb3ec0f30355d41"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "16359964f8c3179502bc351e0eafab9ead3d1937b33918a14fea5f7574c1353d"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "6fc24b1360d3fa602b18ab310320eacafb8bcbf2f623e1a94273f0bb7166ab56"
 metafile = true
@@ -537,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
-hash = "da008fcb6129f666771047f28b8dbbb27b373909e8831b7bd6be1b03b7009f9b"
+hash = "4374a9cf6419721c19adc4f19bd8691039ecd8c18bd92510c3ca393c712b3a97"
 metafile = true
 
 [[files]]
