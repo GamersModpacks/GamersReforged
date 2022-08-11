@@ -1,6 +1,6 @@
 name = "Client Tweaks"
 filename = "ClientTweaks_1.16.3-5.3.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
