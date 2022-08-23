@@ -1,0 +1,18 @@
+name = "CameraOverhaul (Forge)"
+filename = "cameraoverhaul-1.0-1.18.2.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "Mod that attempts to improve overall satisfaction of the game through the introduction of various camera rotations, to emphasize on the player's movement and improve visual feedback."
+
+[download]
+hash-format = "sha1"
+hash = "1fa5c739148166983bfc1cfd5dddaa8ce9036128"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3709180
+project-id = 443034

@@ -1,11 +1,16 @@
 {
   "version": "14.14",
-  "buildNumber": 323,
+  "buildNumber": 345,
   "loadlist": [
     {
       "name": "ElyBy",
       "type": "ElyByAPI",
       "root": "http://skinsystem.ely.by/textures/"
+    },
+    {
+      "name": "TLauncher",
+      "type": "ElyByAPI",
+      "root": "https://auth.tlauncher.org/skin/profile/texture/login/"
     },
     {
       "name": "Mojang",
@@ -20,7 +25,7 @@
   "forceLoadAllTextures": false,
   "enableCape": true,
   "threadPoolSize": 3,
-  "retryTime": 10,
+  "retryTime": 1,
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,

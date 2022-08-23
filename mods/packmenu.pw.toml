@@ -1,0 +1,13 @@
+name = "PackMenu"
+filename = "PackMenu-1.18.2-4.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e828c6639f7f31db9ea8221f37e9de5bda1c3ece"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929116
+project-id = 358191
