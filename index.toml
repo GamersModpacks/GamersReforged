@@ -17,8 +17,16 @@ file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "a1a58d57bd68ed377c6baf131db6682d98a2f693c2ad4ef8282d6f75057f5e53"
+
+[[files]]
 file = "config/itemphysic-client.json"
 hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
 
 [[files]]
 file = "config/tips.json"
@@ -170,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "f968d2a3952fc6f09a369be1554baf6e53e046761c836d545f698a9bf6cab8f0"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
 metafile = true
 
 [[files]]
