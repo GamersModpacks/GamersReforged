@@ -18,7 +18,7 @@ hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "a1a58d57bd68ed377c6baf131db6682d98a2f693c2ad4ef8282d6f75057f5e53"
+hash = "97ec746ee181a576d1af55627b54035d2ca760fa51d56fd2dbbf9ee0ef8e86fe"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -453,16 +453,6 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "e59479d0d5b7862d9c3dc33832817abaf1bacca07b2c5ad04848baefb7eff3ab"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
 metafile = true
 
 [[files]]
