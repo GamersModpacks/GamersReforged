@@ -18,7 +18,7 @@ hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "97ec746ee181a576d1af55627b54035d2ca760fa51d56fd2dbbf9ee0ef8e86fe"
+hash = "a1a58d57bd68ed377c6baf131db6682d98a2f693c2ad4ef8282d6f75057f5e53"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -226,6 +226,11 @@ hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
