@@ -9,6 +9,10 @@ file = "GamersReforged.png"
 hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
+file = "README.md"
+hash = "155ff93629a52d83c689082dfc91db1e49deaf700730d49bd96e97da0fe21850"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "37ddcfd8b8273e43c1cac83519faeb927a3adbba4352c7e130443bd4e3970fb9"
 

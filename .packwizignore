@@ -7,10 +7,3 @@
 .git/**
 .gitattributes
 .gitignore
-
-# Exclude GitHub files
-/README.md
-/_config.yml
-
-# Exclude exported Modrinth modpacks
-*.mrpack
