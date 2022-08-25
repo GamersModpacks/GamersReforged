@@ -42,7 +42,7 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
-hash = "9a5f728c2a36701a41bf5c485fa2805c01133366184b8c77e176f8f0d1b69a44"
+hash = "87a73e80f9ea99e51f78f855f1307d33e2226d39d61a2f7eb464d646f4439183"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "fbd2561cc4cad462b021a0065099bd3fd8753a7ce94961ad7761e9b5621d1fe2"
+hash = "d279ed85d80892f6ea267a01ce72f2e7368ca148f7246ece0f40867c3f441dc1"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "3081f4b6c43775ee1063c887ee9cb71ab00c7355828cf057f16e50e025baaf85"
+hash = "4d5b6e8e0a65c4242ea9bee88ae72a1cae9445d9be174d5bfab00d8ea1a98b15"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "089ff047dee1d43218bd42c2175104186255923d46432674a37fb9d705dacfa7"
+hash = "50272be0db67a3da6e56d33e4e4597a1568f8f10cc327cd466da8097416f9c77"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "23638214bcf83a5ce0472ae97a14357e524525432e2c2abba8fd839cb57b8a5e"
+hash = "68323eef6e1e6393ca67355b99753dfa7a45b0b7215741f0cb91fe2ada16d317"
 metafile = true
 
 [[files]]
@@ -346,13 +346,13 @@ hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
+file = "mods/name-pain.pw.toml"
+hash = "9c61e5b46068e074f295ac2d7251ac9d2f01993783ec1db83986ee104ae9b83a"
 metafile = true
 
 [[files]]
-file = "mods/packmenu.pw.toml"
-hash = "dfd3120767b66e9c9feca0dfa642bbe0becc5cc5cf0542a0eaaab2f2e76fa7d5"
+file = "mods/oculus.pw.toml"
+hash = "fdab80c3ce0b30a2ca0c45d2a83e7687fa90e6873472208f1fceb1b348000cb5"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
+hash = "4c2e28f523d9af7a57115d03dfe997d396705e63c4781a0427aed96287f4cb3e"
 metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
-hash = "1edb674bf30fb649199bac7414797bac1227dd7ce4f666806c2ed09312edce6c"
+hash = "155adb0d08af7b96ecf3702f98099638346a39243b828aee3574ace9b1a059f6"
 metafile = true
 
 [[files]]
@@ -398,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/seamless-loading-screen-forge.pw.toml"
 hash = "0bb3b485a3d2af81067829de2a995a8510b7ce6d7dc61a9c9c8900269c5f2564"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
 
 [[files]]
@@ -438,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
@@ -538,7 +548,7 @@ hash = "bc287ced59f8a63d1f9c176c86977ac119b4af79270eaaa2a4f144a2bfccbb71"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/lang/en_us.json"
-hash = "7007be2b801a7fe427a4cc0952c2af2aed2601946a0a807994fc9291242e7f5f"
+hash = "a0df5ce1c8eb22f76223ebec5d35afbb165c1719e7b606c59dbf8bc0ebb07929"
 
 [[files]]
 file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
