@@ -49,11 +49,11 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icon16x16.png"
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 hash = "36f15080183dbdb9789e9079cd4d6dbc47d8e7a511c022a1048f9e30e2b05c34"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icon32x32.png"
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
