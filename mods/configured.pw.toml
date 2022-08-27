@@ -1,6 +1,6 @@
 name = "Configured"
 filename = "configured-1.5.4-1.18.2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

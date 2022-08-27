@@ -1,6 +1,6 @@
 name = "Better Mods Button"
 filename = "BetterModsButton-v3.2.2-1.18.2-Forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

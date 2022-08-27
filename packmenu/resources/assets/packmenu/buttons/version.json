@@ -1,9 +1,0 @@
-{
-	"x": 80,
-	"y": 48,
-	"width": 20,
-	"height": 20,
-	"langKey": "pack.version",
-	"action": "OPEN_URL",
-	"data": "https://github.com/Den4enko/GamersReforged/releases"
-}

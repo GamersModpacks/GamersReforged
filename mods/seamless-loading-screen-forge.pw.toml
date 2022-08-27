@@ -1,6 +1,6 @@
 name = "Seamless Loading Screen (Forge)"
 filename = "seamless_loading_screen-1.18-3.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
