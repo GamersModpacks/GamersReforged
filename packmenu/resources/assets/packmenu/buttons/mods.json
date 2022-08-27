@@ -1,9 +1,0 @@
-{
-	"x": -100,
-	"y": 48,
-	"width": 180,
-	"height": 20,
-	"langKey": "pack.name",
-	"action": "OPEN_GUI",
-	"data": "MODS"
-}

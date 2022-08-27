@@ -1,0 +1,4 @@
+version:2975
+autoJump:false
+darkMojangStudiosBackground:true
+lang:ru_ru

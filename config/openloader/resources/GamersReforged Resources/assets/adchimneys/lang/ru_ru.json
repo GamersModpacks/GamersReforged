@@ -1,0 +1,11 @@
+{
+  "block.adchimneys.glass_chimney": "Стеклянный дымоход",
+  "block.adchimneys.metal_chimney": "Железный дымоход",
+  "block.adchimneys.metal_pump": "Железная помпа",
+  "block.adchimneys.metal_vent": "Железная вентиляция",
+  "block.adchimneys.pipe": "Труба для помпы",
+  "block.adchimneys.stone_chimney": "Каменный дымоход",
+  "block.adchimneys.stone_pump": "Каменная помпа",
+  "block.adchimneys.stone_vent": "Каменная вентиляция",
+  "item.adchimneys.wooden_paintbrush": "Деревянная кисточка"
+}

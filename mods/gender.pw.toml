@@ -1,0 +1,18 @@
+name = "Female Gender & Age Mod"
+filename = "[1.18.1]Gender-1.9.2.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "Mod that add Genders."
+
+[download]
+hash-format = "sha1"
+hash = "e1fb638c5dca0f31c23506f8905381f77bdce924"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3687012
+project-id = 48446

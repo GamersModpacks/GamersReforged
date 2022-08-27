@@ -1,6 +1,6 @@
 {
   "version": "14.14",
-  "buildNumber": 345,
+  "buildNumber": 346,
   "loadlist": [
     {
       "name": "ElyBy",
@@ -29,6 +29,6 @@
   "cacheExpiry": 30,
   "forceUpdateSkull": false,
   "enableLocalProfileCache": false,
-  "enableCacheAutoClean": true,
+  "enableCacheAutoClean": false,
   "forceDisableCache": false
 }
