@@ -21,6 +21,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
+file = "config/connectivity-common.toml"
+hash = "1473a798ffec65c01e76ff07f57482d74713b9b816722630d3286e6506c507f5"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "2e58ad38899a4b9d9460e5d1dbe4d4f4aa26c48db5b17e7ad8d021aebe072cfd"
 
@@ -30,15 +34,19 @@ hash = "f32b135e685eadb8c79837fbf6d41da25b8a495b4b6c762abca7cc19fbe0b779"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "31bf8ecfac9836999548912b3ce8a3715daf65a060492dc50bce400635346b68"
+hash = "d2d9c7aca98451ff5cb18a0abec8a2bbc1d1aefc8ed6f30e58c45f987935497a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "9956c0b4ceecde39f6f89e3ef50e8985e8057503b53cd1123c2ca11a8564688c"
+hash = "576de4d14670ee8d0ffa60bb100043f4ae3bf92ca2b9df05a24256e3e8717b33"
+
+[[files]]
+file = "config/fancymenu/customization/menu2.txt"
+hash = "a0a79e5bfc9580ca1f97f89b0df2f22c5982da49738c9109900e98cf7365025c"
 
 [[files]]
 file = "config/fancymenu/logo.png"
@@ -58,7 +66,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_name.txt"
-hash = "ca8ced863ab4bbaa840c25da443a3dc031526ed9c8954dc7048f1771f4d9762e"
+hash = "3135d2d71bff77be4838a7102bbac5b87af7fd0b9aef3d416f963a5afbb19061"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
@@ -149,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
 
 [[files]]
@@ -244,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "9bca203b4cfeacad61b218be013b61c39ce89f00602345db5e1b732627770d9a"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
@@ -397,6 +415,11 @@ hash = "439ad025cefd111c1fd54229173ef81c9d4d97882915dd3197400c474ad763c6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
@@ -488,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/piseks-tinkers-enchantments.pw.toml"
-hash = "fa08983711fc84ae65157e3d7f6bef2c31c0c4473079e78cb477ec4961e3e227"
+hash = "2e540ed4c4b41d02067e6382af90dc3a94dfb3720744228a90811637589b645f"
 metafile = true
 
 [[files]]
@@ -509,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
@@ -598,7 +626,12 @@ metafile = true
 
 [[files]]
 file = "mods/tips.pw.toml"
-hash = "653fe10d1d39369c15fb907eb3b889536cc03d8a848f727978e4b06b4bd9ef5b"
+hash = "5fb0e11234d91a5a4efd5364e18d4c1586f1631d094e5160143bb7d5614a4610"
+metafile = true
+
+[[files]]
+file = "mods/too-fast.pw.toml"
+hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]

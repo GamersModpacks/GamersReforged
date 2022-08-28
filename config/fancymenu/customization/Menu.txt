@@ -19,6 +19,14 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  orientation = bottom-right
+  x = -196
+  action = movebutton
+  y = -10
+}
+
+customization {
   identifier = %id=604346%
   action = hidebutton
 }
@@ -36,7 +44,39 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -4
+  y = -30
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = 105
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = -125
+  action = movebutton
+  y = 20
 }
 
 customization {
@@ -44,7 +84,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -28
+  y = -55
 }
 
 customization {
@@ -52,7 +92,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 20
+  y = -5
 }
 
 customization {
@@ -82,7 +122,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 122
+  x = 186
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
@@ -97,7 +137,7 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 48add4c2-4b11-442c-8945-3ff9dbe1773f1661598563607
-  y = 257
+  y = 332
   height = 40
 }
 
@@ -125,8 +165,8 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
-  x = 119
+  hidden = true
+  x = 183
   width = 274
   action = deep_customization_element:title_screen_logo
   actionid = 14d0d894-9844-44d9-9271-b0539cdfbc0a1661598563608
@@ -135,31 +175,33 @@ customization {
 }
 
 customization {
-  orientation = original
+  orientation = bottom-centered
   splash_color = #ffff00
   hidden = false
   x = 0
   width = 60
-  splash_rotation = -20
+  splash_rotation = 0
   action = deep_customization_element:title_screen_splash
   actionid = a5be8213-c302-493e-9d7d-4bd27c28ab891661598563608
-  y = 0
+  y = -15
   height = 30
 }
 
 customization {
+  vr:showif:guiscale = false
   path = config/fancymenu/logo.png
-  orientation = mid-left
-  x = 0
-  width = 100
+  orientation = mid-centered
+  x = -68
+  width = 135
   action = addtexture
   actionid = 31574d41-0257-497a-8d2a-bb4c4a72f98d1661599836302
-  y = -50
-  height = 100
+  y = -186
+  vr:value:guiscale = >5
+  height = 135
 }
 
 customization {
-  orientation = bottom-right
+  orientation = mid-centered
   enable_scrolling = false
   shadow = true
   scale = 1.0
@@ -168,12 +210,12 @@ customization {
   case_mode = normal
   source_mode = local
   line_spacing = 1
-  x = -202
-  width = 200
+  x = 38
+  width = 18
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
-  y = -20
+  y = -100
   alignment = right
-  height = 9
+  height = 11
 }
 
