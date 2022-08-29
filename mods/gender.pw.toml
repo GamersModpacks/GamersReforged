@@ -1,6 +1,6 @@
 name = "Female Gender & Age Mod"
 filename = "[1.18.1]Gender-1.9.2.jar"
-side = "both"
+side = "client"
 
 [option]
 optional = true

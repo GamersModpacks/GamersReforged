@@ -137,7 +137,7 @@ customization {
   width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 48add4c2-4b11-442c-8945-3ff9dbe1773f1661598563607
-  y = 332
+  y = 358
   height = 40
 }
 
@@ -191,11 +191,11 @@ customization {
   vr:showif:guiscale = false
   path = config/fancymenu/logo.png
   orientation = mid-centered
-  x = -68
+  x = -67
   width = 135
   action = addtexture
   actionid = 31574d41-0257-497a-8d2a-bb4c4a72f98d1661599836302
-  y = -186
+  y = -187
   vr:value:guiscale = >5
   height = 135
 }
@@ -205,17 +205,17 @@ customization {
   enable_scrolling = false
   shadow = true
   scale = 1.0
-  source = config/fancymenu/pack_name.txt
+  source = config/fancymenu/pack_version.txt
   text_border = 0
   case_mode = normal
   source_mode = local
   line_spacing = 1
-  x = 38
-  width = 18
+  x = 11
+  width = 45
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
   y = -100
   alignment = right
-  height = 11
+  height = 10
 }
 

@@ -1,4 +1,6 @@
 version:2975
 autoJump:false
+guiScale:3
 darkMojangStudiosBackground:true
+soundCategory_music:0.0
 lang:ru_ru

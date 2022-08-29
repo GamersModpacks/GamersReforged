@@ -13,20 +13,16 @@ file = "README.md"
 hash = "155ff93629a52d83c689082dfc91db1e49deaf700730d49bd96e97da0fe21850"
 
 [[files]]
-file = "config/ProjectE/client.toml"
-hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
-
-[[files]]
-file = "config/bettermodsbutton-client.toml"
-hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
-
-[[files]]
 file = "config/connectivity-common.toml"
 hash = "1473a798ffec65c01e76ff07f57482d74713b9b816722630d3286e6506c507f5"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2e58ad38899a4b9d9460e5d1dbe4d4f4aa26c48db5b17e7ad8d021aebe072cfd"
+hash = "90bb29bd0d75e17d13680aeb460065de40bc7a450565ec18e9645790c5be8231"
 
 [[files]]
 file = "config/fancymenu/background.png"
@@ -42,7 +38,7 @@ hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "576de4d14670ee8d0ffa60bb100043f4ae3bf92ca2b9df05a24256e3e8717b33"
+hash = "4ab9329f657620b454fc0db67f926f09f470758c13eb2cc7d1a9f5abc8600d65"
 
 [[files]]
 file = "config/fancymenu/customization/menu2.txt"
@@ -53,10 +49,6 @@ file = "config/fancymenu/logo.png"
 hash = "1feb9a1de37759088b41fb1ef6a086f50ab928e68882039590dcea4fc8b153ae"
 
 [[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
 hash = "36f15080183dbdb9789e9079cd4d6dbc47d8e7a511c022a1048f9e30e2b05c34"
 
@@ -65,20 +57,8 @@ file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
 hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
-file = "config/fancymenu/pack_name.txt"
-hash = "3135d2d71bff77be4838a7102bbac5b87af7fd0b9aef3d416f963a5afbb19061"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "d54f903a72df78bb62d59813435ca474be8eb5e9f9519a083382a5e0e6598ed4"
-
-[[files]]
-file = "config/itemphysic-client.json"
-hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+file = "config/fancymenu/pack_version.txt"
+hash = "8c92bebd740430af1b95f3b0deb80df3b03cc6f9d8417b1dffb75d5c37c707b5"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -95,10 +75,6 @@ hash = "92df6bb5207a75cb357ab2d24b739981961458078c0922d1b88339d8805e0513"
 [[files]]
 file = "config/openloader/resources/GamersReforged Resources/assets/adpother/lang/uk_ua.json"
 hash = "1dc0b72e07c8dce71e8e8a5857ac8a8eff83d4f46d0d28e4d7641e4b560bb3a1"
-
-[[files]]
-file = "config/openloader/resources/GamersReforged Resources/assets/compactmachines/lang/ru_ru.json"
-hash = "b5d79b90c87323cddaf0eeb6ed3050a92c9dd709bb8a65087a494e5f951e5c21"
 
 [[files]]
 file = "config/openloader/resources/GamersReforged Resources/assets/jaopca/lang/ru_ru.json"
@@ -133,16 +109,28 @@ file = "config/quark-common.toml"
 hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
 
 [[files]]
-file = "config/tips.json"
-hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
-
-[[files]]
 file = "config/vampirism-common.toml"
 hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
 
 [[files]]
+file = "defaultconfigs/ProjectE/client.toml"
+hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
+
+[[files]]
+file = "defaultconfigs/bettermodsbutton-client.toml"
+hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
+
+[[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
+
+[[files]]
+file = "defaultconfigs/itemphysic-client.json"
+hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
+file = "defaultconfigs/tips.json"
+hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
@@ -172,6 +160,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "934f044442cbc246ab43112ebd5ab982f03f1d44cfa4a6479ad212755d3d6853"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "36b102443ed23e6aaf5f9eb6d1a23079f4114b33f83810c24c58dd814b500dae"
 metafile = true
 
 [[files]]
@@ -250,11 +243,6 @@ hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
 
 [[files]]
-file = "mods/compact-machines.pw.toml"
-hash = "7fa6964ecd8a0410daacb753b9985ba1edb4f1891ef007f3e723bc0d8d04e82d"
-metafile = true
-
-[[files]]
 file = "mods/configured.pw.toml"
 hash = "9bca203b4cfeacad61b218be013b61c39ce89f00602345db5e1b732627770d9a"
 metafile = true
@@ -296,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "4362ae4c00b130a09b7b88aac232461a453a3c13f06d722c9c88c371f52d7f7b"
+hash = "c8969b5a833ea2093f4e810e78360f050c653503d31851a6fa573258f57986e0"
 metafile = true
 
 [[files]]
@@ -355,6 +343,11 @@ hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "a692357c0454cadbddf784a01bda54c2c809fe1827778b3aaecd39ce1576ba45"
+metafile = true
+
+[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "68323eef6e1e6393ca67355b99753dfa7a45b0b7215741f0cb91fe2ada16d317"
 metafile = true
@@ -376,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/gender.pw.toml"
-hash = "5af3e0eaf8388dd53db2c1bdbe5ef3cf0cf60f08682ab725505cedb24eacb390"
+hash = "f098c97ea663fb081b05a7b8c508f69fb5a29ecef09cb3d529513d3e3b168f57"
 metafile = true
 
 [[files]]
@@ -466,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "2081c059fdb96efcd7332938201aa4b2dd8bd3c49e12e0174edf4002f16c63cc"
+hash = "74a4aac731aca28b7564ad28d9308d8a2ed838370170aaa4a5e00f31c7ddaae0"
 metafile = true
 
 [[files]]
@@ -495,13 +488,18 @@ hash = "63b6fdd64cae2366e75e9ce4c08d09743453c2e367b355c80ca4eea175a36e4c"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+hash = "89f195dd6dda89e74c4cd4857852ac711ff026a8bbb8ad6ce2f8fc8cb7d618ea"
 metafile = true
 
 [[files]]
@@ -516,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "4c2e28f523d9af7a57115d03dfe997d396705e63c4781a0427aed96287f4cb3e"
+hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
 
 [[files]]
@@ -542,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "7777c32ebc9230d6af12b3b0c8047f51892d780dd28f309d8cf4b4cf96047bed"
 metafile = true
 
 [[files]]
@@ -612,6 +615,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
 metafile = true
 
 [[files]]
