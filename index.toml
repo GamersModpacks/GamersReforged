@@ -571,6 +571,11 @@ hash = "ee863cbf792131e1b4dc464844f4a3d8938df5aab2e660240563720bf8c6041d"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
