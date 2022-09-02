@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
+hash = "bdf38c74bae5e3097c0725580a16e27bff41d868c31b02d44cb6cf9ec9fc8fdf"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "0b1043ab02026bbb1229480b47cf11a70992602aaca010f463d68dd943c030ae"
+hash = "d3b4b68aa24016f89b31af6fd11483aa2e367995c8c94fc19e95dab70ac8cafc"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
+hash = "234626a75adce0183e664e4fd69ced553f0ffcdb616afb4e507188143d7f2a71"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "8dd636ac2049e80683ce9f56d0e4ef9f48bd33c1f5accdaead9446d6578c73cc"
+hash = "6c957cfcd073cfe908aa408f1d2ee8dea3d0e8715c5c2df282a6f892acb527d1"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Advanced Peripherals"
-filename = "advancedperipherals-1.18.2-0.7.16b.jar"
+filename = "AdvancedPeripherals-0.7.17r.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d8a0ad94ebbc0305d18ce4a1bd5a68f4540de70d"
+hash = "4d219d314bc67459d284377d5071109519c72d9e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3882022
+file-id = 3962458
 project-id = 431725
