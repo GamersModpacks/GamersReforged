@@ -58,7 +58,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "8c92bebd740430af1b95f3b0deb80df3b03cc6f9d8417b1dffb75d5c37c707b5"
+hash = "72d73db944cf6d9a5f11d6c073c1dce0bde28a4d2341caf4ae976e858c62cabc"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -69,12 +69,12 @@ file = "config/openloader/resources/GamersReforged Resources/assets/adchimneys/l
 hash = "92df6bb5207a75cb357ab2d24b739981961458078c0922d1b88339d8805e0513"
 
 [[files]]
-file = "config/openloader/resources/GamersReforged Resources/assets/adchimneys/lang/uk_ua.json"
-hash = "92df6bb5207a75cb357ab2d24b739981961458078c0922d1b88339d8805e0513"
-
-[[files]]
 file = "config/openloader/resources/GamersReforged Resources/assets/adpother/lang/uk_ua.json"
 hash = "1dc0b72e07c8dce71e8e8a5857ac8a8eff83d4f46d0d28e4d7641e4b560bb3a1"
+
+[[files]]
+file = "config/openloader/resources/GamersReforged Resources/assets/compactvoidminers/lang/ru_ru.json"
+hash = "6200bae2d9d0f1979ab85ac48fd1624999159ddb04c4c6a0f90b5c741cdb3978"
 
 [[files]]
 file = "config/openloader/resources/GamersReforged Resources/assets/jaopca/lang/ru_ru.json"
@@ -93,16 +93,9 @@ file = "config/openloader/resources/GamersReforged Resources/pack.png"
 hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
-file = "config/openloader/resources/Russian-Ukraine/assets/minecraft/lang/ru_ru.json"
-hash = "f89949390139a6ec84f7a90505a04e9bfc821aba478cdd21bcc0b7bc7fc37b97"
-
-[[files]]
-file = "config/openloader/resources/Russian-Ukraine/pack.mcmeta"
-hash = "eb07dc443c7768cff2642ef2d43b45643a2aee1385604f3f22470c0b5b8e5b24"
-
-[[files]]
-file = "config/openloader/resources/Russian-Ukraine/pack.png"
-hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
+file = "config/openloader/resources/minecrafttranslation-ru-uk-zip.pw.toml"
+hash = "9b9bc097ab9eb5e9f109e5553fcedd671d8358d5c6d7ba252a827904e87ae0fb"
+metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
@@ -139,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/advanced-peripherals.pw.toml"
-hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
+hash = "f622a1688a2a3a93e7dd8e694809630c5a8c37a90238b06379f832deb17b3fab"
 metafile = true
 
 [[files]]
@@ -189,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mods-button.pw.toml"
-hash = "0b1043ab02026bbb1229480b47cf11a70992602aaca010f463d68dd943c030ae"
+hash = "d3b4b68aa24016f89b31af6fd11483aa2e367995c8c94fc19e95dab70ac8cafc"
 metafile = true
 
 [[files]]
@@ -204,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "50272be0db67a3da6e56d33e4e4597a1568f8f10cc327cd466da8097416f9c77"
+hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
 metafile = true
 
 [[files]]
@@ -248,6 +241,11 @@ hash = "7fa6964ecd8a0410daacb753b9985ba1edb4f1891ef007f3e723bc0d8d04e82d"
 metafile = true
 
 [[files]]
+file = "mods/compact-void-miners.pw.toml"
+hash = "25d23c3dd161b980bdef585913a52b675ccdaf76591478c660513dabbf8a42d3"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "9bca203b4cfeacad61b218be013b61c39ce89f00602345db5e1b732627770d9a"
 metafile = true
@@ -259,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "d8621770945f2ff0d1d86b8c331db169c958791182897c1c1a6c3171ad5dff34"
+hash = "2bb8d5828c1da3d573580eeaa2f59f673e036e8a4396836c505b3bdbb6f90ba9"
 metafile = true
 
 [[files]]
@@ -399,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
+hash = "234626a75adce0183e664e4fd69ced553f0ffcdb616afb4e507188143d7f2a71"
 metafile = true
 
 [[files]]
@@ -464,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "74a4aac731aca28b7564ad28d9308d8a2ed838370170aaa4a5e00f31c7ddaae0"
+hash = "906a869854942323a98c0f1cd4d099cb6a3ce0cff914e0e6c026a0911dc05a81"
 metafile = true
 
 [[files]]
@@ -490,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/name-pain.pw.toml"
 hash = "63b6fdd64cae2366e75e9ce4c08d09743453c2e367b355c80ca4eea175a36e4c"
+metafile = true
+
+[[files]]
+file = "mods/no-unused-chunks.pw.toml"
+hash = "6c957cfcd073cfe908aa408f1d2ee8dea3d0e8715c5c2df282a6f892acb527d1"
 metafile = true
 
 [[files]]
@@ -549,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "7777c32ebc9230d6af12b3b0c8047f51892d780dd28f309d8cf4b4cf96047bed"
+hash = "6efff92d62cdb91c06c103c40d7dfb7e927cf21ac9b8d4e467483aabbad5edc8"
 metafile = true
 
 [[files]]
@@ -568,6 +571,11 @@ hash = "ee863cbf792131e1b4dc464844f4a3d8938df5aab2e660240563720bf8c6041d"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e705e2ce376b668a71f275ed809285b1ce5aa40e4c9ab6efd598d9bb0a9c9004"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
@@ -579,17 +587,17 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
+hash = "e2dbc85275f9b15453b60eb4e9f2c8545d480b8de435d05da684e92b2ed894e2"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e8fb28e1cb542bda89984dbf4a5ecbb85f29380f58e365b176ae568bb0881a70"
+hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4b9a08d59ef1dd59731faa0482ea3e172d70c90fe3499fa9dee6094f20ac3f94"
+hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
 metafile = true
 
 [[files]]
@@ -619,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true
 
 [[files]]
@@ -659,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "0aa382280323cf3d579837f656889d579d9b23d50094715754151343b5ac40a7"
+hash = "1a1e89df17e904bfc0b0f1e9adf267c98b53d6575b8551a2e6dd690f512edfcf"
 metafile = true
 
 [[files]]
