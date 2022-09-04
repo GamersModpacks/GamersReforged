@@ -13,6 +13,10 @@ file = "README.md"
 hash = "155ff93629a52d83c689082dfc91db1e49deaf700730d49bd96e97da0fe21850"
 
 [[files]]
+file = "config/Mekanism/additions.toml"
+hash = "2ddcd49dbbc04b096ed9ea043d35d76b7c9c3b15db005dba4234f64db934432a"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
