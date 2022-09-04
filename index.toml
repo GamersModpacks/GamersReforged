@@ -13,6 +13,10 @@ file = "README.md"
 hash = "155ff93629a52d83c689082dfc91db1e49deaf700730d49bd96e97da0fe21850"
 
 [[files]]
+file = "config/Mekanism/additions.toml"
+hash = "2ddcd49dbbc04b096ed9ea043d35d76b7c9c3b15db005dba4234f64db934432a"
+
+[[files]]
 file = "config/ProjectE/client.toml"
 hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
@@ -46,7 +50,7 @@ hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "4ab9329f657620b454fc0db67f926f09f470758c13eb2cc7d1a9f5abc8600d65"
+hash = "bc9634bf4084dbb3296b7c2c0016b59f6a36e4668a85c1429885838d5b852c66"
 
 [[files]]
 file = "config/fancymenu/customization/menu2.txt"
@@ -66,7 +70,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "da90bdc8938f7cc9e454422bf9a9f9e5a6de1ff168b63477cabd02d31d001be7"
+hash = "8a199b120cf400d69c300e1dd6eacdc8b0002353e3044bbab21e0125b32c9fd6"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -167,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "934f044442cbc246ab43112ebd5ab982f03f1d44cfa4a6479ad212755d3d6853"
+hash = "933eda2028cd9d87fa8b82453c50c606679a5289ff66935947e5ab669159706c"
 metafile = true
 
 [[files]]
@@ -207,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
+hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
 metafile = true
 
 [[files]]
@@ -407,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/jaopca.pw.toml"
-hash = "3dabb4f9fcbb2ec22f748e009851d1883b32b3bf473a7e6d6a4fb5aa544e1cbe"
+hash = "5a8a4b4c8d75a9385431da86d4ed8c4d2cdbfd7aae601c5961f55c3160408de0"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "234626a75adce0183e664e4fd69ced553f0ffcdb616afb4e507188143d7f2a71"
+hash = "a24d888d2812355aa2e9e82a2fc6f4959eb4f2e0aa67a9778a428f0c93202394"
 metafile = true
 
 [[files]]
@@ -477,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "906a869854942323a98c0f1cd4d099cb6a3ce0cff914e0e6c026a0911dc05a81"
+hash = "6662dccc195f4226d9305561bf1ef9b5856e4c4ada43691def90e0177ae501ee"
 metafile = true
 
 [[files]]
@@ -602,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "e2dbc85275f9b15453b60eb4e9f2c8545d480b8de435d05da684e92b2ed894e2"
+hash = "4a8e384093c595b157704dfc38ad91eacc07798291dd7e619e04bf55c20b6e70"
 metafile = true
 
 [[files]]
@@ -668,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+metafile = true
+
+[[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "150f460e800d2d4a3b9a064a69301618358d2c86ef0620d59c190766129c6860"
 metafile = true
 
 [[files]]
