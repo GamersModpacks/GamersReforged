@@ -13,6 +13,14 @@ file = "README.md"
 hash = "155ff93629a52d83c689082dfc91db1e49deaf700730d49bd96e97da0fe21850"
 
 [[files]]
+file = "config/ProjectE/client.toml"
+hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
+
+[[files]]
+file = "config/bettermodsbutton-client.toml"
+hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "1473a798ffec65c01e76ff07f57482d74713b9b816722630d3286e6506c507f5"
 
@@ -58,7 +66,15 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "48411672e283f50d5c3372c0eebf48f802fc18f2d84fc6226037e13585fe87d5"
+hash = "da90bdc8938f7cc9e454422bf9a9f9e5a6de1ff168b63477cabd02d31d001be7"
+
+[[files]]
+file = "config/itemphysic-client.json"
+hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
+
+[[files]]
+file = "config/movingelevators-common.toml"
+hash = "f5f5ed44008d779952032b37ac5cc55b98f4d2e3e9ea090d8964803459a1596f"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -93,37 +109,36 @@ file = "config/openloader/resources/GamersReforged Resources/pack.png"
 hash = "3caa492e3139d94b59eb21328c925c1029f15031719eb3950480290046afc9a4"
 
 [[files]]
-file = "config/openloader/resources/minecrafttranslation-ru-uk-zip.pw.toml"
-hash = "9b9bc097ab9eb5e9f109e5553fcedd671d8358d5c6d7ba252a827904e87ae0fb"
-metafile = true
+file = "config/openloader/resources/RU_UK/README.md"
+hash = "c6c3a2a4fb29a31e529da1093075c5a5fb92e1bb72910650eacea93c17d4d9fe"
+
+[[files]]
+file = "config/openloader/resources/RU_UK/assets/minecraft/lang/ru_ru.json"
+hash = "f89949390139a6ec84f7a90505a04e9bfc821aba478cdd21bcc0b7bc7fc37b97"
+
+[[files]]
+file = "config/openloader/resources/RU_UK/pack.mcmeta"
+hash = "8abc6e63908aa30ff5072895bc1414398d2dc7d40a01d0766ff81c74b3f6cabc"
+
+[[files]]
+file = "config/openloader/resources/RU_UK/pack.png"
+hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
 
 [[files]]
 file = "config/quark-common.toml"
 hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
 
 [[files]]
+file = "config/tips.json"
+hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
+
+[[files]]
 file = "config/vampirism-common.toml"
 hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
 
 [[files]]
-file = "defaultconfigs/ProjectE/client.toml"
-hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
-
-[[files]]
-file = "defaultconfigs/bettermodsbutton-client.toml"
-hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
-
-[[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
-
-[[files]]
-file = "defaultconfigs/itemphysic-client.json"
-hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
-
-[[files]]
-file = "defaultconfigs/tips.json"
-hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
