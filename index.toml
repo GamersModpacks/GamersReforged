@@ -37,6 +37,10 @@ file = "config/defaultoptions/options.txt"
 hash = "90bb29bd0d75e17d13680aeb460065de40bc7a450565ec18e9645790c5be8231"
 
 [[files]]
+file = "config/enigmaticlegacy-client.omniconf"
+hash = "c640bb9d1d1d9a47e5a113126e384e9bccf5409bc52837e28c9622cb8c399d3b"
+
+[[files]]
 file = "config/fancymenu/background.png"
 hash = "f32b135e685eadb8c79837fbf6d41da25b8a495b4b6c762abca7cc19fbe0b779"
 
@@ -70,7 +74,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "94d362738276c994337f42f6438216b264d4dc30c9856a443f128cf8a4b5fb3e"
+hash = "9e60de0d254eb9beb88ca8e4afaf8eaa70bc70ede1e685a47d2e884d2ca7bf4c"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -494,6 +498,11 @@ hash = "cc187262a99d96a81737a781220ba568fe5c216c9109b030d1a9bad82af10b0e"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
+metafile = true
+
+[[files]]
 file = "mods/more-mekanism-processing.pw.toml"
 hash = "fea1c7d6b98b6606ae17a2e436d7158dd1ec86c29c8af4a500b42d66fa70a00e"
 metafile = true
@@ -716,3 +725,8 @@ metafile = true
 [[files]]
 file = "pack.ico"
 hash = "7359b1780eb1ecdc21b5566b8302f358f822d46ff57c3d8d2fa258b90d4656ef"
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
+metafile = true
