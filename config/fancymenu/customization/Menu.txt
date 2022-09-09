@@ -214,7 +214,7 @@ customization {
   width = 45
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
-  y = -101
+  y = -99
   alignment = right
   height = 10
 }
