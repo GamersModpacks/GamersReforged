@@ -1,13 +1,13 @@
 name = "GamersReforged"
 author = "Den4enko"
-version = "3.6.1"
+version = "3.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "186418c90a789805e0684a26c4118272a278af7e4409910ea492beec243fd6d6"
+hash = "2c815dd3023b9211ad068eb3f96d070696af0152918c996be7d87f5df998dd05"
 
 [versions]
-forge = "40.1.76"
+forge = "40.1.79"
 minecraft = "1.18.2"
