@@ -78,7 +78,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "b1133c6354aaff809f802709e53dacce82e609f9dc426c2da77dc68cf6fe64a0"
+hash = "332b5ada10be1415024aa8aba4509f27154a3285b0c15e296f0264487229aa13"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -143,6 +143,10 @@ hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
 [[files]]
 file = "config/quark-common.toml"
 hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
+
+[[files]]
+file = "config/securitycraft-client.toml"
+hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
 [[files]]
 file = "config/tips.json"
