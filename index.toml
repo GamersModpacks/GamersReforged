@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "1906bc5272827361345f85d779ded888c71d5e7e5d9281623dd1efa634dfd22a"
+hash = "8d38d9358b37d33cb3b297ca817000fb4616739cacb43af0617ab51350235146"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -78,7 +78,7 @@ hash = "49e61ed4b09b3e7b694999fb83e8921c41d066c91a60f453108f6fdcb753375e"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "332b5ada10be1415024aa8aba4509f27154a3285b0c15e296f0264487229aa13"
+hash = "0fa04adf7214e7f48f259079f7fae9332d5c37a43070769f3d052f1a98e2952f"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -266,11 +266,6 @@ hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
 metafile = true
 
 [[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "7c7301504c626b78f791eb968da055653f300f0ab4e9c04e92cfd4126b0e9b5e"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
@@ -343,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "032f4b23da6df46a3ab0792e5b4ae17b3c20bcc0f716404566f1cd2752bb09d0"
+metafile = true
+
+[[files]]
+file = "mods/ender-mail.pw.toml"
+hash = "34fecd1b999d0f5a1f68ecef1a2314f2bc2beec9ca66a1f036afe8a7d61b421d"
 metafile = true
 
 [[files]]
