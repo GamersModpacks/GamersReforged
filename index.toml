@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-overhaul-forge.pw.toml"
-hash = "c9cdb1bfa4b85193b8c12234c107dd28ef94b033cfd9d27a5af7f97908a085a9"
+hash = "71142556910e186edc036db6c524feab1b8333e20176c301ffce40a23e02b4b7"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "a692357c0454cadbddf784a01bda54c2c809fe1827778b3aaecd39ce1576ba45"
+hash = "54166028fa849b32f2dbf459a39ddb43987f2b9714ca288cd9fe71bb7ea217e6"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/load-my-resources-forge.pw.toml"
-hash = "60146138241d44eceeb3bdc4258bb503afdc5ef5751f2ccec0578a75b2d6f02c"
+hash = "2a6ba9d3543f1aa485e66ebd1b8195178eb6c5b5b79e381ec1d7a7a806f7afb7"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
-hash = "7bfa34ea9ad11fe95d1973cba7fe19925b7946c3f51496f235526c6659bb7c47"
+hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
-hash = "d9502341fa600fa326bed44c420aef657638b15f1093caeeba6776301cf83f93"
+hash = "2bd2e39431ae8fcbbe3a2f4c27e2b95270f9b1bc6f86e32d770d7871d261084f"
 metafile = true
 
 [[files]]
