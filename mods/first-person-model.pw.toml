@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
 description = "Enables the third-person Model in first-person, so you can experience Minecraft from Steve's real perspective."
 
 [download]
