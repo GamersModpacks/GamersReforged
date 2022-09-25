@@ -1,13 +1,13 @@
 name = "Corail Tombstone"
-filename = "tombstone-7.5.1-1.18.2.jar"
+filename = "tombstone-7.5.2-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac98f6d3cdb02a34c522cf1fe2d168fa92f9ea70"
+hash = "4f329adb65e9267685c0d66d7b542b0c5eede8b0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3973639
+file-id = 3995474
 project-id = 243707
